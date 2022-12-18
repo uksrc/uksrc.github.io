@@ -21,8 +21,7 @@ title_separator          : "-"
 subtitle                 : "funded by STFC"
 name                     : "UKSRC"
 description              : "Enable researchers to harness SKA data and explore the beginning of the universe in the UK and beyond"
-url                      : "https://louisechisholm.github.io/testing/"
-baseurl                  :  
+
 repository               : "LouiseChisholm/testing"
 teaser                   : 
 logo                     : "/assets/images/SKAO-UKSRC_LOGO_HORIZ_GBR_cmyk_5000px.jpg"
