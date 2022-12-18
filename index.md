@@ -4,7 +4,7 @@ layout: splash
 permalink: /
 header:
   overlay_image: /assets/images/SKA-at-Night.jpg
-  caption: "Photo credit: [**SKAO**]"
+  caption: "Credit: [**SKAO**]"
 excerpt: "Working to enable researchers to harness SKA data and explore the beginning of the universe in the UK and beyond "
 intro: 
   - excerpt: 'Nullam suscipit et nam, tellus velit pellentesque at malesuada, enim eaque. Quis nulla, netus tempor in diam gravida tincidunt, *proin faucibus* voluptate felis id sollicitudin. Centered with `type="center"`'
