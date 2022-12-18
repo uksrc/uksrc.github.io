@@ -18,7 +18,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 locale                   : "en-UK"
 title                    : "UK SKA Regional Centre Project"
 title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
+subtitle                 : "funded by STFC"
 name                     : "UKSRC"
 description              : "Enable researchers to harness SKA data and explore the beginning of the universe in the UK and beyond"
 url                      : "https://louisechisholm.github.io/testing/"
