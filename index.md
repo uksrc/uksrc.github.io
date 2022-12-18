@@ -3,8 +3,6 @@ title: "Home"
 layout: splash
 permalink: /
 header:
-  overlay_color: "#000"
-  overlay_filter: "0.0"
   overlay_image: /assets/images/SKA-at-Night.jpg
   caption: "Photo credit: [**SKAO**]"
 excerpt: "Working to enable researchers to harness SKA data and explore the beginning of the universe in the UK and beyond "
