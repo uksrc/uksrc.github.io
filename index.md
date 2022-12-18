@@ -13,5 +13,5 @@ excerpt: >
   Working to enable researchers to harness SKA data and explore the beginning of the universe in the UK and beyond <br />
   <small><a href="https://github.com/mmistakes/minimal-mistakes/releases/tag/4.24.0">Latest release v4.24.0</a></small>
 ---
-
+ 
 {% include feature_row %}
