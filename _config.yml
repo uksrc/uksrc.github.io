@@ -15,17 +15,18 @@
 minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "en-UK"
+locale                   : "en-US"
 title                    : "UK SKA Regional Centre Project"
 title_separator          : "-"
-subtitle                 : "funded by STFC"
+subtitle                 : # site tagline that appears below site title in masthead
 name                     : "UKSRC"
 description              : "Enable researchers to harness SKA data and explore the beginning of the universe in the UK and beyond"
-
-repository               : "LouiseChisholm/testing"
-teaser                   : 
-logo                     : "/assets/images/SKAO-UKSRC_LOGO_HORIZ_GBR_cmyk_5000px.jpg"
-masthead_title           : "UK SKA Regional Centre Project"
+url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl                  : # the subpath of your site, e.g. "/blog"
+repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+logo                     : # /assets/images/88x88.png
+masthead_title           : " "
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
@@ -80,7 +81,7 @@ baidu_site_verification  :
 
 # Social Sharing
 twitter:
-  username               :  
+  username               :
 facebook:
   username               :
   app_id                 :
@@ -103,26 +104,53 @@ analytics:
 
 # Site Author
 author:
-  name             : "UKSRC"
+  name             : "Your Name"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : " "
-  location         : "UK"
+  bio              : "I am an **amazing** person."
+  location         : "Somewhere"
   email            :
   links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      # url: "mailto:your.name@email.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      # url: https://twitter.com/UK_SKARC
-    
+      # url: "https://twitter.com/"
+    - label: "Facebook"
+      icon: "fab fa-fw fa-facebook-square"
+      # url: "https://facebook.com/"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      # url: "https://github.com/"
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      # url: "https://instagram.com/"
+
 # Site Footer
 footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/UK_SKARC"
-     
+      # url:
+    - label: "Facebook"
+      icon: "fab fa-fw fa-facebook-square"
+      # url:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      # url:
+    - label: "GitLab"
+      icon: "fab fa-fw fa-gitlab"
+      # url:
+    - label: "Bitbucket"
+      icon: "fab fa-fw fa-bitbucket"
+      # url:
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      # url:
+
 
 # Reading Files
 include:
