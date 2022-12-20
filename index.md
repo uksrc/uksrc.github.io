@@ -13,7 +13,7 @@ From right: A artist's impression of the future SKA-Low stations blends into the
 intro: 
   - excerpt: "Working to enable researchers to harness SKA data and explore the beginning of the universe in the UK and beyond."
 feature_row:
-  - image_path: assets/images/unsplash-gallery-image-1-th.jpg
+  - image_path: assets/images/source-600x400.jpg
     alt: "placeholder image 1"
     title: "Placeholder 1"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
