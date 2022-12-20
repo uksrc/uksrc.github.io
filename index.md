@@ -15,8 +15,8 @@ intro:
 feature_row:
   - image_path: assets/images/source-600x400.jpg
     alt: "Source code text in yellow and pink overlaying a blurry photo  of computer racks.  Credit: Elchinator from Pixabay"
-    title: "Developing digital research infrastructure"
-    excerpt: "To analyse 700PB of data generated per year by the SKA telescopes"
+    title: "Novel digital research infrastructure"
+    excerpt: "Developing computational and data facilities, tools, and services that will enable analysis of 700PB of data generated per year by the SKA telescopes"
   - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
     image_caption: "Image courtesy of [Unsplash]"
     alt: "placeholder image 2"
