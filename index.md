@@ -7,6 +7,9 @@ header:
   overlay_filter: "0.5"
   overlay_image: /assets/images/SKA-at-Night.jpg
   caption: "Credit: SKAO"
+  alt: "A composite image of the future SKA telescopes, blending what already exists on site with artist's impressions. 
+From left: An artist's impression of the future SKA-Mid dishes blend into the existing precursor MeerKAT telescope dishes in South Africa. 
+From right: A artist's impression of the future SKA-Low stations blends into the existing AAVS2.0 prototype station in Australia"
 intro: 
   - excerpt: "Working to enable researchers to harness SKA data and explore the beginning of the universe in the UK and beyond."
 feature_row:
