@@ -1,12 +1,12 @@
 # main links
 main:
-  - title: "About"
+  - title: "Vacancies"
     url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   - title: "Background"
     url: https://mmistakes.github.io/minimal-mistakes/about/
   - title: "Project"
     url: /Project/
-  # - title: "Sample Collections"
+  - title: "About"
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
