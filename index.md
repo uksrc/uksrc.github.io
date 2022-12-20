@@ -8,6 +8,7 @@ header:
   overlay_image: /assets/images/SKA-at-Night.jpg
 intro: 
   - excerpt: "Working to enable researchers to harness SKA data and explore the beginning of the universe in the UK and beyond."
+
 feature_row:
   - image_path: /assets/splash/feat1-1.jpg
     title: "Placeholder 1"
