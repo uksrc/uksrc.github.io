@@ -24,7 +24,7 @@ feature_row:
     image_caption: "Image courtesy of [Unsplash]"
     alt: "placeholder image 2"
     title: "Working with the UK astronomy community"
-    excerpt: "Opportunities for astronomers to develop their skills to harness the UKSRC's future capabilities and SKA data to enable research into the evolution of the early universe"
+    excerpt: "Opportunities for astronomers to develop their skills in preparation for the UKSRC and SKA data which will enable research into the evolution of the early universe"
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--primary"
