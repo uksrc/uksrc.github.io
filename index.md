@@ -24,7 +24,6 @@ feature_row:
   - image_path: /assets/images/unsplash-gallery-image-3-th.jpg
     title: "Placeholder 3"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
-
 ---
 
 {% include feature_row id="intro" type="center" %}
