@@ -1,5 +1,5 @@
 ---
-title: "Splash Page"
+title: "UK SKA Regional Centre Project"
 layout: splash
 permalink: //
 header:
@@ -9,6 +9,6 @@ header:
   actions:
     - label: "Download"
       url: "#test-link"
-excerpt: "Bacon ipsum dolor sit amet salami ham hock ham, hamburger corned beef short ribs kielbasa biltong t-bone drumstick tri-tip tail sirloin pork chop."
+excerpt: "Working to enable UK-based researchers to explore the beginning of the universe by harnessing SKA data"
 ---
 Add some intro textPermalink
