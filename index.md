@@ -23,8 +23,8 @@ feature_row:
   - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
     image_caption: "Image courtesy of [Unsplash]"
     alt: "placeholder image 2"
-    title: "Placeholder 2"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+    title: "Working with astronomy community"
+    excerpt: "To engage and develop the UK Community, ensuring the the project meets the needs of the astronomy community"
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--primary"
