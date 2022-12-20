@@ -16,15 +16,17 @@ feature_row:
   - image_path: assets/images/source-600x400.jpg
     alt: "Source code text in yellow and pink overlaying a blurry photo  of computer racks.  Credit: Elchinator from Pixabay"
     title: "Novel digital research infrastructure"
-    excerpt: "Developing computational and data facilities, tools, and services that will enable analysis of 700PB of data generated per year by the SKA telescopes"
+    excerpt: "Developing global computational and data facilities, tools, and services that will enable analysis of 700PB of data generated per year by the SKA telescopes"
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--primary"
-  - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
+  - image_path: assets/images/source-600x400.jpg
     image_caption: "Image courtesy of [Unsplash]"
     alt: "placeholder image 2"
-    title: "Working with astronomy community"
-    excerpt: "To engage and develop the UK Community, ensuring the the project meets the needs of the astronomy community"
+    title: "Working with the astronomy community"
+    excerpt: "Engaging and developing UK-based astronomers to enable research into the evolution of the early Universe"
+
+"
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--primary"
