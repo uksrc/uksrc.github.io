@@ -15,8 +15,7 @@ intro:
 feature_row:
   - image_path: assets/images/source-600x400.jpg
     alt: "placeholder image 1"
-    title: "Placeholder 1"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+    excerpt: "Developing digital research infrastructure that will enable astronomers to analyse the 700 PB of data generated per year by the SKA telescopes"
   - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
     image_caption: "Image courtesy of [Unsplash](https://unsplash.com/)"
     alt: "placeholder image 2"
