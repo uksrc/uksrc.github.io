@@ -23,8 +23,8 @@ feature_row:
   - image_path: assets/images/source-600x400.jpg
     image_caption: "Image courtesy of [Unsplash]"
     alt: "placeholder image 2"
-    title: "Working with the astronomy community"
-    excerpt: "Engaging and developing UK-based astronomers to enable researchers to harness SKA data and explore the evolution of the early universe"
+    title: "Working with the UK astronomy community"
+    excerpt: "Enabling researchers to develop their skills to undertake research harnessing  SKAO data and the UKSRC's future capabilities"
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--primary"
