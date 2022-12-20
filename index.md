@@ -14,11 +14,11 @@ intro:
   - excerpt: "Working to enable researchers to harness SKA data and explore the beginning of the universe in the UK and beyond."
 feature_row:
   - image_path: assets/images/source-600x400.jpg
-    alt: "placeholder image 1"
+    alt: "Source code text in yellow and pink overlaying a blurry photo  of computer racks.  Credit: Elchinator from Pixabay"
     title: "Developing digital research infrastructure"
     excerpt: "To analyse 700PB of data generated per year by the SKA telescopes"
   - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
-    image_caption: "Image courtesy of [Unsplash](https://unsplash.com/)"
+    image_caption: "Image courtesy of [Unsplash]"
     alt: "placeholder image 2"
     title: "Placeholder 2"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
