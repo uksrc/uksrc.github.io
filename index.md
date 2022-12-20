@@ -24,12 +24,12 @@ feature_row:
     image_caption: "Image courtesy of [Unsplash]"
     alt: "placeholder image 2"
     title: "Working with the UK astronomy community"
-    excerpt: "Opportunities for astronomers to inform the UKSRC's development and to enhance their skills to enable the exploration of evolution of the early universe using SKA data" 
+    excerpt: "Opportunities for astronomers to inform the UKSRC's development and to enhance their skills to enable the exploration of evolution of the early universe using SKA data" prepared for early exploitation of the opportunities afforded by the SKA.
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--primary"
-  - image_path: /assets/images/unsplash-gallery-image-3-th.jpg
-    title: "Placeholder 3"
+  - image_path: assets/images/source-600x400.jpg
+    title: "Contributing to an international SRC Network"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
 ---
 
