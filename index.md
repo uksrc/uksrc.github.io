@@ -17,6 +17,7 @@ feature_row:
     alt: "Source code text in yellow and pink overlaying a blurry photo  of computer racks.  Credit: Elchinator from Pixabay"
     title: "Novel digital research infrastructure"
     excerpt: "Developing computational and data facilities, tools, and services that will enable analysis of 700PB of data generated per year by the SKA telescopes"
+    url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--primary"
   - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
