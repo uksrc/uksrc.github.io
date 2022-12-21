@@ -18,8 +18,7 @@ feature_row:
     image_caption: "Robert Braun"
     alt: "A barred spiral galaxy. Image courtesy of NASA, ESA and the Hubble Heritage Team (STScI/AURA)."
     title: "Strengthening the UK astronomy community"
-    excerpt: "Working with the UK astronomers to prepare 
-prepared for early exploitation of the opportunities afforded by the SKAWorking with astronomers to enable the exploration of evolution of the early universe using SKA data" 
+    excerpt: "Providing opportunities for UK astronomers to inform the UKSRC's development and to enhance their skills in preparation for the deployment of the SKA telescopes" 
   - image_path: assets/images/SKA-at-Night-600x400 .jpg
     image_caption: "Credit: SKAO"
     title: "Enabling research across the world"
