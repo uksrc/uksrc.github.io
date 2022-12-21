@@ -11,7 +11,7 @@ intro:
   - excerpt: "Working to enable researchers to harness SKA data and explore the beginning of the universe in the UK and beyond."
 feature_row:
   - image_path: assets/images/source-600x400.jpg
-    alt: "Source code text in yellow and pink overlaying a blurry photo  of computer racks.  
+    alt: "Source code text in yellow and pink overlaying a blurry photo  of computer racks."  
     title: "Global digital research infrastructure"
     excerpt: "Developing innovative computational and data facilities, tools, and services that will enable analysis of 700PB of data generated per year by the SKA telescopes"
     url: "#test-link"
