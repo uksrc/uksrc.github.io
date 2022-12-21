@@ -1,9 +1,9 @@
 ---
-title: "About"
+title: " "
 layout: splash
 permalink: /about/
 header:
-  overlay_image: /assets/images/hd-wallpaper-2695569.jpg
+  overlay_image: /assets/images/logos-splash-skao-uksrc-ukri-stfc.png
 ---
 
 ## Vision ##
