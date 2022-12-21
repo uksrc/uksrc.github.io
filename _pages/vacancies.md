@@ -4,6 +4,8 @@ title: "Vacancies"
 type: pages
 values:
   layout: single
+header:
+  image: /assets/images/SKA-Daytime-UKSRC-logos.png.png
 ---
 **Vacancies**
 
