@@ -6,7 +6,8 @@ header:
   overlay_image: /assets/images/logos-splash-skao-uksrc-ukri-stfc.png
   alt: " "
 intro: 
-  - excerpt: "Square Kilometer Array (SKA) telescopes will revolutionize radio astronomy. The UK SKA Regional Centre (UKSRC) will, as part of a global network, enable researchers to explore the evolution of the early universe."
+  - excerpt: "Square Kilometer Array (SKA) telescopes will revolutionize radio astronomy.  (br>) 
+    The UK SKA Regional Centre (UKSRC) will, as part of a global network, enable researchers to explore the evolution of the early universe."
 feature_row:
   - image_path: assets/images/source-600x400.jpg
     alt: "Source code text in yellow and pink overlaying a blurry photo  of computer racks."  
