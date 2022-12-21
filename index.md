@@ -1,5 +1,5 @@
 ---
-title: "UK SKA Regional Centre Project"
+title: " "
 layout: splash
 permalink: //
 header:
