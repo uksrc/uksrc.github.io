@@ -4,7 +4,6 @@ layout: splash
 permalink: //
 header:
   overlay_image: /assets/images/logos-splash-skao-uksrc-ukri-stfc.png
-  caption: "Credit: SKAO"
   alt: "A composite image of the future SKA telescopes, blending what already exists on site with artist's impressions. 
 From left: An artist's impression of the future SKA-Mid dishes blend into the existing precursor MeerKAT telescope dishes in South Africa. 
 From right: A artist's impression of the future SKA-Low stations blends into the existing AAVS2.0 prototype station in Australia"
@@ -12,14 +11,14 @@ intro:
   - excerpt: "Working to enable researchers to harness SKA data and explore the beginning of the universe in the UK and beyond."
 feature_row:
   - image_path: assets/images/source-600x400.jpg
-    alt: "Source code text in yellow and pink overlaying a blurry photo  of computer racks.  Credit: Elchinator from Pixabay"
+    alt: "Source code text in yellow and pink overlaying a blurry photo  of computer racks.  
     title: "Global digital research infrastructure"
     excerpt: "Developing innovative computational and data facilities, tools, and services that will enable analysis of 700PB of data generated per year by the SKA telescopes"
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--primary"
   - image_path: assets/images/source-600x400.jpg
-    image_caption: "Image courtesy of [Unsplash]"
+    image_caption: "XXX"
     alt: "placeholder image 2"
     title: "Strengthening the UK astronomy community"
     excerpt: "Working with astronomers to enable the exploration of evolution of the early universe using SKA data" 
@@ -27,6 +26,7 @@ feature_row:
     btn_label: "Read More"
     btn_class: "btn--primary"
   - image_path: assets/images/SKA-at-Night-600x400 .jpg
+    image_caption: "Credit: SKAO"
     title: "Enabling research across the world"
     excerpt: "Working with international partners to "
     url: "#test-link"
