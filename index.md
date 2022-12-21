@@ -12,8 +12,8 @@ intro:
 feature_row:
   - image_path: assets/images/source-600x400.jpg
     alt: "Source code text in yellow and pink overlaying a blurry photo  of computer racks."  
-    title: "Global digital research infrastructure"
-    excerpt: "Developing innovative computational and data facilities, tools, and services that will enable analysis of 700PB of data generated per year by the SKA telescopes"
+    title: "Innovative digital research infrastructure"
+    excerpt: "Developing internationally interoperable computational and data facilities, tools, and services that will enable analysis of 700PB of data generated per year by the SKA telescopes"
   - image_path: assets/images/BarredSpiral-hst-600x400.png
     image_caption: "Robert Braun"
     alt: "A barred spiral galaxy. Image courtesy of NASA, ESA and the Hubble Heritage Team (STScI/AURA)."
@@ -21,8 +21,8 @@ feature_row:
     excerpt: "Providing opportunities for UK astronomers to inform the UKSRC's development and to enhance their skills in preparation for the deployment of the SKA telescopes" 
   - image_path: assets/images/SKA-at-Night-600x400 .jpg
     image_caption: "Credit: SKAO"
-    title: "Enabling research across the world"
-    excerpt: "Working with international partners to "
+    title: "Collaborating globally to develop the SRCNet"
+    excerpt: "Global network of SRCs, distributed around the world in its member states UK will lead, participate in and influence working groups and steering committees"
 
 ---
 
