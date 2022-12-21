@@ -1,6 +1,9 @@
 ---
 permalink: /vacancies/
 title: "Vacancies"
+type: pages
+  values:
+     layout: single
 ---
 **Vacancies**
 
