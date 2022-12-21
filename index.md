@@ -8,22 +8,21 @@ header:
 From left: An artist's impression of the future SKA-Mid dishes blend into the existing precursor MeerKAT telescope dishes in South Africa. 
 From right: A artist's impression of the future SKA-Low stations blends into the existing AAVS2.0 prototype station in Australia"
 intro: 
-  - excerpt: "Square Kilometer Array (SKA) telescopes will revolutionize radio astronomy. The UK SKA Regional Centre (UKSRC) will, as part of a global network, enable researchers to harness SKA data and explore the evolution of the early universe"
+  - excerpt: "Square Kilometer Array (SKA) telescopes will revolutionize radio astronomy. The UK SKA Regional Centre (UKSRC) will, as part of a global network, enable researchers to explore the evolution of the early universe"
 feature_row:
   - image_path: assets/images/source-600x400.jpg
     alt: "Source code text in yellow and pink overlaying a blurry photo  of computer racks."  
-    title: "Innovative digital research infrastructure"
-    excerpt: "Developing internationally interoperable computational and data facilities, tools, and services that will enable analysis of 700PB of data generated per year by the SKA telescopes"
+    title: "Developing digital research infrastructure"
+    excerpt: "Bespoke UK-based computational and data facilities, tools, and services are needed to enable the analysis of 700PB of data generated per year by the SKA telescopes"
   - image_path: assets/images/BarredSpiral-hst-600x400.png
     image_caption: "Robert Braun"
     alt: "A barred spiral galaxy. Image courtesy of NASA, ESA and the Hubble Heritage Team (STScI/AURA)."
     title: "Strengthening the UK astronomy community"
-    excerpt: "Providing opportunities for UK astronomers to inform the UKSRC's development and to enhance their skills in preparation for the deployment of the SKA telescopes" 
+    excerpt: "UK astronomers will have opportunities to inform the UKSRC's development and to enhance their skills in preparation for the deployment of the SKA telescopes" 
   - image_path: assets/images/SKA-at-Night-600x400 .jpg
     image_caption: "Credit: SKAO"
-    title: "Collaborating globally to develop the SRCNet"
-    excerpt: "Global network of SRCs, distributed around the world in its member states UK will lead, participate in and influence working groups and steering committees"
-
+    title: "Leading and collaborating internationally"
+    excerpt: "The UK is part of the global SRC network which is developing the functionality to find, assess, manipulate and visualise SKA Data products"
 ---
 
 {% include feature_row id="intro" type="center" %}
