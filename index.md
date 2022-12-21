@@ -8,7 +8,7 @@ header:
 From left: An artist's impression of the future SKA-Mid dishes blend into the existing precursor MeerKAT telescope dishes in South Africa. 
 From right: A artist's impression of the future SKA-Low stations blends into the existing AAVS2.0 prototype station in Australia"
 intro: 
-  - excerpt: "Working to enable researchers to harness SKA data and explore the beginning of the universe in the UK and beyond."
+  - excerpt: "SKA telescopes will revolutionize radio astronomy. The UK SKA Regional Centre (UKSRC) will, as part of a global network, enable researchers to harness SKA data and explore the beginning of the universe in the UK and beyond."
 feature_row:
   - image_path: assets/images/source-600x400.jpg
     alt: "Source code text in yellow and pink overlaying a blurry photo  of computer racks."  
