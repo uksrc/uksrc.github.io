@@ -17,9 +17,9 @@ feature_row:
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--primary"
-  - image_path: assets/images/source-600x400.jpg
-    image_caption: "XXX"
-    alt: "placeholder image 2"
+  - image_path: assets/images/BarredSpiral-hst-600x400.png
+    image_caption: "Robert Braun"
+    alt: "A barred spiral galaxy. Image courtesy of NASA, ESA and the Hubble Heritage Team (STScI/AURA)."
     title: "Strengthening the UK astronomy community"
     excerpt: "Working with astronomers to enable the exploration of evolution of the early universe using SKA data" 
     url: "#test-link"
