@@ -3,9 +3,7 @@ title: " "
 layout: splash
 permalink: //
 header:
-  overlay_color: "#000"
-  overlay_filter: "0.5"
-  overlay_image: /assets/images/logos_splash.png
+  overlay_image: /assets/images/logos-splash-skao-uksrc-ukri-stfc.png
   caption: "Credit: SKAO"
   alt: "A composite image of the future SKA telescopes, blending what already exists on site with artist's impressions. 
 From left: An artist's impression of the future SKA-Mid dishes blend into the existing precursor MeerKAT telescope dishes in South Africa. 
