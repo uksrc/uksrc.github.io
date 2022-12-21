@@ -28,9 +28,12 @@ feature_row:
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--primary"
-  - image_path: assets/images/source-600x400.jpg
-    title: "Enabling research across the worldt"
+  - image_path: assets/images/SKA-at-Night-600x400 .jpg
+    title: "Enabling research across the world"
     excerpt: "Working with international partners to "
+    url: "#test-link"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
 ---
 
 {% include feature_row id="intro" type="center" %}
