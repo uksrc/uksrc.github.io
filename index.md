@@ -23,14 +23,14 @@ feature_row:
   - image_path: assets/images/source-600x400.jpg
     image_caption: "Image courtesy of [Unsplash]"
     alt: "placeholder image 2"
-    title: "Working with the UK astronomy community"
-    excerpt: "Opportunities for astronomers to inform the UKSRC's development and to enhance their skills to enable the exploration of evolution of the early universe using SKA data" 
+    title: "Strengthening the UK astronomy community"
+    excerpt: "Working with astronomers to enable the exploration of evolution of the early universe using SKA data" 
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--primary"
-  - image_path: /assets/images/unsplash-gallery-image-3-th.jpg
-    title: "Placeholder 3"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+  - image_path: assets/images/source-600x400.jpg
+    title: "Enabling research across the worldt"
+    excerpt: "Working with international partners to "
 ---
 
 {% include feature_row id="intro" type="center" %}
