@@ -4,9 +4,9 @@ main:
     url: /vacancies/
   - title: "News & Events"
     url: /news-events/
-  - title: "Project"
-    url: /project/
   - title: "About"
     url: /about/
   # - title: "Sitemap"
   #   url: /sitemap/
+  # - title: "Project"
+  #  url: /project/
