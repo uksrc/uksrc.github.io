@@ -11,7 +11,7 @@ feature_row:
   - image_path: assets/images/source-600x400.jpg
     alt: "Source code text in yellow and pink overlaying a blurry photo  of computer racks."  
     title: "Developing digital research infrastructure"
-    excerpt: "Bespoke UK-based computational and data facilities, tools, and services will contribute to enable the analysis of 700PB of data generated per year by the SKA telescopes."
+    excerpt: "Bespoke UK-based computational and data facilities, tools, and services will contribute to the analysis of 700PB of data generated per year by the SKA telescopes."
   - image_path: assets/images/BarredSpiral-hst-600x400.png
     image_caption: "Robert Braun"
     alt: "A barred spiral galaxy. Image courtesy of NASA, ESA and the Hubble Heritage Team (STScI/AURA)."
