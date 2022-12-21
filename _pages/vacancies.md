@@ -1,13 +1,10 @@
 ---
-permalink: /vacancies/
 title: "Vacancies"
-type: pages
-values:
-  layout: single
+layout: splash
+permalink: /vacancies/
 header:
-  image: /assets/images/SKA-Daytime-UKSRC-logos.png.png
+  overlay_image: /assets/images/SKA-Daytime-UKSRC-logos.png.png
 ---
-**Vacancies**
 
 We will be recruiting soon for a range of roles including:
 * Astronomers
