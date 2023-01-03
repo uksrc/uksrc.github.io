@@ -10,7 +10,8 @@ intro:
    
     The UK SKA Regional Centre (UKSRC) will, as part of a global network, enable researchers to explore the evolution of the early universe."
 feature_row:
-  - image_path: assets/images/source-600x400.jpg
+  - image_path: assets/images/source-600x400-dark.png
+    image_caption: "Elchinator, Pixabay "
     alt: "Source code text in yellow and pink overlaying a blurry photo  of computer racks."  
     title: "Developing digital research infrastructure"
     excerpt: "Bespoke UK-based computational and data facilities, tools, and services will contribute to the analysis of 700PB of data generated per year by the SKA telescopes."
@@ -20,7 +21,7 @@ feature_row:
     title: "Strengthening the UK astronomy community"
     excerpt: "UK astronomers will have opportunities to inform the UKSRC's development and to enhance their skills in preparation for the deployment of the SKA telescopes." 
   - image_path: assets/images/SKA-at-Night-600x400 .jpg
-    image_caption: "Credit: SKAO"
+    image_caption: "SKAO"
     title: "Collaborating internationally"
     excerpt: "The UKSRC team is part of the global SRC network which is developing interoperable functionalities to find, assess, manipulate and visualise SKA Data products."
 ---
