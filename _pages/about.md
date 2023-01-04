@@ -4,6 +4,8 @@ layout: splash
 permalink: /about/
 header:
   overlay_image: /assets/images/logos-splash-skao-uksrc-ukri-stfc.png
+sidebar: 
+  nav: docs
 ---
 
 ## Vision ##
