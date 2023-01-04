@@ -1,6 +1,5 @@
 ---
 title: " "
-layout: splash
 type: pages
 permalink: /about/
 header:
