@@ -2,7 +2,7 @@
 title: "News & Events"
 layout: posts
 permalink: /news-events/
-author_profile: true
+author_profile: false
 sidebar:
   nav: "docs"
 header:
