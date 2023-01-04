@@ -2,6 +2,7 @@
 title: " "
 layout: splash
 permalink: //
+author_profile: false
 header:
   overlay_image: /assets/images/logos-splash-skao-uksrc-ukri-stfc.png
   alt: " "
