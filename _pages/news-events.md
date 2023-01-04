@@ -1,9 +1,11 @@
 ---
 title: "News & Events"
-layout: splash
+layout: posts
 permalink: /news-events/
+author_profile: true
 header:
   overlay_image: /assets/images/SKA-at-Night.jpg
 ---
  
  Updates coming soon
+ 
