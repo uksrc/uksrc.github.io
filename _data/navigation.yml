@@ -11,12 +11,12 @@ main:
   - title: About
     Children: 
     - title: Vision & Mission
-      url:  /about/
+      url: /about/
     
    - title: Get involved
      children:
      - title: Vacancies
-       url: /vacancies
+       url: /vacancies/
    
   
   # - title: "Sitemap"
