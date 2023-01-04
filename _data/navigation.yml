@@ -9,14 +9,14 @@ main:
     
 docs:
  - title: "About"
-   Children: 
- - title: "Vision & Mission"
-   url: /about/
+   children: 
+    - title: "Vision & Mission"
+      url: /about/
     
  - title: "Get involved"
    children:
- - title: "Vacancies"
-   url: /vacancies/
+    - title: "Vacancies"
+      url: /vacancies/
    
   
   # - title: "Sitemap"
