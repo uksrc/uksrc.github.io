@@ -1,21 +1,21 @@
 # main links
 main:
  - title: "Vacancies"
-    url: /vacancies/
+   url: /vacancies/
  - title: "News & Events"
-    url: /news-events/
+   url: /news-events/
  - title: "About"
-    url: /about/
-    
-docs:
- - title: About
-   Children: 
- - title: Vision & Mission
    url: /about/
     
- - title: Get involved
+docs:
+ - title: "About"
+   Children: 
+ - title: "Vision & Mission"
+   url: /about/
+    
+ - title: "Get involved"
    children:
- - title: Vacancies
+ - title: "Vacancies"
    url: /vacancies/
    
   
