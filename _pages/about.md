@@ -1,6 +1,7 @@
 ---
 title: " "
 layout: splash
+type: pages
 permalink: /about/
 header:
   overlay_image: /assets/images/logos-splash-skao-uksrc-ukri-stfc.png
