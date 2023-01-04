@@ -6,6 +6,19 @@ main:
     url: /news-events/
   - title: "About"
     url: /about/
+    
+  docs:
+  - title: About
+    Children: 
+    - title: Vision & Mission
+      url:  /about/
+    
+   - title: Get involved
+     children:
+     - title: Vacancies
+       url: /vacancies
+   
+  
   # - title: "Sitemap"
   #   url: /sitemap/
   # - title: "Project"
