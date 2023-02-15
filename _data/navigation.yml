@@ -19,7 +19,7 @@ docs:
     
  - title: "Project"
    children:
-    - title: "Team and Partners"
+    - title: "Team"
       url: /team/
     - title: "Work packages"
       url: /project
