@@ -9,7 +9,7 @@ sidebar:
   nav: "docs"
 ---
 ## UKSRC Team ##
-The UKSRC team brings together UK expertise in developing and delivering digital research infrastcture and astrononmy.
+The UKSRC brings together UK expertise in developing and delivering digital research and astrononmy infrastructure.
 
 ### University of Cambridge ###
 Dr Jeremy Coles (WP5 lead); Dr Eloy de Lera Acedo; Dr Paul Calleja (Technical Director, WP2); Dr Mark Ashdown; Cassie Bradley; Prof Richard McMahon; 
