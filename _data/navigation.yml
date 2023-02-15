@@ -12,6 +12,19 @@ docs:
    children: 
     - title: "Vision & Mission"
       url: /about/
+    - title: "About SKAO"
+      url: /SKAO/
+    - title: "Our History"
+      url: /history/
+    
+- title: "Project"
+  children:
+    - title: "Team and Partners"
+      url: /team/
+    - title: "Work packages"
+      url: /project
+    - title: "Governance"
+      url: /governance/
     
  - title: "Get involved"
    children:
