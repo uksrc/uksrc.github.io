@@ -10,7 +10,7 @@ sidebar:
   nav: "docs"
 ---
 
-## Vision ##
+## Vision ## 
 * To enable UK scientists to lead exploitation of SKA data, by meeting the needs of the UK Science Community and providing seamless access to SKA data and support.
 
 ## Mission ##
