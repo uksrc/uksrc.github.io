@@ -18,7 +18,7 @@ docs:
       url: /history/
     
  - title: "Project"
-  children:
+   children:
     - title: "Team and Partners"
       url: /team/
     - title: "Work packages"
