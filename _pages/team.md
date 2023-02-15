@@ -8,17 +8,14 @@ author_profile: false
 sidebar: 
   nav: "docs"
 ---
-**UKSRC Team**
-
-
+## UKSRC Team ##
+The UKSRC team brings together expertise in developing and delivering digital research infrastcture and astrononmy.
 
 ### University of Cambridge ###
 Dr Jeremy Coles (WP5 lead); Dr Eloy de Lera Acedo; Dr Paul Calleja (Technical Director, WP2); Dr Mark Ashdown; Cassie Bradley; Prof Richard McMahon; 
 Dr Nic Walton; Dr Oz Parchment; Wojciech Turek
-
 ### University of Durham ### 
 Dr Leah Morabito; Dr Alistair Basden; Dr Fawada Qaiser
-
 ### University of Edinburgh ### 
 Dr George Beckett; Prof Phil Best  
 
