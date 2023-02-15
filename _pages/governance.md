@@ -12,8 +12,10 @@ sidebar:
 ADD PICTURE 
 
 ## UKSRC Project Board ##
-<p> Purpose: <br>
-Chair: Prof David Bacon (University of XXX) <br>
-Deputy Chairs: Prof Simon-Mackintosh-Smith (Bristol) and Chieara (SKA France). <br>
+<p> The UKSRC reports quarterly to the Project Board with provides X Y Z <br>
+Chair: Prof David Bacon (University of Portsmouth) <br>
+Deputy Chairs: Prof Simon McIntosh-Smith (University of Bristol) and Dr Chiara Ferrari (Director of SKA-France). <br>
 Observers: <br>
 
+## UKSRC Oversight Committee ##
+<p> The UKSRC reports every 6 months to the external UKSRC Oversight Committee 
