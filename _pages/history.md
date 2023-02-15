@@ -8,7 +8,6 @@ author_profile: false
 sidebar: 
   nav: "docs"
 ---
-
 # Our History #
 
 UK SKA Regional Centre Forum (2021-22) members participated in the initial stages of developing the SRCNet via international working groups to understand the SRC Network requirements.  
