@@ -17,7 +17,7 @@ docs:
     - title: "Our History"
       url: /history/
     
-- title: "Project"
+ - title: "Project"
   children:
     - title: "Team and Partners"
       url: /team/
