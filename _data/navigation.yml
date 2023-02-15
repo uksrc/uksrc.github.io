@@ -10,10 +10,12 @@ main:
 docs:
  - title: "About"
    children: 
-    - title: "Vision & Mission"
-      url: /about/
     - title: "About SKAO"
       url: /SKAO/
+    - title: "Technical Challenges"
+      ucl: /technical-challenges/
+    - title: "UK Strategy"
+      url: /about/
     - title: "Our History"
       url: /history/
     
@@ -21,8 +23,10 @@ docs:
    children:
     - title: "Team"
       url: /team/
-    - title: "Work packages"
-      url: /project
+    - title: "Overview"
+      url: /project/
+    - title: "Developing digital research infrastructure"
+      url: /developing-digital-research-infrastructure/
     - title: "Governance"
       url: /governance/
     
