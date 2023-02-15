@@ -6,7 +6,7 @@ author_profile: false
 sidebar: 
   nav: "docs"
 ---
-The UKSRC brings together UK expertise in developing and delivering digital research and astronomy infrastructure.
+Bringing together UK expertise in developing and delivering digital research and astronomy infrastructure.
 ### University of Cambridge ###
 Dr Mark Ashdown; Cassie Bradley; Dr Paul Calleja (Technical Director, WP2); Dr Jeremy Coles (WP5 lead); Dr Eloy de Lera Acedo; Prof Richard McMahon; Dr Oz Parchment; Wojciech Turek; Dr Nic Walton
 ### University of Durham ### 
