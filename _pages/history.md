@@ -1,7 +1,7 @@
 ---
 title: " "
 type: pages
-permalink: /uksrc_forum/
+permalink: /history/
 header:
   overlay_image: /assets/images/logos-splash-skao-uksrc-ukri-stfc.png
 author_profile: false
