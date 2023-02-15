@@ -1,7 +1,8 @@
 ---
-title: " "
+title: "UK Strategy"
 type: pages
-permalink: /about/
+permalink: /strategy/
+classes: wide
 header:
   overlay_image: /assets/images/logos-splash-skao-uksrc-ukri-stfc.png
 author_profile: false
