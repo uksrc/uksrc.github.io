@@ -8,22 +8,20 @@ sidebar:
 ---
 The UKSRC brings together UK expertise in developing and delivering digital research and astronomy infrastructure.
 ### University of Cambridge ###
-Dr Jeremy Coles (WP5 lead); Dr Eloy de Lera Acedo; Dr Paul Calleja (Technical Director, WP2); Dr Mark Ashdown; Cassie Bradley; Prof Richard McMahon; 
-Dr Nic Walton; Dr Oz Parchment; Wojciech Turek
+Dr Mark Ashdown; Cassie Bradley; Dr Paul Calleja (Technical Director, WP2); Dr Jeremy Coles (WP5 lead); Dr Eloy de Lera Acedo; Prof Richard McMahon; Dr Oz Parchment; Wojciech Turek; Dr Nic Walton
 ### University of Durham ### 
-Dr Leah Morabito; Dr Alistair Basden; Dr Fawada Qaiser
+Dr Alistair Basden; Dr Leah Morabito; Dr Fawada Qaiser
 ### University of Edinburgh ### 
 Dr George Beckett; Prof Phil Best  
 ### University of Hertfordshire  ###
-Prof Martin Hardcastle; Dr Brendan Webster; Dr Maya Horton
+Prof Martin Hardcastle;  Dr Maya Horton; Dr Brendan Webster
 ### University of Manchester ###
-Prof Rob Beswick (Deputy Director (Community), WP3 lead); Prof Keith Grainge; Dr Rachael Ainsworth (WP4 lead); Dr Paul Harrison; Prof Anna Scaife; Prof Ben Stappers; 
-Dr Richard Hughes-Jones; Dr Bob Watson; Dr Chris Skipper; Dr Iulia Cimpan; Dr Anthony Holloway
+Dr Rachael Ainsworth (WP4 lead); Prof Rob Beswick (Deputy Director (Community), WP3 lead);  Dr Iulia Cimpan; Prof Keith Grainge;  Dr Paul Harrison; Dr Anthony Holloway; Dr Richard Hughes-Jones; Prof Anna Scaife; Dr Chris Skipper; Prof Ben Stappers; Dr Bob Watson 
 ### StackHPC ###
-Dr John Taylor; John Garbutt 
+John Garbutt; Dr John Taylor
 ### STFC RAL ###
-Mr Ian Collier (Deputy Technical Director, WP2); Dr Tom Dack; Ms Rose Cooper
+Mr Ian Collier (Deputy Technical Director, WP2); Ms Rose Cooper; Dr Tom Dack 
 ### UCL ###
-Rev Dr Jeremy Yates (Director); Dr Louise Chisholm (Deputy Director (Project Scientist), WP1 lead)
+Dr Louise Chisholm (Deputy Director (Project Scientist), WP1 lead); Dr Rev Jeremy Yates (Director) 
   
 ---
