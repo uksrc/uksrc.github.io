@@ -2,6 +2,7 @@
 title: " "
 type: pages
 permalink: /SKAO/
+classes: wide
 header:
   overlay_image: /assets/images/logos-splash-skao-uksrc-ukri-stfc.png
 author_profile: false
