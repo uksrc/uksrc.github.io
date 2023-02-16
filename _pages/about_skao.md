@@ -16,6 +16,6 @@ The [SKAO](https://www.skao.int/) is an intergovernmental organisation bringing 
 An average of 8 terabits per second of data will be transferred from the SKA telescopes in both countries to Central Processing Facilities (CPFs) located at the telescope sites. At these facilities, [SDP supercomputers](https://www.skao.int/en/explore/big-data) will process the data before it is distributed via intercontinental telecommunications networks to the SKA Regional Centres.
 
 ## SKA Regional Centre Network (SRCNet) ## 
-An internationally interoperable network of SKA Regional Centres [(SRCNet)](https://www.skao.int/en/explore/big-data/362/ska-regional-centres) will provide researchers with access to data products, platforms for advanced scientific analysis, user support and training. These faclilities and services will enable researchers to harness SKA data and revolutionise our understanding of the Universe. 
+[Member states](https://www.skao.int/en/partners/skao-members) are developing and internationally interoperable network of [SKA Regional Centres](https://www.skao.int/en/explore/big-data/362/ska-regional-centres), which will provide researchers with access to data products, platforms for advanced scientific analysis, user support and training. These faclilities and services will enable researchers to harness SKA data and revolutionise our understanding of the Universe. 
 
-[A list of useful SKA acronyms](https://www.ukri.org/publications/useful-ska-acronyms/)
+[UKRI's list of useful SKA acronyms](https://www.ukri.org/publications/useful-ska-acronyms/)
