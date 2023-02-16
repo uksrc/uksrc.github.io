@@ -32,6 +32,7 @@ sidebar:
 * Chisholm et al. (2022). Co-creating the UK SKA Regional Centre (UKSRC): Social & economic impact focus group discussions. [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6850791.svg)](https://doi.org/10.5281/zenodo.6850791)</p>
 
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6850791.svg)](https://doi.org/10.5281/zenodo.6850791)
 
 
  
