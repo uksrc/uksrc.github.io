@@ -22,13 +22,14 @@ sidebar:
 * WG6: Science User Engagement <br> </p>
 
 ## Co-creating the UK SKA Regional Centre ##
-<p>The UKSRC Forum engaged with >150 UK-based academics, researchers, industry leaders and outreach professionals through 3 town halls (organised with the UK SKA Science Committee), 2 workshops, and 3 focus groups during the proposal develoment phase of the UKSRC Project 2023-2025). Their input and perspectives identified the astronomy science demonstrator cases, outreach and knowledge exchange activities.<br>  
+<p>The UKSRC Forum engaged with >150 UK-based academics, researchers, industry leaders and outreach professionals through 3 town halls (organised with the UK SKA Science Committee), 2 workshops, and 3 focus groups during the proposal develoment phase of the UKSRC Project 2023-2025). Their input and perspectives identified the astronomy science demonstrator cases, outreach and knowledge exchange activities.</p> 
 
-* What is a Square Kilometre Array Regional Centre. Zenodo. [https://doi.org/10.5281/zenodo.6594830](https://doi.org/10.5281/zenodo.6594830)
+<p>Presentations and reports<br>
+  * What is a Square Kilometre Array Regional Centre. Zenodo. [https://doi.org/10.5281/zenodo.6594830](https://doi.org/10.5281/zenodo.6594830)
 * UK SRC presentation - data primer. Zenodo. [https://doi.org/10.5281/zenodo.6594725](https://doi.org/10.5281/zenodo.6594725)
 * Co-creating the UKSRC Workshop 1 - identifying research interests and needs of the UK astronomy community. Zenodo. [https://doi.org/10.5281/zenodo.6616630](https://doi.org/10.5281/zenodo.6616630)
 * Co-creating the UKSRC Workshop 2 - Infrastructure & services needed exploit SKA data. Zenodo. [https://doi.org/10.5281/zenodo.6619758]( https://doi.org/10.5281/zenodo.6619758)
-* Co-creating the UK SKA Regional Centre (UKSRC): Social & economic impact focus group discussions: Zenodo, doi:10.5281/zenodo.6850791.
+* Co-creating the UK SKA Regional Centre (UKSRC): Social & economic impact focus group discussions: Zenodo, doi:10.5281/zenodo.6850791</p>
 {: .notice--info}
 
 
