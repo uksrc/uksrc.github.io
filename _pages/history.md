@@ -11,7 +11,7 @@ sidebar:
 ---
 # Our History # 
 ## UK SKA Regional Centre Forum ##
-The UK contirbuted to international working groups to understand the SRC Network requirements.
+The UK contirbuted to the SKA Regional Centre Steering Committee and to international working groups to understand the SRC Network requirements.
 * WG0: SRC Network Architecture	
 * WG1: Data Logistics Working Group	 
 * WG2: Operations Working Group	
