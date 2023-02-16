@@ -20,7 +20,7 @@ The UK has been a member of the SKA Regional Centre Steering Committee (SRCSC) s
 * WG5: Compute Working Group
 * WG6: Science User Engagement 
  
-Between November 2021 - July 2022 the UKSRC Forum engaged with >150 UK-based academics, researchers, industry leaders and outreach professionals through 4 town halls (organised with the UK SKA Science Committee), 2 workshops, and 3 focus groups during proposal development. The discussions influenced the consotium membership, the UK astronomy science demonstrator cases, and design of the community engagement, outreach and knowledge exchange activities. We would like to thank everyone who participated for their valuable time and insights. 
+Between November 2021 - July 2022 the UKSRC Forum engaged with >150 UK-based academics, researchers, industry leaders and outreach professionals through 4 town halls (organised with the UK SKA Science Committee), 2 workshops, and 3 focus groups. The discussions influenced our consortium membership, the UK astronomy science demonstrator cases, and design of the community engagement, outreach and knowledge exchange activities. We would like to thank everyone who participated in our co-creation activities for their valuable time and insights. 
 ### Presentations and reports ###
 * Conway J et al. (2020) [SKA1 Beyond 15GHz:The Science case for Band 6](https://www.skao.int/sites/default/files/documents/d38-ScienceCase_band6_Feb2020.pdf)
 * SKA Regional Centre Steering Committee (2020) [SKA Regional Centres - White Paper](https://aussrc.org/wp-content/uploads/2021/05/SRC-White-Paper-v1.0-Final.pdf)
