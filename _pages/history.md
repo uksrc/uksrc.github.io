@@ -9,12 +9,16 @@ sidebar:
   nav: "docs"
 ---
 # Our History # 
-UK SKA Regional Centre Forum (2021-22) members participated in the initial stages of developing the SRCNet via international working groups to understand the SRC Network requirements.  
+## UK SKA Regional Centre Forum (2021-22) ##
+<p> The UK contirbuted to international working groups to understand the SRC Network requirements.  
 
-WG0: SRC Network Architecture	
-WG1: Data Logistics Working Group	
-WG2: Operations Working Group	
-WG3: SW Federated Computing and Data Software Services	
-WG4: SW, Science Archive-VO-FAIR	
-WG5: Compute Working Group	
-WG6: Science User Engagement
+* WG0: SRC Network Architecture	
+* WG1: Data Logistics Working Group	
+* WG2: Operations Working Group	
+* WG3: SW Federated Computing and Data Software Services	
+* WG4: SW, Science Archive-VO-FAIR	
+* WG5: Compute Working Group	
+* WG6: Science User Engagement
+
+## UKSRC Proposal Development ##
+The UKSRC Forum engaged with >150 UK-based academics, researchers, industry leaders and outreach professionals through 3 town halls (organised with the UK SKA Science Committee), 2 workshops, and 3 focus groups during the proposal develoment phase of the UKSRC Project 2023-2025). Their input and perspectives influenced the development of the astronomy science demonstrator cases, outreach and knowledge exchange activities. Reports on the events are in Zenodo.
