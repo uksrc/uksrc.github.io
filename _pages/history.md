@@ -9,7 +9,7 @@ sidebar:
   nav: "docs"
 ---
 # Our History # 
-## UK SKA Regional Centre Forum (2021-22) ##
+## UK SKA Regional Centre Forum ##
 <p> The UK contirbuted to international working groups to understand the SRC Network requirements.  <br>
 
 * WG0: SRC Network Architecture	 <br>
