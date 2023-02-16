@@ -12,10 +12,9 @@ sidebar:
 
 The [UK SKA Regional Centre Strategy (pdf)](https://www.ukri.org/wp-content/uploads/2022/04/STFC-220422-Funding-Opp-UKSKARegionalCentre2022-UKSRCStrategy.pdf) covers the timescale of the construction phase and early operations phase (2022 to 2030) and provides the strategy for UK involvement in the SRCNet. This Strategy is owned by the [UK SKA Programme Board](https://www.ukri.org/about-us/stfc/how-we-are-governed/advisory-boards/uk-ska-oversight-committee-and-programme-board/).
 
-## Vision ## 
- * To enable UK scientists to lead exploitation of SKA data, by meeting the needs of the UK Science Community and providing seamless access to SKA data and support.
+**Vision**: To enable UK scientists to lead exploitation of SKA data, by meeting the needs of the UK Science Community and providing seamless access to SKA data and support.
 
-## Mission ##
+**Mission**
 * To maximisethe return to the UK through a contribution to the SRCNet at a level commensurate with the UK's leading role in the project.
 * To deliver a UKSRC Node, enabling the UK to maximise scientific return and drive innovation in data science.
 
