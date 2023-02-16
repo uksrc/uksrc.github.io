@@ -11,7 +11,7 @@ sidebar:
 ---
 # Our History # 
 ## UK SKA Regional Centre Forum ##
-The UK has been a member of the SKA Regional Centre Steering Committee (SRCSC) since it was created in 2018. Its mission s to define and create a long-term operational partnership between the SKA Observatory and an ensemble of independently-resourced SKA Regional Centres. Work toward this has been undertaken in international working groups.
+The UK has been a member of the SKA Regional Centre Steering Committee (SRCSC) since it was created in 2018. Its mission is to define and create a long-term operational partnership between the SKA Observatory and an ensemble of independently-resourced SKA Regional Centres. Work toward this has been undertaken in international working groups.
 * WG0: SRC Network Architecture	
 * WG1: Data Logistics Working Group	 
 * WG2: Operations Working Group	
