@@ -29,7 +29,7 @@ sidebar:
 * Co-creating the UKSRC Workshop 1 - identifying research interests and needs of the UK astronomy community. Zenodo. https://doi.org/10.5281/zenodo.6616630
 * Co-creating the UKSRC Workshop 2 - Infrastructure & services needed exploit SKA data. Zenodo. https://doi.org/10.5281/zenodo.6619758
 * Co-creating the UK SKA Regional Centre (UKSRC): Social & economic impact focus group discussions: Zenodo, doi:10.5281/zenodo.6850791.
-
+{: .notice--info}
 
 
 
