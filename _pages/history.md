@@ -26,15 +26,15 @@ sidebar:
 
 ### Presentations and reports ###
 
+* Yates, Jeremy. (2022, May 30). What is a Square Kilometre Array Regional Centre. [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6594830.svg)](https://doi.org/10.5281/zenodo.6594830)
+* Beswick. (2022, May 30). UK SRC presentation - data primer. [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6594725.svg)](https://doi.org/10.5281/zenodo.6594725)
 * Chisholm, Louise. (2022, June 6). Co-creating the UKSRC Workshop 1 - identifying research interests and needs of the UK astronomy community 
     [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6616630.svg)](https://doi.org/10.5281/zenodo.6616630)<br>
 * Chisholm, Louise. (2022, June 7). Co-creating the UKSRC Workshop 2 - Infrastructure & services needed exploit SKA data [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6619758.svg)](https://doi.org/10.5281/zenodo.6619758)<br>
-* Chisholm et al. (2022). Co-creating the UK SKA Regional Centre (UKSRC): Social & economic impact focus group discussions.  
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6850791.svg)](https://doi.org/10.5281/zenodo.6850791)
+* Chisholm et al. (2022). Co-creating the UK SKA Regional Centre (UKSRC): Social & economic impact focus group discussions. [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6850791.svg)](https://doi.org/10.5281/zenodo.6850791)
 
 
-
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6850791.svg)](https://doi.org/10.5281/zenodo.6850791)
+ 
 
 
  
