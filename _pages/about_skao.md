@@ -4,7 +4,7 @@ type: pages
 permalink: /SKAO/
 classes: wide
 header:
-  overlay_image: /assets/images/logos-splash-skao-uksrc-ukri-stfc.png
+  overlay_image: /assets/images/SKA-at-Night.jpg
 author_profile: false
 sidebar: 
   nav: "docs"
