@@ -5,7 +5,7 @@ main:
  - title: "News & Events"
    url: /news-events/
  - title: "About"
-   url: /about/
+   url: /strategy/
     
 docs:
  - title: "About"
