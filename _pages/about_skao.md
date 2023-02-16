@@ -12,7 +12,7 @@ sidebar:
 ## SKA Observatory (SKAO) ##
 The [SKAO](https://www.skao.int/) is an intergovernmental organisation bringing together nations from around the world. Its mission is to build and operate cutting-edge radio telescopes to transform our understanding of the Universe, and deliver benefits to society through global collaboration and innovation. The observatory has a global footprint and consists of the SKAO Global Headquarters in the UK, the SKAO’s two telescopes at radio-quiet sites in South Africa and Australia, and associated facilities to support the operations of the telescopes.
 
-## Initial Data Processing ##
+## Science Data Processing ##
 An average of 8 terabits per second of data will be transferred from the SKA telescopes in both countries to Central Processing Facilities (CPFs) located at the telescope sites. The [Science Data Processor (SDP)](https://www.skao.int/en/explore/big-data) supercomputers will process the data, which will then be distributed via intercontinental telecommunications networks to the SKA Regional Centres.
 
 ## SKA Regional Centre Network (SRCNet) ## 
