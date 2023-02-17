@@ -12,8 +12,6 @@ docs:
    children: 
     - title: "About SKAO"
       url: /SKAO/
-    - title: "Technical Challenges"
-      ucl: /technical-challenges/
     - title: "UK Strategy"
       url: /strategy/
     - title: "Our History"
@@ -21,10 +19,12 @@ docs:
     
  - title: "Project"
    children:
-    - title: "Team"
-      url: /team/
     - title: "Overview"
       url: /project/
+    - title: "Exascale Data Challenges"
+      ucl: /exascale-data-challenges/
+    - title: "Team"
+      url: /team/
     - title: "Governance"
       url: /governance/
     
