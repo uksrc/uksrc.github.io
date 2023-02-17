@@ -22,7 +22,7 @@ Between November 2021 - July 2022 the UKSRC Forum engaged with >150 UK-based aca
 
 ### Presentations and reports ###
 * Conway J et al. (2020) [SKA1 Beyond 15GHz:The Science case for Band 6](https://www.skao.int/sites/default/files/documents/d38-ScienceCase_band6_Feb2020.pdf)
-* SKA Regional Centre Steering Committee (2020) [SKA Regional Centres - White Paper](https://aussrc.org/wp-content/uploads/2021/05/SRC-White-Paper-v1.0-Final.pdf)
+* Quinn, et al. 2020, SKA Regional Centres: A White paper by the SKA Regional Centre Steering Committee, v 1.0, May 2020, available at [https://aussrc.org/wp-content/uploads/2021/05/SRC-White-Paper-v1.0-Final.pdf](https://aussrc.org/wp-content/uploads/2021/05/SRC-White-Paper-v1.0-Final.pdf)
 * Wagg et al. (2021). [SKA1 Scientific Use Cases](https://www.skao.int/sites/default/files/documents/d35-SKA-TEL-SKO-0000015-04_Science_UseCases-signed.pdf)
 * Beswick. (2022, May 30). UK SRC presentation - data primer. [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6594725.svg)](https://doi.org/10.5281/zenodo.6594725)
 * Chisholm, Louise. (2022, June 6). Co-creating the UKSRC Workshop 1 - identifying research interests and needs of the UK astronomy community [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6616630.svg)](https://doi.org/10.5281/zenodo.6616630)
