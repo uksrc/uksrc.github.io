@@ -28,7 +28,8 @@ Between November 2021 - July 2022 the UKSRC Forum engaged with >150 UK-based aca
 * Chisholm. (2022, June 7). Co-creating the UKSRC Workshop 2 - Infrastructure & services needed exploit SKA data [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6619758.svg)](https://doi.org/10.5281/zenodo.6619758)
 * Chisholm, et al. (2022). Co-creating the UK SKA Regional Centre (UKSRC): Social & economic impact focus group discussions. [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6850791.svg)](https://doi.org/10.5281/zenodo.6850791)
 
-
+### Funding ###
+* STFC Grant Codes for Bridging and what else? 
  
 
 
