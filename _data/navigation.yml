@@ -14,19 +14,19 @@ docs:
       url: /SKAO/
     - title: "UK Strategy"
       url: /strategy/
-    - title: "Our History"
+    - title: "Our Journey so far"
       url: /history/
     
  - title: "Project"
    children:
-    - title: "Overview"
-      url: /project/
-    - title: "Exascale Data Challenges"
-      ucl: /exascale-data-challenges/
-    - title: "Team"
-      url: /team/
+    - title: "Technical Challenges"
+      ucl: /technical-challenges/
+    - title: "Project Overview"
+      url: /project-overview/
     - title: "Governance"
       url: /governance/
+    - title: "Team"
+      url: /team/
     
  - title: "Get involved"
    children:
