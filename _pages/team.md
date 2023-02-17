@@ -2,7 +2,7 @@
 title: " "
 type: pages
 permalink: /team/
-clasess: wide
+classes: wide
 header:
   overlay_image: /assets/images/logos-splash-skao-uksrc-ukri-stfc.png
 author_profile: false
