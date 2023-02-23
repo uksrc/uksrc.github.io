@@ -14,7 +14,7 @@ The UK SKA Regional Centre Forum was the UK body (START DATE - December 2022) th
 * WG1: Data Logistics Working Group	 
 * WG2: Operations Working Group	
 * WG3: SW Federated Computing and Data Software Services	
-* WG4: SW, Science Archive-VO-FAIR	
+* WG4: SW, Science Archive-VO-FAIR	 
 * WG5: Compute Working Group
 * WG6: Science User Engagement 
  
