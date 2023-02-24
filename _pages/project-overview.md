@@ -4,7 +4,7 @@ type: pages
 permalink: /project-overview/
 classes: wide
 header:
-  overlay_image: /assets/images/logos-splash-skao-uksrc-ukri-stfc.png
+  overlay_image: /assets/images/MilkyWay.png
 author_profile: false
 sidebar: 
   nav: "docs"
