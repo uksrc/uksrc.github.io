@@ -13,7 +13,7 @@ The Square Kilometer Array is an exascale data challenge - each telescope is exp
 
 The network of SKA Regional Centres (SRCNet) are developing an internationally interoperable digital research infrastructure which will enable astronomers to efficiently access, analyse and visualise the data. To minimise time to science the platform must, to the astronomer, be as easily accessible as the software running on their laptop and have access to the data captured by SKA (OLDPs) along with the computing power of a world class supercomputer.   
 
-The UKSRC Project will grow the UK’s and SRCNet’s capabilities, and to deploy an initial federated proto-SRC facility. UK and international SRCNet prototyping teams are developing SRC funcationalities across cloud computing, data logistics, data archives, identify access and authorisation, and science platforms [2].
+The UKSRC Project will grow the UK’s and SRCNet’s capabilities, and to deploy an initial federated proto-SRC facility. UK and international SRCNet prototyping teams are developing SRC funcationalities identified [2] across cloud computing, data logistics, data archives, identify access and authorisation, and science platforms.
 
 The technologies being developed have the potential to be applied by other diciplines which also plan to analyse huge data volumes. As a partner of IRIS and UKSRC's knowledge exchange activities will enable UK industry and other UK-based Digital Research Infrastructures to benefit from these technological developments.  
 
