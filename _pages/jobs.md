@@ -3,7 +3,7 @@ title: "Join Us"
 layout: splash
 permalink: /jobs/
 header:
-  overlay_image: /assets/images/SKA-at-Night-600x400 .jpg
+  overlay_image: /assets/images/SKA-at-Night.jpg
   credit: SKAO
 ---
 
