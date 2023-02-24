@@ -11,23 +11,12 @@ sidebar:
 ---
 The project is organised into 5 workpackages.
 
-## WP 1: UKSRC Project Office ## (lead: Dr Louise Chisholm)
-The project office will provide project management, reporting and delivery of a work-programme that addresses the UKSRC Strategy. In liaison with UKSRC stakeholders, provide strategic 
-guidance of the project delivery. 
-## WP2: Technical Development workstream ## (lead: Dr Paul Callija, Deputy: Ian Collier)
-This workstream will build a functioning UK node of SRCNet which will have 20% of the capacity and 80% of the functionality of what will be 
-required when SKA is fully operational. These key components will form part of the global solution developed and deployed by the SRCNet:
-### WP2.1 Network and data logistic layer ###
-ddd
-### WP2.1 Cloud logistics, provisioning and orchestration layer (leads: )
+* WP1 Project Management:  delivers the project office, including governance, project management, financial monitoring, and project communication. 
+* WP2 Technical Development: encompasses technical development activities required to deliver the UKSRC, in coordination with SRCNet prototyping team developments.
+    * Hardware & software enabling technologies: Cloud; Authentication, authorisation identity management; Data logistics; Architecture & optimisation.
+    * Developing a FAIR Data Archive
+    * Science analysis platform development
+* WP3 Community Support, Engagement and Onboarding: delivers links SRC development and the scientific user community, via programmes of co-design, and early adoption of services. 
+* WP4 Training and Outreach: delivers professional training and outreach for both UKSRC staff and the community. 
+* WP5 International SRC Coordination and Alignment: provides a highly experienced Release Train Engineer to lead the wider international SRC SAFe development programme, and senior leadership resources for SRCSC and SRCNet activities
 
-
-• WP2.1 Performant cloud storage able to support all workflows (leads: )
-
-• WP2.2 Federated data archive (leads: )
-
-
-• WP2.3 Science analysis platform, with science-user self-service portal allowing dynamic instantiation of 
-preconfigured science platforms (lead: )
-
- 
