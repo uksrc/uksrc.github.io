@@ -13,7 +13,7 @@ The Square Kilometer Array is an exascale data challenge - each telescope is exp
 
 The network of SKA Regional Centres (SRCNet) are developing an internationally interoperable digital research infrastructure which will enable astronomers to efficiently access, analyse and visualise the data. To minimise time to science the platform must, to the astronomer, be as easily accessible as the software running on their laptop and have access to the data captured by SKA (OLDPs) along with the computing power of a world class supercomputer.   
 
-The UKSRC Project will grow the UKSRC’s and SRCNet’s capabilities, and to deploy an initial version of SRCNet at the national level through engagement with SKA precursor and pathfinder science programs and international SRCNet prototyping teams. The UKSRC and SRCNet are working to develop a federated proto-SRC which consists of six functonal components: Data Logistics, Commonality, Data Processing, Data Archiving and Curation, Scalable Resource Management and Allocation, and User Support.
+The UKSRC Project will grow the UKSRC’s and SRCNet’s capabilities, and to deploy an initial federated proto-SRC facility at the national level through engagement with SKA precursor and pathfinder science programs and international SRCNet prototyping teams. The teams are testing and developing the six functonal components of the SRCNet: Data Logistics, Commonality, Data Processing, Data Archiving and Curation, Scalable Resource Management and Allocation, and User Support [2].
 
 The technologies being developed have the potential to be applied by other diciplines which also plan to analyse huge data volumes. As a partner of IRIS and UKSRC's knowledge exchange activities will enable UK industry and other UK-based Digital Research Infrastructures to benefit from these technological developments.  
 
@@ -23,3 +23,4 @@ The technologies being developed have the potential to be applied by other dicip
 
 [1] Scaife A. M. M. 2020 Big telescope, big data: towards exascale with the Square Kilometre Array Phil. Trans. R. Soc. A.3782019006020190060
 http://doi.org/10.1098/rsta.2019.0060
+[2] Quinn, et al. (2020) SKA Regional Centres: A White paper by the SKA Regional Centre Steering Committee, v 1.0, May 2020, available at https://aussrc.org/wp-content/uploads/2021/05/SRC-White-Paper-v1.0-Final.pdf
