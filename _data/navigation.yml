@@ -32,8 +32,12 @@ docs:
    children:
     - title: "Join Us"
       url: /jobs/
+    - title: "News & Events"
+      url: /news-events/
     - title: "Keep up to date"
       url: /contacts/
+
+          
 
    
   
