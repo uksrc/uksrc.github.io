@@ -30,7 +30,7 @@ Between November 2021 - July 2022 the UKSRC Forum engaged with >150 UK-based aca
 
 ### Funding ###
 
-UKSRC acknowledges the funding support for the SKA Bridging Phase was supported by grants ST/X000524/1 (University of Manchester), ST/X000486/1 (UCL), ST/X000478/1 (University of Hertfordshire), 
+UKSRC acknowledges the funding support for the UK SRC Bridging Phase (Mar 22 - Dec 2022) was supported by grants ST/X000524/1 (University of Manchester), ST/X000486/1 (UCL), ST/X000478/1 (University of Hertfordshire), ST/X00046X/1 (University of Cambridge).
 
  
 
