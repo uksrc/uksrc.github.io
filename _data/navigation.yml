@@ -32,6 +32,9 @@ docs:
    children:
     - title: "Join Us"
       url: /jobs/
+    - title: "Keep up to date"
+      url: /contacts/
+
    
   
   # - title: "Sitemap"
