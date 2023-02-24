@@ -1,9 +1,9 @@
 ---
-title: "Vacancies"
+title: "Join Us"
 layout: splash
-permalink: /vacancies/
+permalink: /jobs/
 header:
-  overlay_image: /assets/images/SKA-Daytime-UKSRC-logos.png.png
+  overlay_image: /assets/images/SKA-at-Night-600x400 .jpg
   credit: SKAO
 ---
 
