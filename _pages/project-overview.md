@@ -9,7 +9,7 @@ author_profile: false
 sidebar: 
   nav: "docs"
 ---
-The project is organised into 5 workpackages.
+The UK SKA Regional Centre Development Project is organised into 5 workpackages.
 
 * WP1 Project Management:  delivers the project office, including governance, project management, financial monitoring, and project communication. 
 * WP2 Technical Development: encompasses technical development activities required to deliver the UKSRC, in coordination with SRCNet prototyping team developments.
