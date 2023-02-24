@@ -13,9 +13,9 @@ sidebar:
 How to acknowledge the UKSRC in a publication.
 
 ## Digital Research Infrastucture Facilities ##
-**UKSRC@Cambridge**
-This work was performed using the **XXXXX facility**, part of which is operated by the University of Cambridge Research Computing on behalf of the STFC UK SKA Regional Centre (UKSRC). It was funded by IRIS (www.iris.ac.uk) capital funding via STFC capital grants **XXXX-RSAP** ad **DA-CLOUD**.
+**UKSRC@Cambridge**  
+This work was performed using the **XXXXX facility**, part of which is operated by the University of Cambridge Research Computing on behalf of the STFC UK SKA Regional Centre (UKSRC). It was funded by IRIS (www.iris.ac.uk) capital funding via STFC capital grants **XXXX-RSAP** ad **DA-CLOUD**.  
 
-**UKSRC@Manchester**
-This work was performed using the **XXXXX facility**, part of which is operated by the University of Manchester on behalf of the STFC UK SKA Regional Centre (UKSRC). It was funded by IRIS (www.iris.ac.uk) capital funding via STFC capital grants ST/W006944/1 ad **DA-ARCHIVE** and the STFC UKSRC Project **Manchester*
+**UKSRC@Manchester**  
+This work was performed using the **XXXXX facility**, part of which is operated by the University of Manchester on behalf of the STFC UK SKA Regional Centre (UKSRC). It was funded by IRIS (www.iris.ac.uk) capital funding via STFC capital grants ST/W006944/1 [2022] and **DA-ARCHIVE** and the STFC UKSRC Project ST/X002578/1.
 
