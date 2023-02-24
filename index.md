@@ -16,7 +16,7 @@ feature_row:
     alt: "Source code text in yellow and pink overlaying a blurry photo  of computer racks."  
     title: "Developing digital research infrastructure"
     excerpt: "Bespoke UK-based computational and data facilities, tools, and services will contribute to the analysis of 700PB of data generated per year by the SKA telescopes."
-    url: "#test-link"
+    url: "/technological-challenges/"
     btn_label: "Read More"
     btn_class: "btn--primary"
   - image_path: assets/images/BarredSpiral-hst-600x400.png
