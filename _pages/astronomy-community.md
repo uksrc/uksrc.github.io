@@ -1,5 +1,5 @@
 ---
-title: "Supporting UK Astronomy"
+title: "Astronomy Community"
 type: pages
 permalink: /astronomy-community/
 classes: wide
