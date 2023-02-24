@@ -9,13 +9,16 @@ author_profile: false
 sidebar: 
   nav: "docs"
 --- 
-The Square Kilometer Array is an exascale data challenge - each telescope is expected to create ~300 petabytes per year, creating an archive of ~8.5 exabytes during the initial high-priority science programmes [1]. The SKAO's Science Data Processors are based at each telescope and they will produce Observatory Level Data Products (OLDPs) which will calibrate and reduced the telescope timestream data to a volume that can be transfered internationally via intercontinental telecommunications networks to SKA Regional Centre nodes.   
+The Square Kilometer Array is an exascale data challenge - each telescope is expected to create ~300 petabytes per year, creating an archive of ~8.5 exabytes during the initial high-priority science programmes [1]. The SKAO's Science Data Processors will calibrate and reduce the telescope data to a volume that can be transfered (as Observatory Level Data Products, OLDPs) via intercontinental telecommunications networks to SKA Regional Centre nodes.   
 
 The network of SKA Regional Centres (SRCNet) are developing an internationally interoperable digital research infrastructure which will enable astronomers to efficiently access, analyse and visualise the data. To minimise time to science the platform must, to the astronomer, be as easily accessible as the software running on their laptop and have access to the data captured by SKA (OLDPs) along with the computing power of a world class supercomputer.   
 
-Six components have been identified for the SRCNet’s community and SKA Observatory facing functionalities: Data Logistics, Commonality, Data Processing, Data Archiving and Curation, Scalable Resource Management and Allocation, and User Support.
+Six components have been identified for the SRCNet’s community and SKA Observatory facing functionalities. 
+: Data Logistics, Commonality, Data Processing, Data Archiving and Curation, Scalable Resource Management and Allocation, and User Support.
 
-These new technologies to enable the analysis of huge data volumes across disciplines, beyond radio astronomy. As a partner of IRIS and UKSRC's knowledge exchange activities will enable UK industry and other UK-based Digital Research Infrastructures to benefit from these technological developments.  
+The UKSRC Project will develop X Y Z. 
+
+The technologies being developed have the potential to be applied by other diciplines which also plan to analyse huge data volumes. As a partner of IRIS and UKSRC's knowledge exchange activities will enable UK industry and other UK-based Digital Research Infrastructures to benefit from these technological developments.  
 
  
 
