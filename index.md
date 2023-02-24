@@ -27,7 +27,7 @@ feature_row:
     url: "#technical-challenges"
     btn_label: "Read More"
     btn_class: "btn--primary
-  - image_path: assets/images/SKA-at-Night-600x400 .jpg
+  - image_path: assets/images/SKA-at-Night-600x400.jpg
     image_caption: "SKAO"
     title: "Collaborating internationally"
     excerpt: "The UKSRC team is part of the global SRC network which is developing interoperable functionalities to find, access, manipulate and visualise SKA Data products."
