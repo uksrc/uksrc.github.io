@@ -1,11 +1,21 @@
+---
+title: "Acknowledge UKSRC"
+type: pages
+permalink: /acknowledgement/
+classes: wide
+header:
+  overlay_image: /assets/images/MilkyWay.png
+author_profile: false
+sidebar: 
+  nav: "docs"
+--- 
  
- 
- 
- 
- 
- 
- DiRAC FACILITY ACKNOWLEDGEMENT WORDING
+How to acknowledge the UKSRC in a publication.
 
-DiRAC@Cambridge (Data Intensive service – Cambridge):
+## Digital Research Infrastucture Facilities ##
+**UKSRC@Cambridge**
+This work was performed using the **XXXXX facility**, part of which is operated by the University of Cambridge Research Computing on behalf of the STFC UK SKA Regional Centre (UKSRC). It was funded by IRIS (www.iris.ac.uk) capital funding via STFC capital grants **XXXX-RSAP** ad **DA-CLOUD**.
 
-This work was performed using the Cambridge Service for Data Driven Discovery (CSD3), part of which is operated by the University of Cambridge Research Computing on behalf of the STFC DiRAC HPC Facility (www.dirac.ac.uk). The DiRAC component of CSD3 was funded by BEIS capital funding via STFC capital grants ST/P002307/1 and ST/R002452/1 and STFC operations grant ST/R00689X/1. DiRAC is part of the National e-Infrastructure.
+**UKSRC@Manchester**
+This work was performed using the **XXXXX facility**, part of which is operated by the University of Manchester on behalf of the STFC UK SKA Regional Centre (UKSRC). It was funded by IRIS (www.iris.ac.uk) capital funding via STFC capital grants ST/W006944/1 ad **DA-ARCHIVE** and the STFC UKSRC Project **Manchester*
+
