@@ -19,7 +19,7 @@ feature_row:
     url: "#technical-challenges"
     btn_label: "Read More"
     btn_class: "btn--primary"
-  - image_path: assets/images/BarredSpiral-hst-600x400.png
+ - image_path: assets/images/BarredSpiral-hst-600x400.png
     image_caption: "Robert Braun"
     alt: "A barred spiral galaxy. Image courtesy of NASA, ESA and the Hubble Heritage Team (STScI/AURA)."
     title: "Strengthening the UK astronomy community"
