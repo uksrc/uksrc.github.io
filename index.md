@@ -16,7 +16,7 @@ feature_row:
     alt: "Source code text in yellow and pink overlaying a blurry photo  of computer racks."  
     title: "Developing digital research infrastructure"
     excerpt: "Bespoke UK-based computational and data facilities, tools, and services will contribute to the analysis of 700PB of data generated per year by the SKA telescopes."
-    url: "#test-link"
+    url: "#technical-challenges"
     btn_label: "Read More"
     btn_class: "btn--primary"
   - image_path: assets/images/BarredSpiral-hst-600x400.png
@@ -28,6 +28,12 @@ feature_row:
     image_caption: "SKAO"
     title: "Collaborating internationally"
     excerpt: "The UKSRC team is part of the global SRC network which is developing interoperable functionalities to find, access, manipulate and visualise SKA Data products."
+    url: "#astronomy-community"
+    btn_label: "Read More"
+    btn_class: "btn--primary
+    url: "#about-skao"
+    btn_label: "Read More"
+    btn_class: "btn--primary
 ---
 
 {% include feature_row id="intro" type="center" %}
