@@ -24,7 +24,7 @@ feature_row:
     alt: "A barred spiral galaxy. Image courtesy of NASA, ESA and the Hubble Heritage Team (STScI/AURA)."
     title: "Strengthening the UK astronomy community"
     excerpt: "UK astronomers will have opportunities to inform the UKSRC's development and to enhance their skills in preparation for the deployment of the SKA telescopes." 
-   url: "#technical-challenges"
+    url: "#technical-challenges"
     btn_label: "Read More"
     btn_class: "btn--primary
   - image_path: assets/images/SKA-at-Night-600x400 .jpg
