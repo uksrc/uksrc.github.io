@@ -9,7 +9,7 @@ header:
 intro: 
   - excerpt: "Square Kilometer Array Observatory (SKAO) will revolutionize radio astronomy.   <br>  
    
-    The UK SKA Regional Centre (UKSRC) project will, as part of a global network, develop the technology to enable researchers to explore the evolution of the early universe."
+    The UK SKA Regional Centre (UKSRC) development project will, as part of a global network, enable researchers to explore the evolution of the early universe."
 feature_row:
   - image_path: assets/images/source-600x400-dark.png
     image_caption: "Elchinator, Pixabay "
