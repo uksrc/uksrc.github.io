@@ -29,7 +29,9 @@ Between November 2021 - July 2022 the UKSRC Forum engaged with >150 UK-based aca
 * Chisholm, et al. (2022). Co-creating the UK SKA Regional Centre (UKSRC): Social & economic impact focus group discussions. [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6850791.svg)](https://doi.org/10.5281/zenodo.6850791)
 
 ### Funding ###
-* STFC Grant Codes for Bridging and what else? 
+
+UKSRC acknowledges the funding support for the SKA Bridging Phase was supported by grants ST/X000524/1 (University of Manchester), ST/X000486/1 (UCL), ST/X000478/1 (University of Hertfordshire), 
+
  
 
 
