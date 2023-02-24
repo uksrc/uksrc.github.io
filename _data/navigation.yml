@@ -20,7 +20,9 @@ docs:
  - title: "Project"
    children:
     - title: "Technical Challenges"
-      ucl: /technical-challenges/
+      url: /technical-challenges/
+    - title: "Astronomy Community"
+      url: /astronomy-community/
     - title: "Project Overview"
       url: /project-overview/
     - title: "Governance"
