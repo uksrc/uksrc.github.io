@@ -9,9 +9,7 @@ author_profile: false
 sidebar: 
   nav: "docs"
 ---
-The [UK SKA Regional Centre Strategy](https://www.ukri.org/wp-content/uploads/2022/04/STFC-220422-Funding-Opp-UKSKARegionalCentre2022-UKSRCStrategy.pdf) covers the timescale of the construction phase and early operations phase (up to 2030) and provides the strategy for UK involvement in the SRCNet. The UKSRC Project (2023-2025) will contribute to the delivery of this strategy. 
-
-
+The [UK SKA Regional Centre Strategy](https://www.ukri.org/wp-content/uploads/2022/04/STFC-220422-Funding-Opp-UKSKARegionalCentre2022-UKSRCStrategy.pdf) covers the timescale of the construction phase and early operations phase (up to 2030) and provides the strategy for UK involvement in the SRCNet. The UKSRC Project (2023-2025) will contribute to the delivery of this strategy.  
 ### Vision ###
 * To enable UK scientists to lead exploitation of SKA data, by meeting the needs of the UK Science Community and providing seamless access to SKA data and support.
 ### Mission ###
