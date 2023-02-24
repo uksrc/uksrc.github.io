@@ -9,7 +9,7 @@ author_profile: false
 sidebar: 
   nav: "docs"
 ---
-The UK SKA Regional Centre Forum was the UK body (START DATE - December 2022) that engaged with the SRC Network's preparatory activities to define and create a long-term operational partnership between the SKA Observatory and an ensemble of independently-resourced SKA Regional Centres. The UK has been a member of the SKA Regional Centre Steering Committee (SRCSC) since it was created in 2018. Forum members have contributed to international working groups (WG) focused on:
+The UK SKA Regional Centre Forum was the UK body that engaged with the SRC Network's preparatory activities to define and create a long-term operational partnership between the SKA Observatory and an ensemble of independently-resourced SKA Regional Centres. The UK has been a member of the SKA Regional Centre Steering Committee (SRCSC) since it was created in 2018. Forum members have contributed to international working groups (WG) focused on:
 * WG0: SRC Network Architecture	
 * WG1: Data Logistics Working Group	 
 * WG2: Operations Working Group	
