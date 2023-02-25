@@ -10,8 +10,8 @@ main:
 docs:
  - title: "About"
    children: 
-    - title: "About SKAO"
-      url: /SKAO/
+    - title: "Collaborating Internationally"
+      url: /international/
     - title: "UK Strategy"
       url: /strategy/
     - title: "Our Journey so far"
