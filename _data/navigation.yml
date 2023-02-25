@@ -19,10 +19,10 @@ docs:
     
  - title: "Project"
    children:
-    - title: "Astronomy Community"
-      url: /astronomy-community/
     - title: "Technical Challenges"
       url: /technical-challenges/
+    - title: "Astronomy Community"
+      url: /astronomy-community/
     - title: "Project Overview"
       url: /project-overview/
     - title: "Governance"
@@ -37,7 +37,7 @@ docs:
     - title: "News & Events"
       url: /news-events/
     - title: "Keep up to date"
-      url: /contacts/
+      url: /contact/
 
           
 
