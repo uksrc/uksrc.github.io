@@ -22,7 +22,7 @@ Researchers and digital research professionals work in international prototyping
 
 <figure>
   <img src="/assets/images/SRC_Capabilities_Federated_Network_V2.png" alt="this is a placeholder image">
-  <figcaption>Overview of required SRC node functionality and the Federated SRCNet.</figcaption>
+  <figcaption>Overview of required SRC node capabilities and the Federated SRCNet Network.</figcaption>
 </figure>
 
 [UKRI's list of useful SKA acronyms](https://www.ukri.org/publications/useful-ska-acronyms/)
