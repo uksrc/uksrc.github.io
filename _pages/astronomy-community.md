@@ -9,7 +9,7 @@ author_profile: false
 sidebar: 
   nav: "docs"
 ---
-UK-based astronomers will have opportunities to inform the UKSRC’s development and to enhance their skills in preparation for the deployment of the SKA telescopes:
+UK-based astronomers will have opportunities to inform the UKSRC’s technical development and to enhance their skills in preparation for the deployment of the SKA telescopes:
 * UKSRC Demonstrator Cases: provides structured support enabling astronomy communities to develop skills in articulating their requirements and testing the proto-UKSRC facility 
 * UKSRC Champion Scheme: support for community-led initiatives that will enable research communities to develop the skills, knowledge and mindset needed to harness SKA data
 * UKSRC Training: developing UKSRC specific resources and training in collaboration with the wider SRCnet and established astronomy summer schools.
