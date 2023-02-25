@@ -18,11 +18,11 @@ Both SKA telescopes will transfer an average of 8 terabits per second of data to
 ## SKA Regional Centre Network (SRCNet) ## 
 [Member states](https://www.skao.int/en/partners/skao-members) including Australia, Canada, China, France, Germany, India, Japan, Italy, the Netherlands, Portugal, South Africa, South Korea, Spain, Sweden, Switzerland, and the United Kingdom are funding and collaborating, with the SKAO, to develop an internationally interoperable network of SRC nodes. SRC nodes will recieve the OLDPs for further processing to generate Advanced Data Products (ADP), which will then be used by scientists to produce scientific results. The SRCNet will be the only route for researchers to access SKA data products and perform advanced scientific analysis.  
 
-Researchers and digital research professionals work in international prototyping teams to identify evaluate, test and devleop technologies that will be required by the SRCNet to function. 
+Researchers and digital research professionals work in international prototyping teams to identify evaluate, test and develop different components that will be required by the SRCNet to function.
 
 <figure>
   <img src="/assets/images/SRC_Capabilities_Federated_Network_V2.png" alt="this is a placeholder image">
-  <figcaption>This is a figure caption.</figcaption>
+  <figcaption>Overview of required SRC node functionality and the Federated SRCNet.</figcaption>
 </figure>
 
 [UKRI's list of useful SKA acronyms](https://www.ukri.org/publications/useful-ska-acronyms/)
