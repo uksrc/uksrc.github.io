@@ -9,8 +9,7 @@ author_profile: false
 sidebar: 
   nav: "docs"
 ---
-
-## UKSRC community co-creation, engagement, and training ##
+## UKSRC Astronomy Community: co-creation, engagement, and training ##
 * Demonstrator Cases
 * UKSRC Champion Scheme
 * Training
