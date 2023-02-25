@@ -10,9 +10,9 @@ sidebar:
   nav: "docs"
 ---
 ## UKSRC Astronomy Community: co-creation, engagement, and training ##
-* Demonstrator Cases
-* UKSRC Champion Scheme
-* Training
+* UKSRC Demonstrator Cases: provides structured support enabling astronomy communities to develop skills in articulating their requirements and testing the proto-UKSRC facility
+* UKSRC Champion Scheme: support for community-led initiatives that will enable research communities to develop the skills, knowledge and mindset needed to harness SKA data
+* UKSRC Training: developing UKSRC specific resources and training in collaboration with the wider SRCnet and established astronomy summer schools.
 ## SKAO Science Data Challenges (SDC) ##
 To prepare the radio-astronomical community for the novel nature of the data expected from the Square Kilometre Array, realistic, synthetic datasets emulating the telescope's capabilities will be disseminated to test the suitability of existing methods and foster the development of new ones on these next-generation, scientific datasets. Ultimately, results of each of the competing teams' approaches will be compared via a standard figure-of-merit, instigating a competitive nature to our challenges. [Further information](https://www.skao.int/en/science-users/160/skao-data-challenges) and details of [SKAO SDC3](https://sdc3.skao.int/overview).
 ## UKRI UK SKA Observatory Science Committee (UKSKAOSC) ##
