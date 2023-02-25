@@ -21,7 +21,7 @@ Both SKA telescopes will transfer an average of 8 terabits per second of data to
 Researchers and digital research professionals work in international prototyping teams to identify evaluate, test and devleop technologies that will be required by the SRCNet to function. 
 
 <figure>
-  <img src="/assets/images/SRC_Capabilities_Federated_Network.png" alt="this is a placeholder image">
+  <img src="/assets/images/SRC_Capabilities_Federated_Network_V2.png" alt="this is a placeholder image">
   <figcaption>This is a figure caption.</figcaption>
 </figure>
 
