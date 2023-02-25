@@ -1,7 +1,7 @@
 ---
 title: "Collaborating internationally"
 type: pages
-permalink: /SKAO/
+permalink: /international/
 classes: wide
 header:
   overlay_image: /assets/images/SKA-at-Night.jpg
@@ -13,11 +13,11 @@ The [SKA Observatory (SKAO)](https://www.skao.int/) is an intergovernmental orga
 
 The two telescopes will operate from 50 MHz to 350 MHz (SKA-LOW) and 350 MHz to 15.4 GHz (SKA-MID) respectively. Both telescopes will provide order of magnitude increases in survey speed compared to existing instruments and so will test existing, and develop new, theories over a very broad range of science areas. These include General Relativity, Cosmology, the Cosmic Dawn, Galaxy Formation and Evolution, the Cradle of Life, Cosmic Magnetism and the Exploration of the Unknown.  
 
-Both SKA telescopes will transfer an average of 8 terabits per second of data to their [Science Data Processors (SDP)](https://www.skao.int/en/explore/big-data) which are based in South Africa and Australia respectively. These SDP supercomputers will calibrate and process the telescope timestream data to produce Observatory Level Data Products (OLDPs). A wide variety of different OLDPs can be produced depending upon the specific science goal. The OLDPs will be distributed via intercontinental telecommunications networks to the SKA Regional Centres (SRC) for further processing to generate Advanced Data Products (ADP), which will then be used by scientists to produce scientific results.
+Both SKA telescopes will transfer an average of 8 terabits per second of data to their [Science Data Processors (SDP)](https://www.skao.int/en/explore/big-data) which are based in South Africa and Australia respectively. These SDP supercomputers will calibrate and process the telescope timestream data to produce Observatory Level Data Products (OLDPs). A wide variety of different OLDPs can be produced depending upon the specific science goal. The OLDPs will be distributed via intercontinental telecommunications SKA Regional Centres (SRC) for further processing to generate Advanced Data Products (ADP), which will then be used by scientists to produce scientific results.
 
 
-## SKA Regional Centre Network (SRCNet) ## 
-[Member states](https://www.skao.int/en/partners/skao-members) including Australia, Canada, China, France, Germany, India, Japan, Italy, the Netherlands, Portugal, South Africa, South Korea, Spain, Sweden, Switzerland, and the United Kingdom are developing an internationally interoperable network of [SKA Regional Centre nodes](https://www.skao.int/en/explore/big-data/362/ska-regional-centres), which will be the only route for researchers to access SKA data products and perform advanced scientific analysis.
+## SKA Regional Centre Network ## 
+[Member states](https://www.skao.int/en/partners/skao-members) including Australia, Canada, China, France, Germany, India, Japan, Italy, the Netherlands, Portugal, South Africa, South Korea, Spain, Sweden, Switzerland, and the United Kingdom are working together to develop an internationally interoperable network of [SKA Regional Centre nodes(SRCNet)](https://www.skao.int/en/explore/big-data/362/ska-regional-centres). This network will be the only route for researchers to access SKA data products and perform advanced scientific analysis.
 
 International prototyping teams. 
 
