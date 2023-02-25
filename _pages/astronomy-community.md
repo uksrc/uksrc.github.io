@@ -10,4 +10,13 @@ sidebar:
   nav: "docs"
 ---
 
-Science Demonstrator Cases and Supporting Pathfinder Science etc 
+## UKSRC Strenthening the Astronomy Community ##
+
+* Demonstrator Cases
+* UKSRC Champion Scheme
+* Training
+
+
+## SKAO Science Data Challenges ##
+
+## UKRI SKA Science Community ##
