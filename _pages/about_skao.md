@@ -1,5 +1,5 @@
 ---
-title: "SKA Observatory (SKAO)"
+title: "International Collaboration"
 type: pages
 permalink: /SKAO/
 classes: wide
@@ -9,7 +9,7 @@ author_profile: false
 sidebar: 
   nav: "docs"
 ---
-The [SKAO](https://www.skao.int/) is an intergovernmental organisation bringing together nations from around the world. Its mission is to build and operate cutting-edge radio telescopes to transform our understanding of the Universe, and deliver benefits to society through global collaboration and innovation. The observatory has a global footprint and consists of the SKAO Global Headquarters in the UK, the SKAO’s [two telescopes (SKA-Low and SKA-Mid)](https://www.skao.int/en/explore/telescopes) at radio-quiet sites in South Africa and Australia, and associated facilities to support the operations of the telescopes.
+The [SKA Observatory (SKAO)](https://www.skao.int/) is an intergovernmental organisation bringing together nations from around the world including Australia, Canada, China, France, Germany, India, Japan, Italy, the Netherlands, Portugal, South Africa, South Korea, Spain, Sweden, Switzerland, and the United Kingdom. Its mission is to build and operate cutting-edge radio telescopes to transform our understanding of the Universe, and deliver benefits to society through global collaboration and innovation. The observatory has a global footprint and consists of the SKAO Global Headquarters in the UK, the SKAO’s [two telescopes (SKA-Low and SKA-Mid)](https://www.skao.int/en/explore/telescopes) at radio-quiet sites in South Africa and Australia, and associated facilities to support the operations of the telescopes.
 
 The two telescopes will operate from 50 MHz to 350 MHz (SKA-LOW) and 350 MHz to 15.4 GHz (SKA-MID) respectively. Both telescopes will provide order of magnitude increases in survey speed compared to existing instruments and so will test existing, and develop new, theories over a very broad range of science areas. These include General Relativity, Cosmology, the Cosmic Dawn, Galaxy Formation and Evolution, the Cradle of Life, Cosmic Magnetism and the Exploration of the Unknown.  
 
@@ -17,5 +17,7 @@ Both SKA telescopes will transfer an average of 8 terabits per second of data to
 
 ## SKA Regional Centre Network (SRCNet) ## 
 [Member states](https://www.skao.int/en/partners/skao-members) are developing an internationally interoperable network of [SKA Regional Centres](https://www.skao.int/en/explore/big-data/362/ska-regional-centres), which will be the only route for researchers to access SKA data products and perform advanced scientific analysis.
+
+International prototyping teams. 
 
 [UKRI's list of useful SKA acronyms](https://www.ukri.org/publications/useful-ska-acronyms/)
