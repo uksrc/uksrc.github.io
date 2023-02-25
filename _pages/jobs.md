@@ -1,6 +1,6 @@
 ---
 title: "Join Us"
-layout: splash
+layout: wide
 permalink: /jobs/
 header:
   overlay_image: /assets/images/SKA-at-Night.jpg
