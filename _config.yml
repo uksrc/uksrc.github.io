@@ -19,7 +19,7 @@ locale                   : "en-US"
 title                    : "UK SKA Regional Centre Project"
 title_separator          : "-"
 subtitle                 :  #
-name                     : "STFC-funded UK SKA Regional Centre"
+name                     : "UK SKA Regional Centre (UKSRC)"
 description              : "Developing internationally interoperable digital research infrastructure to enable exploration of the early universe"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
