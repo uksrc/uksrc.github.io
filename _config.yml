@@ -18,9 +18,9 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 locale                   : "en-US"
 title                    : "UK SKA Regional Centre Project"
 title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
+subtitle                 :  #
 name                     : "UKSRC"
-description              : "Enable researchers to harness SKA data and explore the beginning of the universe in the UK and beyond"
+description              : "Developing internationally interoperable digital research infrastructure to enable exploration of the early universe"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
