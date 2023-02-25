@@ -1,11 +1,10 @@
 ---
 title: "Join Us"
-layout: pages
-classes: wide
+type: pages
 permalink: /jobs/
+classes: wide
 header:
-  overlay_image: /assets/images/SKA-at-Night.jpg
-  credit: SKAO
+  overlay_image: /assets/images/MilkyWay.png
 author_profile: false
 sidebar: 
   nav: "docs"
