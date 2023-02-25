@@ -5,6 +5,9 @@ permalink: /jobs/
 header:
   overlay_image: /assets/images/SKA-at-Night.jpg
   credit: SKAO
+author_profile: false
+sidebar: 
+  nav: "docs"
 ---
 
 We will be recruiting soon for a range of roles including:
