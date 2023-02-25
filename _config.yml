@@ -136,7 +136,7 @@ footer:
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/UK_SKARC"
     - label: "LinkedIn"
-      icon: "fab fa-fw fa-linkedin-square"
+      icon: "fab fa fa-linkedin-square"
       url: "https://www.linkedin.com/company/uk-ska-regional-centre-uksrc"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
