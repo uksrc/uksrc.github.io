@@ -31,7 +31,7 @@ feature_row:
     image_caption: "SKAO"
     title: "Collaborating internationally"
     excerpt: "The UKSRC team is part of the global SRC network which is developing interoperable functionalities to find, access, manipulate and visualise SKA Data products."
-    url: "/SKAO/"
+    url: "/international/"
     btn_label: "Read More"
     btn_class: "btn--primary"
 ---
