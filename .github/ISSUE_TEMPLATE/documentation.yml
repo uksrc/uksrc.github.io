@@ -1,10 +1,10 @@
-name: Documentation
-description: Found a typo or something that needs clarification?
+name: Content suggestions  
+description: Found a typo or something that needs clarification or an idea for a new section?
 body:
   - type: markdown
     attributes:
       value: |
-        Thanks for taking the time to open an issue and help make the docs better.
+        Thanks for taking the time to open an issue and help make the website better.
 
   - type: textarea
     id: motivation
