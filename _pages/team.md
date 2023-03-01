@@ -13,7 +13,7 @@ The UKSRC team brings together UK expertise in developing and delivering astrono
 
 ### [University of Cambridge](https://www.cam.ac.uk/) ###
 Dr Mark Ashdown; Cassie Bradley; Dr Paul Calleja (WP2 lead); Dr Jeremy Coles (WP5 lead); Dr Eloy de Lera Acedo; Prof Richard McMahon; Dr Oz Parchment; Wojciech Turek; Dr Nic Walton
-### pUniversity of Durham](https://www.durham.ac.uk/homepage/) ### 
+### [University of Durham](https://www.durham.ac.uk/homepage/) ### 
 Dr Alistair Basden; Dr Leah Morabito; Dr Fawada Qaiser
 ### [University of Edinburgh](https://www.ed.ac.uk/) ### 
 Dr George Beckett; Prof Phil Best  
