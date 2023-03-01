@@ -13,7 +13,7 @@ The [UK SKA Regional Centre Strategy](https://policycommons.net/artifacts/317456
 ## Vision ##
 * To enable UK scientists to lead exploitation of SKA data, by meeting the needs of the UK Science Community and providing seamless access to SKA data and support.
 ## Mission ##
-* To maximisethe return to the UK through a contribution to the SRCNet at a level commensurate with the UK's leading role in the project.
+* To maximise the return to the UK through a contribution to the SRCNet at a level commensurate with the UK's leading role in the project.
 * To deliver a UKSRC Node, enabling the UK to maximise scientific return and drive innovation in data science. 
 ## Strategic Pillars ##
 * SRC Network: To lead, participate and influence global SKA Regional Centre activities for the benefit of the UK.
