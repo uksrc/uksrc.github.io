@@ -18,7 +18,7 @@ Dr Alistair Basden; Dr Leah Morabito; Dr Fawada Qaiser
 ### [University of Edinburgh](https://www.ed.ac.uk/) ### 
 Dr George Beckett; Prof Phil Best  
 ### [University of Hertfordshire](https://www.herts.ac.uk/)  ###
-Prof Martin Hardcastle;  Dr Maya Horton; Dr Brendan Webster
+Prof Martin Hardcastle; Dr Maya Horton; Dr Brendan Webster
 ### [University of Manchester](https://www.manchester.ac.uk/) ###
 Dr Rachael Ainsworth (WP4 lead); Prof Rob Beswick (WP3 lead);  Dr Iulia Cimpan; Prof Keith Grainge;  Dr Paul Harrison; Dr Anthony Holloway; Dr Richard Hughes-Jones; Prof Anna Scaife; Dr Chris Skipper; Prof Ben Stappers; Dr Bob Watson 
 ### [StackHPC](https://www.stackhpc.com/) ###
