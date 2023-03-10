@@ -4,7 +4,7 @@ layout: splash
 permalink: //
 author_profile: false
 header:
-  overlay_image: /assets/images/logos-splash-skao-uksrc-ukri-stfc.png
+  overlay_image: /assets/images/logos-splash-skao-uksrc-ukri-stfc-V2.png
   alt: " "
 intro: 
   - excerpt: "Square Kilometer Array Observatory (SKAO) will revolutionize radio astronomy.   <br>  
