@@ -10,8 +10,6 @@ main:
 docs:
  - title: "About"
    children: 
-    - title: "Collaborating Internationally"
-      url: /international/
     - title: "UK Strategy"
       url: /strategy/
     - title: "Our Journey so far"
@@ -19,6 +17,8 @@ docs:
     
  - title: "Project"
    children:
+    - title: "Collaborating Internationally"
+      url: /international/
     - title: "Astronomy Community"
       url: /astronomy-community/
     - title: "Technical Challenges"
