@@ -9,7 +9,7 @@ author_profile: false
 sidebar: 
   nav: "docs"
 --- 
-The Square Kilometer Array is an exascale data challenge - each telescope is expected to create ~300 petabytes per year, creating an archive of ~8.5 exabytes during the initial high-priority science programmes [1]. The SKAO's Science Data Processors will calibrate and reduce the telescope data to a volume that can be transfered (as Observatory Level Data Products, OLDPs) via intercontinental telecommunications networks to SKA Regional Centre nodes.   
+The Square Kilometer Array is an exascale data challenge - each telescope is expected to create ~300 petabytes per year, creating an archive of ~8.5 exabytes during the initial science programmes [1]. The SKAO's Science Data Processors will calibrate and reduce the telescope data to a volume that can be transfered (as Observatory Level Data Products, OLDPs) via intercontinental telecommunications networks to SKA Regional Centre nodes.   
 
 The network of SKA Regional Centres (SRCNet) are developing an internationally interoperable digital research infrastructure which will enable astronomers to efficiently access, analyse and visualise the data. To minimise time to science the platform must, to the astronomer, be as easily accessible as the software running on their laptop and have access to the data captured by SKA (OLDPs) along with the computing power of a world class supercomputer.   
 
