@@ -4,7 +4,7 @@ layout: post
 categories: Training
 ---
 **Are you interested in Open Science and the effect it will have on your research and tools?**
-Join Dr Rachael Ainsworth and the other tutors at the first SKAO Open Science School to learn:
+Join Dr Rachael Ainsworth and the other tutors at the first SKAO Open Science School (8th-10th May 2023) to learn:
 - What is Open Science and how can we expect it to change and benefit science and society?
 - How will the SKAO and the SKA Regional Centres enable best practices in Open Science?
 - As a senior researcher/PhD student/engineer, how do Open Science practices and policies benefit and change my research/collaborations/services and tools?
