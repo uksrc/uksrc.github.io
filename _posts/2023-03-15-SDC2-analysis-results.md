@@ -1,10 +1,8 @@
 ---
 title:  "SDC2: analysis and results"
 layout: post
-values:
-      layout: single
-      sidebar:
-        nav: "docs"
+sidebar:
+  nav: "docs"
 categories: Training
 ---
 SKA Science Data Challenge 2: analysis and results
