@@ -1,7 +1,10 @@
 ---
 title:  "1st SKAO Open Science School"
-layout: post
+layout: single
+sidebar:
+  nav: "docs"
 categories: Training
+---
 ---
 **Are you interested in Open Science and the effect it will have on your research and tools?**
 Join Dr Rachael Ainsworth and the other tutors at the first SKAO Open Science School (8th-10th May 2023) to learn:
