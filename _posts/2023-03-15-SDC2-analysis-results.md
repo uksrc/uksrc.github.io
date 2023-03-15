@@ -1,6 +1,6 @@
 ---
 title:  "SDC2: analysis and results"
-layout: post
+layout: single
 sidebar:
   nav: "docs"
 categories: Training
