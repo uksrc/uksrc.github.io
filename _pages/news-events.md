@@ -6,5 +6,5 @@ author_profile: false
 sidebar:
   nav: "docs"
 header:
-  overlay_image: /assets/images/MilkyWay.png
+  overlay_image: /assets/images/MilkyWay.png 
 ---
