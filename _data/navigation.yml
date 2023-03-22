@@ -2,8 +2,8 @@
 main:
  - title: "Join Us"
    url: /jobs/
- # title: "News & Events"
- #  url: /news-events/
+   title: "News & Events"
+    url: /news-events/
  - title: "About"
    url: /strategy/
     
