@@ -3,8 +3,8 @@ title:  "1st SKAO Open Science School"
 layout: single
 sidebar:
   nav: "docs"
- header:
-  overlay_image: /assets/images/MilkyWay.png
+header:
+ overlay_image: /assets/images/MilkyWay.png
 categories: Training
 ---
 Open to the global astronomy community, this school provides a detailed view of Open Science policies and tools, as well as ongoing SKA activities. The SKA Regional Center Network (SRCNet) will play a key role enabling big scientific collaborations and it will provide the framework to implement SKA Open Science policies. 
