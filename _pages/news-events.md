@@ -6,8 +6,5 @@ author_profile: false
 sidebar:
   nav: "docs"
 header:
-  overlay_image: /assets/images/SKA-at-Night.jpg
+  overlay_image: /assets/images/MilkyWay.png
 ---
- 
-Still in development...
- 
