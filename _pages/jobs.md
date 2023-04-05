@@ -14,7 +14,6 @@ University of Cambridge
 - [Research Associate / Senior Research Associate in Radio Astronomy Data Analysis x 2](https://www.jobs.cam.ac.uk/job/40377/) (apply by: 10 May 2023)
 - [Computing Operations Engineer for Radio Astronomy](https://www.jobs.cam.ac.uk/job/40379/) (apply by: 10 May 2023)
 
-
 UCL 
 - PRISM (UKSRC Project & Community Manager) coming soon...
 
