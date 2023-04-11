@@ -15,13 +15,13 @@ University of Cambridge
 - [Computing Operations Engineer for Radio Astronomy](https://www.jobs.cam.ac.uk/job/40379/) (apply by: 10 May 2023)
 
 UCL 
-- PRISM (UKSRC Project & Community Manager) coming soon...
+- [PRISM (UKSRC Project & Community Manager)](https://www.ucl.ac.uk/work-at-ucl/search-ucl-jobs/details?jobId=8520&jobTitle=Professional%20Research%20Investment%20Strategy%20Manager) (apply by 23 April)
+PRISM - Professional Research Investment Strategy Manager – a recently recognised career pathway, which focuses on maximising the value of digital research infrastructure and related projects.  
 
+This role supports the UK Square Kilometre Array Regional Centre project (UKSRC, https://uksrc.github.io/, 8 partners, £7.2M). We are working with an international network of 14 nations and the SKA Observatory to develop infrastructure that will enable astronomers to transform our understanding of the universe. You will join the UKSRC Project Office to:  
 
-We will be recruiting for a range of roles including:
-* Astronomers
-* Research Software Engineers
-* Data Stewards
-* User Science Support
-* Research Computing Platforms/ Cloud experts
-* Project Managers / Professional Research Investment & Strategy Managers (PRISM)
+- Provide effective project management & governance to enable sustainable delivery  
+- Increase the visibility, and impact of the project through community engagement, open science, and knowledge exchange activities.
+- Develop initiatives and proposals to support the strategic growth of the project or Centre.
+- You will work with a range of UK and international stakeholders (e.g. researchers, technical professionals, funders, industry).
+
