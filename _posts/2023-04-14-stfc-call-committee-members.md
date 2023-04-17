@@ -3,7 +3,7 @@ title:  "STFC Call for applications to STFC Committees and Boards"
 layout: single
 sidebar:
   nav: "docs"
-categories:  
+categories: community
 ---
 ## UK SKAO Regional Centre (SRC) Project Board ##
 The UK SKAO Regional Centre (SRC) Project Board is looking for new members to serve from the 1 July 2023 for two years, with an option to extend for an additional year, with three positions available this year.
@@ -15,7 +15,7 @@ The UK SRC Project Board’s purpose is to:
 - ensure that the activities of the project reflect the UK research community’s interests
 - act as a ‘critical friend’ to the collaboration, providing support and challenge  
 
-The positions on the board are ideally suited for those in astronomy or with a background in digital research infrastructures with strong links to the radio astronomy community. However, individuals from cross disciplines are welcome to apply.
+The positions on the board are ideally suited for those in astronomy or with a background in digital research infrastructures with strong links to the radio astronomy community. However, individuals from cross disciplines are welcome to apply. Deadline: 14th May 2023 and [further information is available on STFC's website](https://www.ukri.org/about-us/stfc/how-we-are-governed/advisory-boards/call-for-applications/)
 
 ---
 
@@ -26,6 +26,4 @@ The committee also works closely with an early career research (ECR) sub-committ
 
 The positions on the committee are ideally suited for researchers at any stage of their career in the radio astronomy or related fields (including high-performance computing (HPC) and software development) with links to the UK scientific community. (there is a separate call for early career researchers (PhDs and postdocs) to join the ECR sub-committee). However, facilities users, applicants from academia, research institutes, those from cross disciplines, and national laboratories are welcome to apply.
 
-The deadline to apply for either committee is the 14th May 2023
-
-[Further information about the roles and application procedure](https://www.ukri.org/about-us/stfc/how-we-are-governed/advisory-boards/call-for-applications/)
+The deadline is the 14th May 2023 and [further information is available on STFC's website](https://www.ukri.org/about-us/stfc/how-we-are-governed/advisory-boards/call-for-applications/)
