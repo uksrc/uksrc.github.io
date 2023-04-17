@@ -1,5 +1,5 @@
 ---
-title:  "STFC Call for applications to STFC Committees and Boards"
+title:  "STFC call for committees members"
 layout: single
 sidebar:
   nav: "docs"
