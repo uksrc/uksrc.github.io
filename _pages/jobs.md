@@ -11,7 +11,7 @@ sidebar:
 ---
 ## Current Vacancies ##
 **UCL** 
-[Research Programme Manager](https://www.ucl.ac.uk/work-at-ucl/search-ucl-jobs/details?jobId=10211&jobTitle=Research%20Programme%20Manager) (deadline 4th June)
+[Research Programme Manager](https://www.ucl.ac.uk/work-at-ucl/search-ucl-jobs/details?jobId=10211&jobTitle=Research%20Programme%20Manager) (deadline 4th June)  
 Are you an enthusiastic research project/programme manager fascinated by technology?
 
 This role is responsible for research community engagement and impact-generating activities for the UK Square Kilometre Array Regional Centre (UKSRC) project.  This includes:
