@@ -10,17 +10,18 @@ sidebar:
   nav: "docs"
 ---
 ## Current Vacancies ##
-University of Cambridge
-- [Research Associate / Senior Research Associate in Radio Astronomy Data Analysis x 2](https://www.jobs.cam.ac.uk/job/40377/) (apply by: 10 May 2023)
-- [Computing Operations Engineer for Radio Astronomy](https://www.jobs.cam.ac.uk/job/40379/) (apply by: 10 May 2023)
+**UCL** 
+[Research Programme Manager](https://www.ucl.ac.uk/work-at-ucl/search-ucl-jobs/details?jobId=10211&jobTitle=Research%20Programme%20Manager) (deadline 4th June)
+Are you an enthusiastic research project/programme manager fascinated by technology?
 
-UCL 
-- [PRISM (UKSRC Project & Community Manager)](https://www.ucl.ac.uk/work-at-ucl/search-ucl-jobs/details?jobId=8520&jobTitle=Professional%20Research%20Investment%20Strategy%20Manager) (apply by 23 April)
-PRISM - Professional Research Investment Strategy Manager – a recently recognised career pathway, focuses on maximising the value of digital research infrastructure and related projects. You will join the UKSRC Project Office to:  
-  - Provide effective project management & governance to enable sustainable delivery  
-  - Increase the visibility, and impact of the project through community engagement, open science, and knowledge exchange activities.
-  - Develop initiatives and proposals to support the strategic growth of the project or Centre.
-  -  You will work with a range of UK and international stakeholders (e.g. researchers, technical professionals, funders, industry).  
-You may have experience as a research centre/project/network or community engagement manager.  
+This role is responsible for research community engagement and impact-generating activities for the UK Square Kilometre Array Regional Centre (UKSRC) project.  This includes:
 
+* Delivering the champion scheme and related activities to build and develop the UK radio astronomy community.
+* Facilitating collaborations that enable the community to evaluate new UKSRC tools (e.g. software) in their research.
+* Organising industry engagement and knowledge exchange activities (e.g. workshops).
+* Evaluating schemes and developing resources to share good practice.
+* Contributing to the UKSRC project management support and communications/marketing.
+* 
+You may have experience as a research project or network manager, or as a community  engagement manager.  
+ 
 
