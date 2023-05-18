@@ -20,7 +20,7 @@ This role is responsible for research community engagement and impact-generating
 * Organising industry engagement and knowledge exchange activities (e.g. workshops).
 * Evaluating schemes and developing resources to share good practice.
 * Contributing to the UKSRC project management support and communications/marketing.
-* 
+
 You may have experience as a research project or network manager, or as a community  engagement manager.  
  
 
