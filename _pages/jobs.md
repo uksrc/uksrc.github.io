@@ -9,18 +9,9 @@ author_profile: false
 sidebar: 
   nav: "docs"
 ---
-## Current Vacancies ##
-**UCL [Research Programme Manager](https://www.ucl.ac.uk/work-at-ucl/search-ucl-jobs/details?jobId=10211&jobTitle=Research%20Programme%20Manager)** (deadline 4th June 2023)
-Are you an enthusiastic research project/programme manager fascinated by technology?
+## Current Vacancies - 
+**[Delivery Manager - University of Cambridge](https://www.jobs.cam.ac.uk/job/41505/) Deadline: 3 July)**
 
-This role is responsible for research community engagement and impact-generating activities for the UK Square Kilometre Array Regional Centre (UKSRC) project.  This includes:
+We are looking for an experienced and enthusiastic Delivery Manager to be part of a new and exciting initiative to develop the UK Square Kilometre Array (SKA) Regional Centre (UKSRC). The role is based in Research Computing Services, a leading UK National Supercomputing Centre, providing facilities and services to world-renowned scientists, clinicians and engineers across the UK and Europe. The successful candidate will become part of a diverse and dynamic team of research systems engineers, astronomers and computer scientists developing the advanced solutions needed to produce science from what will become the world's largest radio telescope. The UKSRC, which spans 8 UK institutes, is part of a global network of SRCs, so joint development work will be undertaken in international teams using Scaled Agile methods.  
 
-* Delivering the champion scheme and related activities to build and develop the UK radio astronomy community.
-* Facilitating collaborations that enable the community to evaluate new UKSRC tools (e.g. software) in their research.
-* Organising industry engagement and knowledge exchange activities (e.g. workshops).
-* Evaluating schemes and developing resources to share good practice.
-* Contributing to the UKSRC project management support and communications/marketing.
-* 
-You may have experience as a research project or network manager, or as a community  engagement manager.  
- 
-
+You'll be responsible for the delivery of a technical development work package within the wider project, acting as Scrum Master for specific teams, as well as contributing to overarching governance and project management activities. You will have proven experience managing projects through the full lifecycle using a range of agile delivery methods and will be comfortable adapting your approach to meet the needs of the project and team. You will be able to build relationships at all levels with experience of influencing and negotiating with key stakeholders to achieve goals.
