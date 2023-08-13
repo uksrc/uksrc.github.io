@@ -11,7 +11,7 @@ sidebar:
 ---
 ## Current Vacancies 
 
-**[ARC Research Programme Manager: University College London, deadline 24 August 2023](https://www.ucl.ac.uk/work-at-ucl/search-ucl-jobs/details?jobId=14138&jobTitle=ARC+Research+Programme+Manager)**
+**[ARC Research Programme Manager: University College London, deadline 24 August 2023](https://www.ucl.ac.uk/work-at-ucl/search-ucl-jobs/details?jobId=14138&jobTitle=ARC+Research+Programme+Manager)**  
 Are you an enthusiastic research project/programme manager fascinated by technology?  This role is responsible for research community engagement and impact-generating activities for the UK Square Kilometre Array Regional Centre (UKSRC) project. This includes:
  - Delivering the champion scheme and related activities to build and develop the UK radio astronomy community.
  - Facilitating collaborations that enable the community to evaluate new UKSRC tools (e.g. software) in their research.
