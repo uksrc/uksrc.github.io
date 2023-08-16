@@ -11,9 +11,6 @@ sidebar:
 ---
 ## Current Vacancies 
 
-**[Research Fellow: University of Hertfordshire, deadline 10 September 2023](https://my.corehr.com/pls/uhrecruit/erq_jobspec_version_4.display_form)**  
-This postdoctoral position will lead original research in the context of the development of the UK Square Kilometer Array Regional Centre at the University of Hertfordshire, specifically in the area of development of the software needed to support the radio astronomy community in working with data from the SKA and pathfinders and precursors like LOFAR, MeerKAT and e-MERLIN, and in delivering the science demonstrator cases that form part of the funded UKSRC programme. The successful applicant will work with Professor Martin Hardcastle at the Centre for Astrophysics Research, and become a member of the UK SRC team, collaborating with partners in Cambridge, UCL, Durham and Manchester as well as with the international SRC network. This is a fixed-term position till December 2026 with the possibility of renewal subject to a successful bid for continued funding.
-
 **[ARC Research Programme Manager: University College London, deadline 24 August 2023](https://www.ucl.ac.uk/work-at-ucl/search-ucl-jobs/details?jobId=14138&jobTitle=ARC+Research+Programme+Manager)**  
 Are you an enthusiastic research project/programme manager fascinated by technology?  This role is responsible for research community engagement and impact-generating activities for the UK Square Kilometre Array Regional Centre (UKSRC) project. This includes:
  - Delivering the champion scheme and related activities to build and develop the UK radio astronomy community.
@@ -24,6 +21,8 @@ Are you an enthusiastic research project/programme manager fascinated by technol
 You may have experience as a research project or network manager, or as a community engagement manager.
 This role is part of the [PRISM - Professional Research Investment Strategy Manager](https://www.pris-managers.ac.uk/) – career pathway. These newly recognised roles focus on maximising the value of new technologies and digital research-related projects. 
 
+**[Research Fellow: University of Hertfordshire, deadline 10 September 2023](https://my.corehr.com/pls/uhrecruit/erq_jobspec_version_4.display_form)**  
+This postdoctoral position will lead original research in the context of the development of the UK Square Kilometer Array Regional Centre at the University of Hertfordshire, specifically in the area of development of the software needed to support the radio astronomy community in working with data from the SKA and pathfinders and precursors like LOFAR, MeerKAT and e-MERLIN, and in delivering the science demonstrator cases that form part of the funded UKSRC programme. The successful applicant will work with Professor Martin Hardcastle at the Centre for Astrophysics Research, and become a member of the UK SRC team, collaborating with partners in Cambridge, UCL, Durham and Manchester as well as with the international SRC network. This is a fixed-term position till December 2026 with the possibility of renewal subject to a successful bid for continued funding.
 
  **Various roles: University of Manchester, Deadline 17 September 2023**
 * [Data Management Specialist](https://www.jobs.manchester.ac.uk/Job/JobDetail?JobId=26354): Exploring and Prototyping Global Data Management, Solving issues with UK site storage technologies, Establish FTS, rucio, performance of FTS and rucio, Establish requirements for transfers between global SRCs. The appointments will be made at Grade 6 or 7 depending on experience.  
