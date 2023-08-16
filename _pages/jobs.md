@@ -11,7 +11,7 @@ sidebar:
 ---
 ## Current Vacancies 
 
-**[Research Fellow: University of Hertfordshire, deadline 10 September 2023(https://my.corehr.com/pls/uhrecruit/erq_jobspec_version_4.display_form)]**
+**[Research Fellow: University of Hertfordshire, deadline 10 September 2023](https://my.corehr.com/pls/uhrecruit/erq_jobspec_version_4.display_form)**
 This postdoctoral position will lead original research in the context of the development of the UK Square Kilometer Array Regional Centre at the University of Hertfordshire, specifically in the area of development of the software needed to support the radio astronomy community in working with data from the SKA and pathfinders and precursors like LOFAR, MeerKAT and e-MERLIN, and in delivering the science demonstrator cases that form part of the funded UKSRC programme. The successful applicant will work with Professor Martin Hardcastle at the Centre for Astrophysics Research, and become a member of the UK SRC team, collaborating with partners in Cambridge, UCL, Durham and Manchester as well as with the international SRC network. This is a fixed-term position till December 2026 with the possibility of renewal subject to a successful bid for continued funding.
 
 **[ARC Research Programme Manager: University College London, deadline 24 August 2023](https://www.ucl.ac.uk/work-at-ucl/search-ucl-jobs/details?jobId=14138&jobTitle=ARC+Research+Programme+Manager)**  
