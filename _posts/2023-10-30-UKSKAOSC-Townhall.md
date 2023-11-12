@@ -6,7 +6,7 @@ sidebar:
 categories: community
 ---
 
-[STFC UK SKA Observatory Science Committee (UKSKAOSC)](https://www.ukri.org/who-we-are/stfc/how-we-are-governed/advisory-boards/ukskasc/) is organising a hybrid townhall on the 30th November 2023 (10:30-16:30) at the Royal Astronomical Society (RAS) in London - Burlington House, Piccadilly, London W1J 0BQ. </BR>
+[STFC UK SKA Observatory Science Committee (UKSKAOSC)](https://www.ukri.org/who-we-are/stfc/how-we-are-governed/advisory-boards/ukskasc/) is organising a hybrid townhall on the 30th November 2023 (10:30-16:30) at the Royal Astronomical Society (RAS) in London - Burlington House, Piccadilly, London W1J 0BQ.  
 
 The meeting aims to bring the UK SKA community together to provide information on community engagement. The programme will include updates from the SKAO and the UK SKA Regional Centre (SRC), and will include a focus on engagement with Early Career Researchers (ECRs; PhD/postdocs).  There will also be a panel discussion to allow opportunity to explore priorities from the UK science community on what they want in terms of community engagement from SKAO and related organisations. The confirmed speakers include key representatives from the SKAO, the UK SKA Regional Centre, our UK SKAO Outreach Officer, and our UK SKAO Science Committee ECR representatives.   
 
