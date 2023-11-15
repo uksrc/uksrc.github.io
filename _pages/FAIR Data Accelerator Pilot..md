@@ -10,12 +10,12 @@ sidebar:
   nav: "docs"
 ---
 
-
 The challenges of implementing FAIR principles extend beyond technical and metadata issues and includes the human/social aspects of professional practice, professional identity and agency, or the actions humans take in response to changes in their situation and context.  This project will use social science approaches to make hidden social and cultural challenges and barriers to data sharing visible.
 
-This project wil enable the co-design of evidence-based interventions tailored for the respective research community’s needs and pilot a FAIR Data Accelerator, (adapting the tech startup approach). This will create a research discipline agnostic platform that could facilitate adoption of this approach more widely. The Accelerator will focus on initiatives that will remove barriers to cross-discipline data sharing and/or cultural incentives for data sharing (objectives 4b and 4d, respectively). Continuous testing and adaptation of the Accelerator will enable quantitative evaluation of its impact and potentially identify other initiatives that could be implemented at scale
+This project wil enable the co-design of evidence-based interventions tailored for the respective research community’s needs and pilot a FAIR Data Accelerator, (adapting the approach used in the tech startup sector). This will create a research discipline agnostic platform that could facilitate adoption of this approach more widely. The Accelerator will focus on initiatives that will remove barriers to cross-discipline data sharing and/or cultural incentives for data sharing. 
 
-Find out More at our webinar  on 11th December 2023 (details coming soon)
+## Find out more
+Join our webinar on 11th December 2023 (details coming soon)
 
 ## Project Team
 
