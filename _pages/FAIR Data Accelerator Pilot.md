@@ -14,6 +14,8 @@ The challenges of implementing FAIR principles extend beyond technical and metad
 
 This project wil enable the co-design of evidence-based interventions tailored for the respective research community’s needs and pilot a FAIR Data Accelerator, (adapting the approach used in the tech startup sector). This will create a research discipline agnostic platform that could facilitate adoption of this approach more widely. The Accelerator will focus on initiatives that will remove barriers to cross-discipline data sharing and/or cultural incentives for data sharing. 
 
+These insights can inform development of new training, community engagement & career development activities supporting existing and new DRI services e.g UK SKA Regional Centre.
+
 ## Find out more
 Join our webinar on 11th December 2023 (details coming soon)
 
