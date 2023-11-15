@@ -1,7 +1,7 @@
 ---
 title: "FAIR Data Accelerator Pilot"
 type: pages
-permalink: /FAIR-data-pilot/
+permalink: /fair-data-pilot/
 classes: wide
 header:
   overlay_image: /assets/images/MilkyWay.png
