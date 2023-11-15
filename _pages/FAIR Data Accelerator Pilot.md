@@ -16,7 +16,7 @@ This project will enable the co-design of evidence-based interventions tailored 
 
 These insights will inform development of new training, community engagement & career development activities supporting existing and new DRI services e.g UK SKA Regional Centre.
 ## Find out more
-Join our webinar on 11th December 2023 (details coming soon)
+Join our webinar on 11th December 2023 (details coming soon) 
 
 ## Project Team
 Dr Louise Chisholm, [Prof Allison Littlejohn]([https://profiles.ucl.ac.uk/76327-allison-littlejohn])(UCL Knowledge Lab), (Dr Eileen Kennedy)[https://profiles.ucl.ac.uk/48727-eileen-kennedy] (UCL Knowledge Lab), [Dr Francisco Duran Del Fierro](https://profiles.ucl.ac.uk/69380-francisco-duran-del-fierro) (UCL Knowledge Lab) 
