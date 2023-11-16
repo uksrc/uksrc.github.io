@@ -9,7 +9,6 @@ author_profile: false
 sidebar: 
   nav: "docs"
 ---
-
 The challenges of implementing FAIR principles extend beyond technical and metadata issues and includes the human/social aspects of professional practice, professional identity and agency, or the actions humans take in response to changes in their situation and context.  This project will use social science approaches to make hidden social and cultural challenges and barriers to data sharing visible.
 
 This project will enable the co-design of evidence-based interventions tailored for the respective research community’s needs and pilot a FAIR Data Accelerator, (adapting the approach used in the tech startup sector). The Accelerator will focus on initiatives that will remove barriers to cross-discipline data sharing and/or cultural incentives for data sharing. By increaseing our knowledge and understanding of social and cultural barriers that affect the implementation of the FAIR principles will enable us to find new ways to make data sharing more accessible to researchers. 
@@ -23,3 +22,4 @@ Dr Louise Chisholm, [Prof Allison Littlejohn]([https://profiles.ucl.ac.uk/76327-
   
 ## Funding
 This project is funded as part of the DSIT/UKRI Research Data Cloud Pilot Commission to Digital Research Investment Committee (DRIC)
+   
