@@ -15,7 +15,7 @@ docs:
     - title: "Our Journey so far"
       url: /history/
     
- - title: "UKSRC"
+ - title: "UKSRC Project"
    children:
     - title: "Collaborating Internationally"
       url: /international/
@@ -30,10 +30,11 @@ docs:
     - title: "Team"
       url: /team/
 
-  - title: "FAIR Data Accelerator Pilot" 
-   - title: "Project Overview"
+ - title: "FAIR Data Accelerator Pilot"
+   children:
+    - title: "Project Overview"
       url: /fair-data-pilot/
-    
+      
  - title: "Get involved"
    children:
     - title: "Join Us"
