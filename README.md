@@ -26,6 +26,6 @@ The pages are written in markdown. A guide for using markdown in github. This af
 - include who, what, where and how in the news and article and how it relates to UKSRC (e.g. team member contributing to the teaching, someone presenting, using our hpc resources).
 
 5.  Publish the page
- -  Press commit changes
+ -  Press commit changes (green button)
    ![image](https://github.com/uksrc/uksrc.github.io/assets/60702218/4eb87556-a9bc-4f33-926b-a0c4e52c28a3)
   
