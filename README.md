@@ -40,7 +40,7 @@ The pages are written in markdown. A guide for using markdown in github. This af
 - Create a new file
 ![image](https://github.com/uksrc/uksrc.github.io/assets/60702218/b4b37b70-ce43-4dfd-bd21-13cd998f37c4)
 - give it a "meaninful title.md"
-- Add front matter to the _page
+- Add front matter to the _page. This can be copied from an existing page in the folder.
     - ![image](https://github.com/uksrc/uksrc.github.io/assets/60702218/17f10449-ecd0-4219-a7e5-c25d71b67b6c)
 
 4.  Publish the page
