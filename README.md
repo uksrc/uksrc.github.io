@@ -1,5 +1,5 @@
 # UK SKA Regional Centre user guide
-The webpage is created using  Jekyll theme [Minimal Mistakes guide](https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/) 
+The webpage is created using  Jekyll theme [Minimal Mistakes guide](https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/).
 
 ## Adding Events and News
 1. Open _posts folder 
@@ -17,11 +17,12 @@ The webpage is created using  Jekyll theme [Minimal Mistakes guide](https://mmis
 - https://www.markdownguide.org/getting-started/
 - https://www.markdownguide.org/cheat-sheet/
 
-- copy and edit the Fontal matter into the top of the page. The text between the --- is not rendered on the webpage. ront matter allows page-specific variables to be included at the top of a page.
+- copy and edit the Fontal matter into the top of the page. The text between the --- is not rendered on the webpage. The frontal matter allows page-specific variables to be included at the top of a page. 
+  
  ![image](https://github.com/uksrc/uksrc.github.io/assets/60702218/d58d824f-2bea-4e72-a35b-9b50e24655ea)
 
 ---
-title:  "title"
+title:  "title" 
 layout: single
 sidebar:
   nav: "docs"
@@ -31,3 +32,4 @@ categories: training, community,
 4. Publish the page
  -  Press commit changes
    ![image](https://github.com/uksrc/uksrc.github.io/assets/60702218/4eb87556-a9bc-4f33-926b-a0c4e52c28a3)
+- 
