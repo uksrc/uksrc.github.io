@@ -1,5 +1,5 @@
 # UK SKA Regional Centre user guide
-The webpage is created using  Jekyll theme [Minimal Mistakes guide](https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/).
+The webpage is created using Jekyll theme [Minimal Mistakes guide](https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/).
 The pages are written in markdown. A guide for using markdown in github. This affects how the page is formatted (fonts, tables, links etc)
 - https://www.markdownguide.org/getting-started/
 - https://www.markdownguide.org/cheat-sheet/
@@ -29,3 +29,19 @@ The pages are written in markdown. A guide for using markdown in github. This af
  -  Press commit changes (green button)
    ![image](https://github.com/uksrc/uksrc.github.io/assets/60702218/4eb87556-a9bc-4f33-926b-a0c4e52c28a3)
   
+## Adding and updating main webpages 
+1. Open _pages folder
+![image](https://github.com/uksrc/uksrc.github.io/assets/60702218/76b5cbf4-89b7-417e-9d6f-0fbd801453b4)
+
+3. To edit a page click on the pencil icon
+-  ![image](https://github.com/uksrc/uksrc.github.io/assets/60702218/75b33eb1-88cc-4b2c-ade5-4d3f2f333ef1)
+-  use markdown syntex 
+
+
+2. Create new file 
+- Create a new file
+![image](https://github.com/uksrc/uksrc.github.io/assets/60702218/b4b37b70-ce43-4dfd-bd21-13cd998f37c4)
+- give it a meaninful title.
+
+- Add front matter markdown file (.md)
+    - 
