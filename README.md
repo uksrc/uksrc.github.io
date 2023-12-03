@@ -4,7 +4,7 @@ The pages are written in markdown. A guide for using markdown in github. This af
 - https://www.markdownguide.org/getting-started/
 - https://www.markdownguide.org/cheat-sheet/
 - https://pages.github.com/
-- Youtube tutorial : (Jekyll - Static Site Generator)[https://www.youtube.com/playlist?list=PLLAZ4kZ9dFpOPV5C5Ay0pHaa0RJFhcmcB]
+- Youtube tutorial : [Jekyll - Static Site Generator](https://www.youtube.com/playlist?list=PLLAZ4kZ9dFpOPV5C5Ay0pHaa0RJFhcmcB)
 - 
   ## Adding Events and News
 1. Open _posts folder 
