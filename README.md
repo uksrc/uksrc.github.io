@@ -1,6 +1,7 @@
 # UK SKA Regional Centre user guide
 The webpage is created using Jekyll theme [Minimal Mistakes guide](https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/).
 The pages are written in markdown. A guide for using markdown in github. This affects how the page is formatted (fonts, tables, links etc). 
+- pMinimal mistakes formatting sheet](https://mmistakes.github.io/minimal-mistakes/docs/utility-classes/)
 - https://www.markdownguide.org/getting-started/
 - https://www.markdownguide.org/cheat-sheet/
 - https://pages.github.com/
