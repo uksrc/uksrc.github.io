@@ -24,7 +24,7 @@ sidebar:
 >
 >You'll be responsible for leading a team of cloud engineers to develop cloud infrastructure and science platforms for the UKSRC, working in collaboration with National and International colleagues to design, deliver, operate and support cloud infrastructure and HPC resources.
 >
->For further information and online application, [click here](https://www.jobs.cam.ac.uk/job/44328/).
+>Further [information about the Principle Cloud Engineer post and online application](https://www.jobs.cam.ac.uk/job/44328/).
 >
 ## Senior Cloud Engineer
 >### Location 
@@ -44,7 +44,7 @@ sidebar:
 >
 >You'll be working in a team of cloud engineers, in collaboration with National and International colleagues to help deliver, operate and support the UKSRC and international cloud infrastructure and HPC resources.
 >
->For further information and online application, [click here](https://www.jobs.cam.ac.uk/job/44327/).
+>Further [information about the Senior Cloud Engineer post and online application](https://www.jobs.cam.ac.uk/job/44327/).
 >
 ## Cloud Engineer
 >### Location 
@@ -64,7 +64,7 @@ sidebar:
 >
 >You'll be working in a team of cloud engineers, in collaboration with National and International colleagues to help deliver, operate and support the UKSRC and international cloud infrastructure and HPC resources.
 >
->For further information and online application, [click here](https://www.jobs.cam.ac.uk/job/44326/).
+>Further [information about the Cloud Engineer post and online application](https://www.jobs.cam.ac.uk/job/44326/).
 >
 
  
