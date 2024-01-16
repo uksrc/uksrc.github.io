@@ -19,4 +19,4 @@ highlight the strengths of multidisciplinary and collaborative effort. The winni
 which combined predictions from two independent machine learning techniques to yield a
 20 percent improvement in overall performance – underscores one of the main Challenge
 outcomes: that of method complementarity. It is likely that the combination of methods in a
-so-called ensemble approach will be key to exploiting very large astronomical datasets.
+so-called ensemble approach will be key to exploiting very large astronomical datasets.  
