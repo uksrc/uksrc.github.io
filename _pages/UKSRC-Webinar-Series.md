@@ -1,7 +1,7 @@
 ---
 title: "UKSRC Webinar Series"
 layout: posts
-permalink: /webinar-series/
+permalink: /uksrc-webinar-series/
 author_profile: false
 sidebar:
   nav: "docs"
