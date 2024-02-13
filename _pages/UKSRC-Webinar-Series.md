@@ -1,7 +1,7 @@
 ---
 title: "UKSRC Webinar Series"
 type: pages
-permalink: /uksrc-webinar-series/
+permalink: /webinar-series/
 classes: wide
 header:
   overlay_image: /assets/images/MilkyWay.png
