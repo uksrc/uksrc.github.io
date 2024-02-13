@@ -9,6 +9,8 @@ author_profile: false
 sidebar: 
   nav: "docs"
 ---
+![X](/assets/images/UKSRC-Webinar-Series-Image.jpg)
+
 # UKSRC Webinar Series
 
 ## Introducing UKSRC
