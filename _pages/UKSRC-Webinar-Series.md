@@ -1,12 +1,13 @@
 ---
 title: "UKSRC Webinar Series"
-layout: wide
+type: pages
 permalink: /uksrc-webinar-series/
-author_profile: false
-sidebar:
-  nav: "docs"
+classes: wide
 header:
-  overlay_image: /assets/images/MilkyWay.png 
+  overlay_image: /assets/images/MilkyWay.png
+author_profile: false
+sidebar: 
+  nav: "docs"
 ---
 # UKSRC Webinar Series
 
