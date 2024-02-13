@@ -1,6 +1,6 @@
 ---
 title: "UKSRC Webinar Series"
-layout: posts
+layout: wide
 permalink: /uksrc-webinar-series/
 author_profile: false
 sidebar:
