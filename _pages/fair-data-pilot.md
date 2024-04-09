@@ -20,8 +20,9 @@ Join our webinar on 29 April 10am:
 *Learn about what insights have arising from ethnographic studies to understand data sharing challenges and barriers across UK Digital Research infrastructure landscape 
 *Explore whether these challenges reflect your experiences and values 
 *Find out how you could address these challenges in your research community or Digital research infrastructure    
-*Find out how you could participate in the FAIR Data Accelerator to develop professional development, training or community engagement activities 
-Register online: https://ucl.zoom.us/rest/meeting/registrant/tJctfuyopzsjEt3UKmWr_-TAFcIdd2ERAL__/info?tk=YuQ71d5N4ELQ7wXTvkittIV0P-pJfMY4erbsCx_AJQhxzT-POVQ2bHg.I7S7GrqWmv_M2TJC&ac=approved&timezone_id=Europe/London#/edit 
+*Find out how you could participate in the FAIR Data Accelerator to develop professional development, training or community engagement activities  <br>
+[Register online](https://ucl.zoom.us/meeting/register/tJctfuyopzsjEt3UKmWr_-TAFcIdd2ERAL__#/registration)
+
 ## Project Team
 Dr Louise Chisholm, [Prof Allison Littlejohn]([https://profiles.ucl.ac.uk/76327-allison-littlejohn])(UCL Knowledge Lab), (Dr Eileen Kennedy)[https://profiles.ucl.ac.uk/48727-eileen-kennedy] (UCL Knowledge Lab), [Dr Francisco Duran Del Fierro](https://profiles.ucl.ac.uk/69380-francisco-duran-del-fierro) (UCL Knowledge Lab) 
   
