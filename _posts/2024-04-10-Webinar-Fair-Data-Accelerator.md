@@ -1,5 +1,5 @@
 ---
-title:  "Join us at our net Webinar, Fair Data Accelerator: social and cultural barriers to data sharing"
+title:  "Fair Data Accelerator: social and cultural barriers to data sharing (Webinar)"
 layout: single
 sidebar:
   nav: "docs"
