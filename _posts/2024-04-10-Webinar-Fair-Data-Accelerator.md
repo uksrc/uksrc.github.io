@@ -1,5 +1,5 @@
 ---
-title:  "UKSRC Webinar Series: Fair Data accelerator: social and cultural barriers to data sharing"
+title:  "Join us at our net Webinar, Fair Data Accelerator: social and cultural barriers to data sharing"
 layout: single
 sidebar:
   nav: "docs"
