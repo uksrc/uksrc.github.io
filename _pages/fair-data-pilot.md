@@ -27,6 +27,9 @@ Join our webinar on 29 April 10am:
 Dr Louise Chisholm, [Prof Allison Littlejohn]([https://profiles.ucl.ac.uk/76327-allison-littlejohn])(UCL Knowledge Lab), (Dr Eileen Kennedy)[https://profiles.ucl.ac.uk/48727-eileen-kennedy] (UCL Knowledge Lab), [Dr Francisco Duran Del Fierro](https://profiles.ucl.ac.uk/69380-francisco-duran-del-fierro) (UCL Knowledge Lab) 
   
 ## Funding
-This project is funded as part of the DSIT/UKRI Research Data Cloud Pilot Commission to Digital Research Investment Committee (DRIC)
+This project is funded as part of the DSIT/UKRI Research Data Cloud Pilot Commission to Digital Research Investment Committee (DRIC). These [pilot projects](https://www.ukri.org/news/pilot-projects-will-aid-better-and-safer-use-of-data-in-research/) are contributing to the National Science and Technology Framework and will test ways to collaborate and share data to solve important problems in society, energy, transport and more.  The pilots will provide valuable evidence to DSIT on what more needs to be done to: 
+- optimise the research data ecosystem in the UK 
+- ensure researchers have secure access to the highest quality data 
+- cement the UK’s status as a world-leading research hub 
    
  
