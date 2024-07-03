@@ -15,7 +15,7 @@ We invite topic and talk proposals from the project and wider UK community —vi
 
 # UKSRC Webinar Series 
 ### Thursday 25 July 2024, 12:00-12:50 UTC.
-  Join us at our next UKSRC Webnar Series scheduled on July 25th at 12:00 with the folowing talks:
+  Join us at our next UKSRC Webnar Series scheduled on July 25th at 12:00 with the folowing talks: 
 
 * #### Developing a science-analysis platform for the SKA (Chris Skipper)
   The SKA is set to bring about a paradigm shift in our approach to astronomical-data analysis, with unprecedented volumes of data making it impractical for astronomers to download and reduce data on their own desktop computers or laptops. The science community will instead interact with SKA datasets through an online science-analysis platform, providing data access and a rich set of tools for data analysis, whilst the data remains stored within a network of high-performance computing centres. It is absolutely essential that SKA data is made accessible to as wide an audience as possible, without the need for users to be computing experts or 'radio-astronomy ninjas'. In this talk I will outline the SRCNet vision for this science-analysis platform, and demonstrate some features of the prototype that has been developed for the first release early next year.
