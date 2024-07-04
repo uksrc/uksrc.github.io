@@ -26,7 +26,7 @@ We invite topic and talk proposals from the project and wider UK community —vi
 Please [register](https://ucl.zoom.us/webinar/register/WN_vIEHTvaWTLyMgl25njSgaA#/registration) to join us.
 
 
- # Introducing UKSRC 
+# Introducing UKSRC 
 * ### Thursday 7 March 2024, 12:00-12:50 UTC. 
 
   Join us for the UKSRC Webinar Series kickoff! Our first talk, **Introducing UKSRC** by our Joint Directors, [Dr. Louise Chisholm](https://twitter.com/Lou_Chisholm) and [Prof. Rob Beswick](https://twitter.com/Rob_Beswick).
