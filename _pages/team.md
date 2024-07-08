@@ -12,7 +12,7 @@ sidebar:
 The UKSRC team brings together UK expertise in developing and delivering astronomy and digital research infrastructure.
 
 ### [University of Cambridge](https://www.cam.ac.uk/) ###
-Dr Mark Ashdown; Cassie Bradley; Dr Paul Calleja (Technical Director, WP2); Dr Jeremy Coles (WP5 lead); Dr Eloy de Lera Acedo; Prof Richard McMahon; Mehdi Hammed; Tunde Oyewo; Dr Oz Parchment; Wojciech Turek; Dr Charlie Walker; Dr Nic Walton; Duncan Watson; Dr Haoyang Ye; 
+Dr Mark Ashdown; Cassie Bradley; Dr Paul Calleja (Technical Director, WP2); Dr Jeremy Coles (WP5 lead); Dr Eloy de Lera Acedo; Prof Richard McMahon; Mehdi Hammed; Tunde Oyewo; Dr Oz Parchment; Wojciech Turek; Dr Charlie Walker; Dr Nic Walton; Duncan Watson; Dr Haoyang Ye.
 ### [University of Durham](https://www.durham.ac.uk/homepage/) ### 
 Dr Alastair Basden; Dr Leah Morabito; Dr Fawada Qaiser.
 ### [University of Edinburgh](https://www.ed.ac.uk/) ### 
