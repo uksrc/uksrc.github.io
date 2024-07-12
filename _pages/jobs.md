@@ -22,7 +22,7 @@ Deadline: 4/08/2024
 The University of Cambridge RCS provides HPC resources for UKSRC and is developing novel federated cloud platform technologies as well as providing leadership on system architecture. The successful candidate will become part of a diverse team of systems engineers, astronomers, and computer scientists developing advanced solutions to support world class science and deliver service for processing data from the world's largest radio telescope. You'll be working in a team of Cloud engineers, in collaboration with National and International colleagues to help deliver, operate and support the UKSRC and international cloud infrastructure and HPC resources. Responsibilities include: Design, deploy, and manage OpenStack-based cloud environments; Troubleshoot and resolve complex issues related to cloud infrastructure and HPC environments; Stay current with industry trends and emerging technologies to propose innovative solutions; Support Science teams by providing them with technical expertise and advice on best practices for using cloud-based environments.
 Deadline@ 30/7/24
 
-Stay up to date with the project:
+**Stay up to date with the project:**
 * Joint JISC mailing list with the STFC UK SKA Observatory Science Committee ​
 [UKSKA-SCIENCECOMMUNITY@JISCMAIL.AC.UK](https://www.jiscmail.ac.uk/cgi-bin/wa-jisc.exe?A0=UKSKA-SCIENCECOMMUNITY)
 * [Twitter @UK_SKARC](https://twitter.com/UK_SKARC)
