@@ -15,9 +15,9 @@ The UKSRC team brings together UK expertise in developing and delivering astrono
 Eloy de Lera Acedo, Paul Calleja, Jeremy Coles, Mark Ashdown, Charlie Walker, Haoyang Ye, Tunde Oyewo, Duncan Watson, Wojciech Tuerk, Paul Browne, Sean McConkey, Richard McMahon, 
 Nicolas Walton
 ### [University of Durham](https://www.durham.ac.uk/homepage/) ### 
-Dr Alastair Basden; Dr Leah Morabito; Dr Fawada Qaiser.
+Alastair Basden; Leah Morabito; Fawada Qaiser.
 ### [University of Edinburgh](https://www.ed.ac.uk/) ### 
-Dr George Beckett; Prof Phil Best.  
+George Beckett; Phil Best.  
 ### [University of Hertfordshire](https://www.herts.ac.uk/)  ###
 Prof Martin Hardcastle; Dr Brendan Webster; Dr Bonnie Barkus.
 ### [University of Manchester](https://www.manchester.ac.uk/) ###
@@ -25,8 +25,8 @@ Rob Beswick (Joint Director), Keith Grainge, Ben Stappers, Paul Harrison, Ant Ho
 ### [StackHPC](https://www.stackhpc.com/) ###
 John Garbutt, Dr John Taylor
 ### [STFC RAL Scientific Computing](https://www.scd.stfc.ac.uk/Pages/home.aspx) ###
-Ian Collier (Deputy Techincal Director, WP2); Rose Cooper; Dr Tom Dack; Chris Green; Jens Jensen; James Walder.
+Ian Collier; Rose Cooper; Tom Dack; Chris Green; Jens Jensen; James Walder, Matthias Mayer 
 ### [UCL](https://www.ucl.ac.uk/) ###
-Dr Louise Chisholm (Joint Director); Dr Marcus Keil; Dr Rahil Alipour.
+Louise Chisholm (Joint Director); Marcus Keil; Rahil Alipour, Lucy Caselton
   
 ---
