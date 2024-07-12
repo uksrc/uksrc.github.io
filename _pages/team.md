@@ -12,7 +12,8 @@ sidebar:
 The UKSRC team brings together UK expertise in developing and delivering astronomy and digital research infrastructure.
 
 ### [University of Cambridge](https://www.cam.ac.uk/) ###
-Dr Mark Ashdown; Cassie Bradley; Dr Paul Calleja (Technical Director, WP2); Dr Jeremy Coles (WP5 lead); Dr Eloy de Lera Acedo; Prof Richard McMahon; Mehdi Hammed; Dr Maya Horton; Tunde Oyewo; Dr Oz Parchment; Wojciech Turek; Dr Charlie Walker; Dr Nic Walton; Duncan Watson; Dr Haoyang Ye.
+Eloy de Lera Acedo, Paul Calleja, Jeremy Coles, Mark Ashdown, Charlie Walker, Haoyang Ye, Tunde Oyewo, Duncan Watson, Wojciech Tuerk, Paul Browne, Sean McConkey, Richard McMahon, 
+Nicolas Walton
 ### [University of Durham](https://www.durham.ac.uk/homepage/) ### 
 Dr Alastair Basden; Dr Leah Morabito; Dr Fawada Qaiser.
 ### [University of Edinburgh](https://www.ed.ac.uk/) ### 
@@ -20,12 +21,12 @@ Dr George Beckett; Prof Phil Best.
 ### [University of Hertfordshire](https://www.herts.ac.uk/)  ###
 Prof Martin Hardcastle; Dr Brendan Webster; Dr Bonnie Barkus.
 ### [University of Manchester](https://www.manchester.ac.uk/) ###
-Prof Rob Beswick (Joint Director, WP3 lead);  Jacob Burba; Dr Iulia Cimpan; Elliot Goodwin; Prof Keith Grainge;  Dr Paul Harrison; Dr Anthony Holloway; Dr Michael Johnson; Ian Leigh; Stephen Lloyd; Dr Richard Hughes-Jones; Prof Anna Scaife; Dr Chris Skipper; Prof Ben Stappers; Linzi Stirrup; Dr Bob Watson.
+Rob Beswick (Joint Director), Keith Grainge, Ben Stappers, Paul Harrison, Ant Holloway, Bob Watson, Chris Skipper, Iulia Cimpan, Jacob Burba, Jack Radcliffe, Julia Healy, Tianyue Chen, Michael Johnson, Erin Brassfield Bourke, Elliot Goodwin, Steve Lloyd, Dave Morris, Ben Green, Ian Leigh, Linzi Stirrup, Anthony Moraghan 
 ### [StackHPC](https://www.stackhpc.com/) ###
-John Garbutt; Dr John Taylor.
+John Garbutt, Dr John Taylor
 ### [STFC RAL Scientific Computing](https://www.scd.stfc.ac.uk/Pages/home.aspx) ###
 Ian Collier (Deputy Techincal Director, WP2); Rose Cooper; Dr Tom Dack; Chris Green; Jens Jensen; James Walder.
 ### [UCL](https://www.ucl.ac.uk/) ###
-Dr Louise Chisholm (Joint Director, WP1 lead); Dr Rev Jeremy Yates (Senior advisor); Dr Marcus Keil; Dr Rahil Alipour.
+Dr Louise Chisholm (Joint Director); Dr Marcus Keil; Dr Rahil Alipour.
   
 ---
