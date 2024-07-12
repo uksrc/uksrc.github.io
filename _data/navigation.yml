@@ -4,8 +4,6 @@ main:
    url: /jobs/
  - title: "News & Events"
    url: /news-events/
- - title: "Webinars"
-   url: /webinar-series/
  - title: "About"
    url: /strategy/
     
