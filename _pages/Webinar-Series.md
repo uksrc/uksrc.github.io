@@ -12,7 +12,7 @@ sidebar:
 ![](/assets/images/UKSRC-Webinar-Series-Image.jpg)
 
 # UKSRC Webinar Series 
-### Thursday 25 July 2024, 12:00-12:50 UTC.
+### Thursday 25 July 2024, 12:00-12:50 UTC+1.
 Please [register](https://ucl.zoom.us/webinar/register/WN_vIEHTvaWTLyMgl25njSgaA#/registration) to join us at our next UKSRC Webnar Series scheduled on July 25th at 12:00 with the folowing talks: 
 
 * #### Developing a science-analysis platform for the SKA (Dr Chris Skipper)
