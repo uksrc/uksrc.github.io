@@ -23,7 +23,7 @@ Pilot projects will aid better and safer use of data in research
 
 
 ## Project Team
-[Dr Louise Chisholm](https://profiles.ucl.ac.uk/52762-louise-chisholm) (PI), [Prof Allison Littlejohn]([https://profiles.ucl.ac.uk/76327-allison-littlejohn])(UCL Knowledge Lab), (Prof Eileen Kennedy)[https://profiles.ucl.ac.uk/48727-eileen-kennedy] (UCL Knowledge Lab), [Dr Francisco Duran Del Fierro](https://profiles.ucl.ac.uk/69380-francisco-duran-del-fierro) (UCL Knowledge Lab) 
+[Dr Louise Chisholm](https://profiles.ucl.ac.uk/52762-louise-chisholm) (PI), [Prof Allison Littlejohn](https://profiles.ucl.ac.uk/76327-allison-littlejohn)(UCL Knowledge Lab), [Prof Eileen Kennedy](https://profiles.ucl.ac.uk/48727-eileen-kennedy), [Dr Francisco Duran Del Fierro](https://profiles.ucl.ac.uk/69380-francisco-duran-del-fierro)  
   
 ## Funding
 This project is funded as part of the DSIT/UKRI Research Data Cloud Pilot Commission to Digital Research Investment Committee (DRIC)
