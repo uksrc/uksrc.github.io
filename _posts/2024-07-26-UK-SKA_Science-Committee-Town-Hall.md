@@ -1,5 +1,5 @@
 ---
-title:  "UK SKAO Science committee Town Hal"
+title:  "UK SKAO Science committee Town Hall"
 layout: single
 sidebar:
   nav: "docs"
@@ -25,3 +25,10 @@ Please note that the event will start promptly at 11:00 (arrival/registration to
 The agenda will be shared with all the registered attendees in due course. 
  
 Registration for either in-person or remote attendance will be via Eventbrite [at this link](https://www.eventbrite.co.uk/e/uk-skao-science-committee-town-hall-2024-edition-tickets-938703115287).  
+
+## Funding for Early Career Researchers 
+STFC has kindly provided funding for ECRs to help them travel to the meeting. Funding will be allocated based on needs, prioritizing ECRs from universities that have not received SKAO-related project funding.  ECR requests for travel support must be in line with UKRI’s business expense claims, business travel and subsistence policy and should be sent to George Madden (george.madden@stfc.ukri.org) and Simon Haynes (simon.haynes@stfc.ukri.org) by 6 September for consideration. These should be no more than one page and should include: 
+- Your science interests 
+- The reason why you want to attend this event 
+- An estimate of the funding needed, and why it is needed 
+
