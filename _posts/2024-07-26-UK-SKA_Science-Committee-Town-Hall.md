@@ -5,7 +5,7 @@ sidebar:
   nav: "docs"
 categories: community
 ---
-The UK SKAOSC Committee (UKSKAOSC) will be hosting a Town Hall meeting on Thursday 19 September 2024 (11:00-16:30) at Durham University.
+The [STFC UK SKAOSC Committee (UKSKAOSC)](https://www.ukri.org/who-we-are/stfc/how-we-are-governed/advisory-boards/ukskasc/) will be hosting a Town Hall meeting on Thursday 19 September 2024 (11:00-16:30) at Durham University.
 
 The meeting aims to bring the UK SKA community together to provide information on performing science using resources provided by the UK SKAO Regional Centre (SRC). 
 The programme will include updates from the SKAO and the UK SRC, and will include a focus on science demonstrator cases, which are community-led projects designed to test the functionality of the UK SRC resources. 
