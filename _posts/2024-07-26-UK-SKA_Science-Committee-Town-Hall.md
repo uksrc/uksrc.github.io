@@ -12,13 +12,9 @@ The programme will include updates from the SKAO and the UK SRC, and will includ
 There will also be a panel discussion to explore the community’s questions about demonstrator cases, and how to get involved.  Early Career Researchers (ECRs; PhD/postdocs) are particularly encouraged to attend. 
  
 Our confirmed speakers include key representatives from the SKAO and the UK SKAO Regional Centre, including: 
- 
-**Wendy Williams (SKAO)**
-
-**Rob Beswick / Louise Chisholm (UK SRC)** 
-
-**Julia Healy (UK SRC)**
-
+ * Wendy Williams (SKAO)
+* Rob Beswick / Louise Chisholm (UK SRC) 
+* Julia Healy (UK SRC)
 
 The meeting will be held at the [Durham Astronomy Research Cluster](https://astro.dur.ac.uk/) in Durham and will be offered as a hybrid event. We encourage in person presence when possible. 
 Please note that the event will start promptly at 11:00 (arrival/registration to start from 10:00) and finish at 16:30. 
