@@ -12,10 +12,11 @@ sidebar:
 ![](/assets/images/UKSRC-Webinar-Series-Image.jpg)
 
 # UKSRC Webinar Series 
-### 3rd October 2024 11:30 -12:30 BST (12:30 CEST)
+### Thursday 3 October 2024 11:30 -12:30 BST (12:30 CEST / 11:30 UK time)
 
 * #### The next generation of milliarcsecond surveys with SKA-VLBI (Dr Jack Radcliffe, U. Pretoria & U. Manchester)
-    The UKSRC is collaboating with the Instituto de Astrofísica de Andalucía (IAA). Registration link coming soon....  
+    This UKSRC webinar is in collaboration with the Instituto de Astrofísica de Andalucía (IAA). THe registration link is coming soon....
+  
   Abstract: Very Long Baseline Interferometry (VLBI), using both SKA-Low and Mid, is poised to deliver groundbreaking observations with milliarcsecond resolution, surpassing the capabilities of the standard SKA array. In conjunction with the SKA, VLBI holds the promise of unlocking profound insights across various astrophysical topics and science working groups. VLBI with the SKA stands to revolutionise our understanding of galaxy evolution and the physics of jet accretion by studying Active Galactic Nuclei (AGN) at low luminosities. Moreover, it is poised to make significant contributions to cosmology by constraining dark energy and dark matter via gravitational lenses and studying nuclear water masers. Exploring the stellar lifecycle, including the temporal evolution of supernova remnants and the rapid follow-up of transients (e.g., localising FRBs and tidal disruption events) adds another dimension to the diverse range of science that VLBI can investigate with the SKA. SKA-VLBI is set to offer unparalleled astrometric observations capable of measuring proper motions and parallaxes of galactic objects. This capability opens the door to mapping the structure of our Galaxy and testing gravity within binary systems. This overview highlights just a subset of the topics addressed in this presentation. I will delve into the scientific achievements achievable through VLBI with the SKA and elucidate the operational aspects of SKA-VLBI
 
 ### Thursday 25 July 2024, 12:00-12:50 UTC+1
