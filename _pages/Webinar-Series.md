@@ -12,7 +12,7 @@ sidebar:
 ![](/assets/images/UKSRC-Webinar-Series-Image.jpg)
 
 # UKSRC Webinar Series 
-### Thursday 3 October 2024 11:30 -12:30 BST (12:30 CEST / 11:30 UK time)
+### Thursday 3 October 2024 11:30 -12:30 BST (12:30 CEST / 11:30 UK time) 
 
 * #### The next generation of milliarcsecond surveys with SKA-VLBI (Dr Jack Radcliffe, U. Pretoria & U. Manchester)
     This UKSRC webinar is in collaboration with the Instituto de Astrofísica de Andalucía (IAA). THe registration link is coming soon....
