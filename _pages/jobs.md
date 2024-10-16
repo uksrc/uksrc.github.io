@@ -25,11 +25,12 @@ The UKSRC Project Board’s (PB) purpose is to:
 
 Membership would begin in December 2024 appointed for two years in the first instance.
 
-Selection criteria 
-* We require a candidate with a deep understanding of the Digital Research Infrastructure landscape, and a track record of engagement in this domain.
-* Please provide a statement of no more than three paragraphs outlining why you would be appropriate for the Project Board including your experience in this field and Committee/Panel background.
-* A dynamic, diverse and inclusive Board is critical to ensuring the UKSRC project receives the best strategic advice and we encourage applications from all diverse backgrounds, demonstrating the appropriate skills, expertise and experience required.
-* Nominations should be sent to George Madden (george.madden@stfc.ukri.org) or Simon Haynes (simon.haynes@stfc.ukri.org) by the closing date of 15th November 2024.
+Selection criteria  
+We require a candidate with a deep understanding of the Digital Research Infrastructure landscape, and a track record of engagement in this domain.  
+
+Please provide a statement of no more than three paragraphs outlining why you would be appropriate for the Project Board including your experience in this field and Committee/Panel background.  
+A dynamic, diverse and inclusive Board is critical to ensuring the UKSRC project receives the best strategic advice and we encourage applications from all diverse backgrounds, demonstrating the appropriate skills, expertise and experience required.    
+Nominations should be sent to George Madden (george.madden@stfc.ukri.org) or Simon Haynes (simon.haynes@stfc.ukri.org) by the closing date of 15th November 2024.
 
  
 
