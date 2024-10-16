@@ -23,7 +23,7 @@ The UKSRC Project Board’s (PB) purpose is to:
 - to ensure that the activities of the project reflect the UK research community’s interests; and
 - act as a ‘critical friend’ to the collaboration, providing support and challenge.
 
-Membership would begin in December 2024 appointed for two years in the first instance.
+Membership would begin in December 2024 appointed for two years in the first instance. This is not a salaried position.
 
 Selection criteria  
 We require a candidate with a deep understanding of the Digital Research Infrastructure landscape, and a track record of engagement in this domain.  
