@@ -38,21 +38,11 @@ main_menu:
             url: /webinar-series/
           - title: "Past Events"
             url: /past-events/
-  - title: "Documentation"
-    submenu:
-      - title: "Using the UKSRC"
-        url: /using-uksrc/
   - title: "Opportunities"
     submenu:
       - title: "Within SRC & SKAO"
         submenu:
           - title: "Vacancies"
             url: /jobs/
-          - title: "Training & Workshops"
-      - title: "Other Opportunities"
-        submenu:
-          - title: "Training & Workshops"
-          - title: "Fellowships"
-          - title: "Grants"
   - title: "Contact"
     url: /contact/
