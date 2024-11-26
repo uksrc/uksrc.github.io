@@ -37,14 +37,17 @@ body {
 
 .page {
   @include breakpoint($large) {
-    float: right;
-    width: calc(100% - #{$right-sidebar-width-narrow});
-    padding-right: $right-sidebar-width-narrow;
+    float: center;
+    width: 100%;
+    padding-right: 10%;
+    padding-left: 10%;
   }
 
   @include breakpoint($x-large) {
-    width: calc(100% - #{$right-sidebar-width});
-    padding-right: $right-sidebar-width;
+    float: center;
+    width: 100%;
+    padding-right: 10%;
+    padding-left: 10%;
   }
 
   .page__inner-wrap {
@@ -220,7 +223,7 @@ body {
     }
 
     .page__lead {
-      max-width: $medium;
+      max-width: 90%;
     }
 
     .page__title {

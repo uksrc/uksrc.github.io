@@ -2,12 +2,9 @@
 title: "UK Strategy"
 type: pages
 permalink: /strategy/
-classes: wide
+layout: single
 header:
   overlay_image: /assets/images/MilkyWay.png
-author_profile: false
-sidebar: 
-  nav: "docs"
 ---
 The [UK SKA Regional Centre Strategy](https://policycommons.net/artifacts/3174561/uk-ska-regional-centre-strategy-1/3973055) covers the timescale of the construction phase and early operations phase (up to 2030) and provides the strategy for UK involvement in the SRCNet. The UKSRC Development Project (2023-2025) will contribute to the delivery of this strategy.
 ## Vision ##

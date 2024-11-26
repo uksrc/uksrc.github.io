@@ -2,12 +2,10 @@
 title: "FAIR Data Accelerator Pilot"
 type: pages
 permalink: /fair-data-pilot/
-classes: wide
+classes: single
 header:
   overlay_image: /assets/images/MilkyWay.png
 author_profile: false
-sidebar: 
-  nav: "docs"
 ---
 
 The challenges of implementing FAIR principles extend beyond technical and metadata issues and includes the human/social aspects of professional practice, professional identity and agency, or the actions humans take in response to changes in their situation and context. 

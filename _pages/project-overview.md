@@ -2,12 +2,9 @@
 title: "Project Overview"
 type: pages
 permalink: /project-overview/
-classes: wide
+layout: single
 header:
   overlay_image: /assets/images/MilkyWay.png
-author_profile: false
-sidebar: 
-  nav: "docs"
 ---
 The UK SKA Regional Centre Development Project is organised into 5 workpackages.
 
