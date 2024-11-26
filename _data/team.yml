@@ -138,12 +138,12 @@ members:
       linkedin: juliahealy
   - name: Tianyue Chen
     affiliation: University of Manchester
-    photo: "/assets/images/teamphotos/TianyueChen.jpeg"
-    jobtitle: Research Scientist
+    photo: "/assets/images/teamphotos/teamavatar.png"
+    jobtitle: 
   - name: Michael Johnson
     affiliation: University of Manchester
     photo: "/assets/images/teamphotos/teamavatar.png"
-    jobtitle: Data Steward
+    jobtitle: 
   - name: Erin Brassfield-Bourke
     affiliation: University of Manchester
     photo: "/assets/images/teamphotos/teamavatar.png"
@@ -155,7 +155,7 @@ members:
   - name: Stephen Lloyd
     affiliation: University of Manchester
     photo: "/assets/images/teamphotos/teamavatar.png"
-    jobtitle: Research Software Engineer 
+    jobtitle: 
   - name: Dave Morris
     affiliation: University of Manchester
     photo: "/assets/images/teamphotos/teamavatar.png"
@@ -163,7 +163,7 @@ members:
   - name: Benjamin Green
     affiliation: University of Manchester
     photo: "/assets/images/teamphotos/teamavatar.png"
-    jobtitle: Research Software Engineer
+    jobtitle: 
   - name: Ian Leigh
     affiliation: University of Manchester
     photo: "/assets/images/teamphotos/teamavatar.png"
