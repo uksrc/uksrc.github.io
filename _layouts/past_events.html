@@ -1,0 +1,26 @@
+---
+layout: archive
+---
+
+
+{% assign siteevents = site.posts | where: "categories", "events" %}
+{% assign today = "now" | date: "%Y-%m-%d" %}
+
+<section class="events-section">
+  <div class="event-grid">
+    {% for event in siteevents %}
+      {% assign edate = event.date | date: "%Y-%m-%d" %}
+      {% if edate < today %}
+        <div class="events-container">
+          <div class="event-item">
+            <h2><a href="{{ event.url }}">{{ event.title }}</a></h2>
+            <p><strong>Date:</strong> {{ event.date | date: "%B %d, %Y" }} </p>
+            <p>{{ event.description | markdownify }}</p> 
+          </div>
+        </div>
+      {% endif %}
+    {% endfor %}
+  </div>
+</section> 
+
+

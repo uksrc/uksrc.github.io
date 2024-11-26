@@ -1,0 +1,56 @@
+---
+layout: single
+---
+
+{% assign jobposts = site.posts | where: "categories", "vacancies" %}
+{% assign today = "now" | date: "%Y-%m-%d" %}
+
+<section class="job-section">
+  <h1>Current Vacancies</h1>
+  <div class="job-container">
+    {% assign counter = 0 %}
+    {% for job in jobposts %}
+      {% assign jdate= job.jobdeadline | date: "%Y-%m-%d" %}
+      {% if jdate >= today %}
+      <div class="job-item">
+        <a class="h2" href="{{ job.joburl }}" target="_blank">{{ job.title }}</a>
+        <h3>Location: {{ job.joblocation }}</h3>
+        <p>{{ job.content }} </p>
+        <h4>Application deadline: {{ job.jobdeadline | date: "%A %d %B %Y" }}</h4>
+      </div>
+      {% assign counter = counter | plus:1 %}
+      {% endif %}
+    {% endfor %}
+    {% if counter == 0 %}
+    <div class="job-item">
+      <p>There are no vacancies at this time.</p>
+    </div>
+    {% endif %}
+  </div>
+</section> 
+
+<section class="past-job-section">
+  <h2>Past Vacancies</h2>
+  <div class="past-job-container-grid">
+    {% assign counter = 0 %}
+    {% for job in jobposts %}
+      {% if counter == 3 %}
+        {% break %}
+      {% endif %}
+      {% assign jdate= job.jobdeadline | date: "%Y-%m-%d" %}
+      {% if jdate < today %}
+      <div class="past-job-card">
+        <div class="past-job-item">
+          <a class="h2" href="{{ job.joburl }}" target="_blank">{{ job.title }}</a>
+          <h3>Location: {{ job.joblocation }}</h3>
+          <p>{{ job.content | truncatewords: 50}}</p>  
+        </div>
+        <div class="past-job-footer"><a href="{{ job.url | relative_url }}">Read more</a></div>
+      </div>
+      {% assign counter = counter | plus:1 %}
+      {% endif %}
+    {% endfor %}
+  </div>
+</section>
+
+{{ content }}
