@@ -31,6 +31,7 @@ main_menu:
       - title: "News"
         url: /news/
       - title: "Events"
+        url: /upcoming-events/
         submenu:
           - title: "Upcoming Events"
             url: /upcoming-events/
@@ -40,9 +41,9 @@ main_menu:
             url: /past-events/
   - title: "Opportunities"
     submenu:
-      - title: "Within SRC & SKAO"
-        submenu:
-          - title: "Vacancies"
-            url: /jobs/
+      # - title: "Within SRC & SKAO"
+      #   submenu:
+      - title: "Vacancies"
+        url: /jobs/
   - title: "Contact"
     url: /contact/
