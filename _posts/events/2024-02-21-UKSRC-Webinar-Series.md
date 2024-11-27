@@ -2,7 +2,7 @@
 title:  "UKSRC Webinar Series Kick Off!"
 layout: news-page
 categories: events
-date: 2025-3-7
+date: 2024-3-7
 tags: community webinar
 image_path: /assets/images/webinars/webinar_1.png
 image_caption: Introducing the UKSRC

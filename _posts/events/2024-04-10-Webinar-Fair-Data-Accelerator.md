@@ -3,7 +3,7 @@ title:  "Fair Data Accelerator: social and cultural barriers to data sharing (We
 layout: news-page
 categories: events
 tags: community webinar
-date: 2024-10-29
+date: 2024-4-29
 image_path: /assets/images/webinars/webinar_fairdata.png
 image_caption: Introducing the UKSRC
 description: "FAIR Data Accelerator: Social & cultural barriers to data sharing"

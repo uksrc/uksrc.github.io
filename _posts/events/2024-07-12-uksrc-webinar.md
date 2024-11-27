@@ -3,7 +3,7 @@ title:  "UKSRC Webinar #2"
 layout: news-page
 categories: events
 tags: community, webinar
-date: 2024-12-25
+date: 2024-7-25
 image_path: /assets/images/webinars/webinar_2.png
 image_caption: Invitation to webinar
 description: "[Please register](https://ucl.zoom.us/webinar/register/WN_vIEHTvaWTLyMgl25njSgaA#/registration) to join us for the folowing talks:"
