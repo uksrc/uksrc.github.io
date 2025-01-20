@@ -1,0 +1,85 @@
+---
+layout: archive
+---
+
+{% assign siteevents = site.posts | where: "categories", "events" | group_by_exp: 'post', 'post.date | date: "%Y"' | sort: "date" | reverse  %}
+{% assign today = "now" | date: "%Y-%m-%d" %}
+{% assign currentyear = "now" | date: "%Y" %}
+{% assign counter = 0 %}
+{% assign ccounter = 0 %}
+
+{% for year in siteevents %}
+  {% assign ycounter = 0 %}
+  {% if year.name == currentyear %}
+    {% for e in year.items %} 
+      {% assign ed = e.date | date: "%Y-%m-%d" %}
+      {% if ed > today %}
+        {% assign ccounter = ccounter | plus:1 %}
+      {% endif %}      
+    {% endfor %}
+    {% if ccounter > 0 %}
+      {% assign thisyear = year.items | group_by_exp: "post", 'post.date  | date: "%m"' %}
+      <section id="{{ year.name }}" class="taxonomy__section">
+        {% if ycounter == 0 %}
+          <h1>{{ year.name }}</h1>
+          {% assign ycounter = ycounter | plus:1 %}
+        {% endif %}
+        {% assign thisyear = year.items | group_by_exp: "post", 'post.date  | date: "%m"' %}
+        {% assign thisyear = thisyear | sort: "date" | reverse %}
+        {% for month in thisyear %}
+          {% assign mcounter = 0 %}
+            {% for event in month.items %}
+              {% assign edate = event.date | date: "%Y-%m-%d" %}
+              {% if edate > today %}
+                  {% if mcounter == 0 %}
+                  <div class="event-grid">
+                      <div class="event-month">
+                        {{ event.date | date: "%B" }}
+                    </div>
+                    {% assign mcounter = mcounter | plus:1 %}
+                  {% endif %}
+                  <div class="events-container">
+                    <div class="event-item">
+                      <h2><a href="{{ event.url }}">{{ event.title }}</a></h2>
+                      <p><strong>Date:</strong> {{ event.date | date: "%B %d, %Y" }} </p>
+                      <p>{{ event.description | markdownify }}</p> 
+                    </div>
+                  </div>
+              {% endif %}
+            {% endfor %}
+            {% if mcounter > 0 %}
+              </div>
+            {% endif %}
+        {% endfor %}
+      </section>
+    {% endif %}
+  {% else %}
+    {% assign yearevents = year.items | sort: "date" %}
+    {% unless yearevents.size > 0 and year.name < currentyear %}
+      {% assign counter = counter | plus:1 %}
+      <section id="{{ year.name }}" class="taxonomy__section">
+        {% if ycounter == 0 %}
+          <h1>{{ year.name }}</h1>
+          {% assign ycounter = ycounter | plus:1 %}
+        {% endif %}
+        <div class="event-grid">
+          {% for event in yearevents %}
+            <div class="events-container">
+              <div class="event-item">
+                <h2>
+                  <a href="{{ event.url | relative_url }}">{{ event.title }}</a>
+                </h2>
+                <p><strong>Date:</strong> {{ event.date | date: "%B %d, %Y" }} </p>
+                <p>{{ event.description | markdownify }}</p> 
+              </div>
+            </div>
+          {% endfor %} 
+        </div>
+      </section>
+    {% endunless %}
+  {% endif %}
+{% endfor %}
+
+{% if counter == 0 %}
+  <p>No upcoming events at the moment. Please check back later!</p>
+{% endif %}

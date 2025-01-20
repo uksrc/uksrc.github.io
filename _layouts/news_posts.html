@@ -1,0 +1,39 @@
+---
+layout: archive
+---
+
+{{ content }}
+
+{% assign entries_layout = page.entries_layout | default: 'list' %}
+{% assign postsByYear = site.posts | where_exp: "item", "item.hidden != true" | group_by_exp: 'post', 'post.date | date: "%Y"' %}
+{% for year in postsByYear %}
+  <section id="{{ year.name }}" class="taxonomy__section">
+    <div class="card-grid">
+      {% for post in year.items %}
+      {% unless post.category != vacancies %}
+        <div class="card">
+          <div class="card-content">
+            {% include card-news.html type=entries_layout %}
+          </div>
+          <div class="card-footer">
+            Date posted: {{ post.date | date: "%e %B %Y" }}
+          </div>
+        </div>
+        {% endunless %}
+      {% endfor %}
+    </div>
+
+    <p><a href="#page-title" class="back-to-top">{{ site.data.ui-text[site.locale].back_to_top | default: 'Back to Top' }} &uarr;</a></p>
+  </section>
+{% endfor %}
+
+<ul class="taxonomy__index">
+  {% assign postsInYear = site.posts | where_exp: "item", "item.hidden != true" | group_by_exp: 'post', 'post.date | date: "%Y"' %}
+  {% for year in postsInYear %}
+    <li>
+      <a href="#{{ year.name }}">
+        <strong>{{ year.name }}</strong> <span class="taxonomy__count">{{ year.items | size }}</span>
+      </a>
+    </li>
+  {% endfor %}
+</ul>

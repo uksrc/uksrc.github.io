@@ -1,0 +1,34 @@
+
+{% assign webinars = site.posts | where: "categories", "events" | where: "tags", "webinar" %}
+
+<section class="webinar-section">
+  <div class="webinar-container">
+    {% for event in webinars %}
+        <div class="webinar-item">
+            
+            <!-- <h1>{{ event.title }}</h1> -->
+            <a class="h1" href="{{ event.url | relative_url }}" rel="permalink">{{ event.title }}</a>
+
+            <h2>{{ event.date | date: "%A %d %B %Y" }}, {{ event.webinartime }}</h2>
+            <p>{{ event.webinarregistration | markdownify }}</p>
+            {% if event.webinartitle.first %}
+                {% assign num = event.webinartitle.size %}
+                {% assign range = (0..num) %}
+                {% for i in range %}
+                    {% if i == num %}
+                        {% break %}
+                    {% else %}
+                        <h3> {{ event.webinartitle[i] }} </h3>
+                        <h4>{{ event.webinarspeaker[i] }} ({{ event.speakeraffiliation[i] }})</h4>
+                        <p>{{ event.webinarabstract[i] | markdownify }}</p> 
+                    {% endif %}
+                {% endfor %}
+            {% else %}
+                <h3> {{ event.webinartitle }} </h3>
+                <h4>{{ event.webinarspeaker }} ({{ event.speakeraffiliation }})</h4>
+                <p>{{ event.webinarabstract | markdownify }}</p> 
+            {% endif %}
+        </div>
+    {% endfor %}
+  </div>
+</section> 

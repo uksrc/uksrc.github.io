@@ -15,19 +15,21 @@
 minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "en-US"
-title                    : "UK SKA Regional Centre Project"
+locale                   : "en-UK"
+title                    : "UKSRC - UK SKA Regional Centre"
 title_separator          : "-"
-subtitle                 :  #
-name                     : "UK SKA Regional Centre (UKSRC)"
+subtitle                 : "UKSRC"
+name                     : "UK SKA Regional Centre"
 description              : "Developing internationally interoperable digital research infrastructure to enable exploration of the early universe"
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://www.uksrc.org" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : # /assets/images/88x88.png
-masthead_title           : "UK SKA Regional Centre Project"
-# breadcrumbs            : false # true, false (default)
+logo                     : "/assets/images/SKAO_ukSRC_logo_colour_rgb.png"
+masthead_title           : "UK SKA Regional Centre"
+breadcrumbs              : true # true, false (default)
+breadcrumb_home_label   : "Home"
+breadcrumb_separator     : "/"
 words_per_minute         : 200
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "giscus", "custom"
@@ -81,7 +83,7 @@ baidu_site_verification  :
 
 # Social Sharing
 twitter:
-  username               :
+  username               : uk_skarc
 facebook:
   username               :
   app_id                 :
@@ -104,8 +106,8 @@ analytics:
 
 # Site Author
 author:
-  name             : #" "
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  name             : "UKSRC"
+  avatar           : /assets/images/SKAO_ukSRC_avatarlogo_colour_rgb_88x88.png # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : #"I am an **amazing** person."
   location         : #"UK"
   email            :
@@ -230,6 +232,7 @@ plugins:
   - jekyll-gist
   - jekyll-feed
   - jekyll-include-cache
+  - jekyll-seo-tag
 
 # mimic GitHub Pages with --safe
 whitelist:
@@ -285,13 +288,11 @@ defaults:
       type: posts
     values:
       layout: single
-      author_profile: true
+      author_profile: false
       read_time: true
       comments: # true
       share: true
       related: true
-      sidebar:
-        nav: "docs"
       
   # _pages
   - scope:

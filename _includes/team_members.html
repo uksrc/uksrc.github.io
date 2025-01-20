@@ -1,0 +1,28 @@
+
+
+<section class="team-section">
+    <div class="team-grid">
+      {% assign sorted_team = site.data.team.members | sort: 'name' %}
+      {% for member in sorted_team %}
+        <div class="team-member">
+          <img src="{{ member.photo }}" alt="Photo of {{ member.name }}" class="team-photo">
+          <h2>{{ member.name }}</h2>
+          <h4>{{ member.jobtitle }}</h4>
+          <p>{{ member.affiliation }}</p>
+          {% if member.socialmedia %}
+            <div class="social-media">
+              {% if member.socialmedia.github %}
+                <a href="https://github.com/{{ member.socialmedia.github }}" target="_blank" class="social-icon"><i class="fab fa-github"></i></a>
+              {% endif %}
+              {% if member.socialmedia.twitter %}
+                <a href="https://x.com/{{ member.socialmedia.twitter }}" target="_blank" class="social-icon"><i class="fab fa-twitter"></i></a>
+              {% endif %}
+              {% if member.socialmedia.linkedin %}
+                <a href="https://www.linkedin.com/in/{{ member.socialmedia.linkedin }}" target="_blank" class="social-icon"><i class="fab fa-linkedin-in"></i></a>
+              {% endif %}
+            </div>
+          {% endif %}
+        </div>
+      {% endfor %}
+    </div>
+  </section>

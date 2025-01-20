@@ -1,56 +1,49 @@
 # main links
-main:
- - title: "Join Us"
-   url: /jobs/
- - title: "News & Events"
-   url: /news-events/
- - title: "About"
-   url: /strategy/
-    
-docs:
- - title: "About"
-   children: 
-    - title: "UK Strategy"
-      url: /strategy/
-    - title: "Our Journey so far"
-      url: /history/
-    
- - title: "UKSRC Project"
-   children:
-    - title: "Collaborating Internationally"
-      url: /international/
-    - title: "Astronomy Community"
-      url: /astronomy-community/
-    - title: "Technical Challenges"
-      url: /technical-challenges/
-    - title: "Project Overview"
-      url: /project-overview/
-    - title: "Governance"
-      url: /governance/
-    - title: "Team"
-      url: /team/
-
- - title: "FAIR Data Accelerator Pilot"
-   children:
-    - title: "Project Overview"
-      url: /fair-data-pilot/
-      
- - title: "Get involved"
-   children:
-    - title: "Join Us"
-      url: /jobs/
-    - title: "News & Events"
-      url: /news-events/
-    - title: "Keep up to date"
-      url: /contact/
-    - title: "UKSRC Webinar Series"
-      url: /webinar-series/
-
-          
-
-   
-  
-  # - title: "Sitemap"
-  #   url: /sitemap/
-  # - title: "Project"
-  #  url: /project/
+main_menu:
+  - title: "About"
+    submenu:
+      - title: "Team"
+        url: /team/
+      - title: "UKSRC Overview"
+        submenu:
+        - title: "UK Strategy"
+          url: /strategy/
+        - title: "Our Journey so far"
+          url: /history/
+        - title: "Collaborating Internationally"
+          url: /international/
+        - title: "Astronomy Community"
+          url: /astronomy-community/
+        - title: "Technical Challenges"
+          url: /technical-challenges/
+        - title: "Project Overview"
+          url: /project-overview/
+        - title: "Governance"
+          url: /governance/
+      - title: "Linked Projects"
+        submenu:
+          - title: "FAIR Data Accelerator Pilot"
+            url: /fair-data-pilot/
+      - title: "Acknowledgement Statement"
+        url: /acknowledgement/
+  - title: "News & Events" 
+    submenu:
+      - title: "News"
+        url: /news/
+      - title: "Events"
+        url: /upcoming-events/
+        submenu:
+          - title: "Upcoming Events"
+            url: /upcoming-events/
+          - title: "Webinar Series"
+            url: /webinar-series/
+          - title: "Past Events"
+            url: /past-events/
+  - title: "Opportunities"
+    submenu:
+      # - title: "Within SRC & SKAO"
+      #   submenu:
+      - title: "Vacancies"
+        url: /jobs/
+  - title: "Contact"
+    url: /contact/

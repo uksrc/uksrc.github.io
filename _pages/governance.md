@@ -2,12 +2,10 @@
 title: "Governance"
 type: pages
 permalink: /governance/
-classes: wide
+layout: single
 header:
   overlay_image: /assets/images/MilkyWay.png
 author_profile: false
-sidebar: 
-  nav: "docs"
 ---
 ## UKSRC Oversight Committee ##  
 Appointed by STFC, the UKSRC Oversight Committee provides independent advice, oversight and review of the UKSRC project on issues of risk and project cost, schedule and scope over the lifetime of the project. The UKSRC reports every 6 months to the OsC. 

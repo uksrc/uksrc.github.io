@@ -1,0 +1,24 @@
+{% if post.header.teaser %}
+  {% capture teaser %}{{ post.header.teaser }}{% endcapture %}
+{% else %}
+  {% assign teaser = site.teaser %}
+{% endif %}
+
+{% if post.id %}
+  {% assign title = post.title | markdownify | remove: "<p>" | remove: "</p>" %}
+{% else %}
+  {% assign title = post.title %}
+{% endif %}
+
+  <div class="carousel__item" itemscope itemtype="https://schema.org/CreativeWork">
+    <h2 class="carousel-card-content" >
+      <a href="{{ post.url | relative_url }}" rel="permalink">{{ title }}</a>
+    </h2>
+    {% if post.excerpt %}
+      {% if tag.column == 'one' %}
+        <p itemprop="description"> {{ post.excerpt | markdownify | strip_html | truncate: 300 }}</p>
+      {% else %}
+        <p itemprop="description"> {{ post.excerpt | markdownify | strip_html | truncate: 300 }}</p>
+      {% endif %}
+    {% endif %}
+  </div>

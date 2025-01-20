@@ -2,12 +2,9 @@
 title: "Technical Challenges"
 type: pages
 permalink: /technical-challenges/
-classes: wide
+layout: single
 header:
   overlay_image: /assets/images/MilkyWay.png
-author_profile: false
-sidebar: 
-  nav: "docs"
 --- 
 The Square Kilometer Array is an exascale data challenge - each telescope is expected to create ~300 petabytes per year, creating an archive of ~8.5 exabytes during the initial science programmes [1]. The SKAO's Science Data Processors will calibrate and reduce the telescope data to a volume that can be transfered (as Observatory Level Data Products, OLDPs) via intercontinental telecommunications networks to SKA Regional Centre nodes.   
 

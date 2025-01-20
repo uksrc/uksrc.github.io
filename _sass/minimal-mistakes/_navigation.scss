@@ -29,11 +29,11 @@
 
     @include breakpoint($large) {
       float: right;
-      width: calc(100% - #{$right-sidebar-width-narrow});
+      width: 90%;
     }
 
     @include breakpoint($x-large) {
-      width: calc(100% - #{$right-sidebar-width});
+      width: 90%;
     }
   }
 
@@ -257,6 +257,66 @@
         transform: scaleX(1); // reveal
       }
     }
+
+
+    .dropdown-menu {
+      display: none;
+      position: absolute;
+      background-color: darken($background-color, 3%);
+      min-width: 100px;
+      box-shadow: $box-shadow;
+      z-index: 1;
+    }
+
+    .dropdown-menu li {
+      position: relative;
+      }
+
+      .dropdown-menu .dropdown-submenu {
+      display: none;
+      position: absolute;
+      left: 100%;
+      top: 0px;
+      z-index: 1;
+      }
+
+      // .dropdown-menu > li:hover > .dropdown-submenu {
+      // display: block;
+      // }
+
+    .dropdown-menu a {
+      padding: 4px 4px;
+      font-size: medium;
+    }
+
+    .dropdown:hover .dropdown-menu {
+      display: block;
+      position: absolute;
+      background-color: darken($background-color, 3%);
+      min-width: 160px;
+      box-shadow: $box-shadow;
+      z-index: 1;
+    }
+
+    .dropdown-submenu a {
+      padding: 4px 4px;
+      font-size: medium;
+    }
+
+    .dropdown-menu > li:hover > .dropdown-submenu{
+      display: block;
+      position: absolute;
+      background-color: darken($background-color, 3%);
+      min-width: 160px;
+      box-shadow: $box-shadow;
+      z-index: 1;
+    }
+
+
+    .dropdown- a:not(:last-child){
+      border-bottom: none; 
+    }
+
   }
 
   .hidden-links {
@@ -278,8 +338,8 @@
 
     a {
       margin: 0;
-      padding: 10px 20px;
-      font-size: $type-size-5;
+      padding: 10px 10px;
+      font-size: medium;
 
       &:hover {
         color: $masthead-link-color-hover;
