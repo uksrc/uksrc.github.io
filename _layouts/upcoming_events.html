@@ -42,7 +42,8 @@ layout: archive
                     <div class="event-item">
                       <h2><a href="{{ event.url }}">{{ event.title }}</a></h2>
                       <p><strong>Date:</strong> {{ event.date | date: "%B %d, %Y" }} </p>
-                      <p>{{ event.description | markdownify }}</p> 
+                      <!-- <p>{{ event.description | markdownify }}</p>  -->
+                      {% if event.excerpt %}<p class="archive__item-excerpt" itemprop="description">{{ event.excerpt | markdownify | strip_html | truncate: 160 }}</p>{% endif %}</p>
                     </div>
                   </div>
               {% endif %}
@@ -70,7 +71,8 @@ layout: archive
                   <a href="{{ event.url | relative_url }}">{{ event.title }}</a>
                 </h2>
                 <p><strong>Date:</strong> {{ event.date | date: "%B %d, %Y" }} </p>
-                <p>{{ event.description | markdownify }}</p> 
+                <!-- <p>{{ event.description | markdownify }}</p>  -->
+                {% if event.excerpt %}<p class="archive__item-excerpt" itemprop="description">{{ event.excerpt | markdownify | strip_html | truncate: 160 }}</p>{% endif %}</p>
               </div>
             </div>
           {% endfor %} 
@@ -80,6 +82,6 @@ layout: archive
   {% endif %}
 {% endfor %}
 
-{% if counter == 0 %}
+{% if (counter == 0) and (mcounter == 0) & (ycounter == 0) & (ccounter == 0) %}
   <p>No upcoming events at the moment. Please check back later!</p>
 {% endif %}
