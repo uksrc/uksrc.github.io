@@ -16,9 +16,17 @@
     </h2>
     {% if post.excerpt %}
       {% if tag.column == 'one' %}
-        <p itemprop="description"> {{ post.excerpt | markdownify | strip_html | truncate: 300 }}</p>
+        {% if post.description %}
+          <p itemprop="description"> {{ post.description | truncate: 300 }}</p>
+        {% else %}
+          <p itemprop="description"> {{ post.excerpt | markdownify | strip_html | truncate: 300 }}</p>
+        {% endif %}
       {% else %}
-        <p itemprop="description"> {{ post.excerpt | markdownify | strip_html | truncate: 300 }}</p>
+        {% if post.description %}
+          <p itemprop="description"> {{ post.description | strip_html | truncate: 300 }}</p>
+        {% else %}
+          <p itemprop="description"> {{ post.excerpt | strip_html | truncate: 300 }}</p>
+        {% endif %}
       {% endif %}
     {% endif %}
   </div>
