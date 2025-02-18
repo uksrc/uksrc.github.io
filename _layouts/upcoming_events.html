@@ -30,7 +30,7 @@ layout: archive
           {% assign mcounter = 0 %}
             {% for event in month.items %}
               {% assign edate = event.date | date: "%Y-%m-%d" %}
-              {% if edate > today %}
+              {% if edate >= today %}
                   {% if mcounter == 0 %}
                   <div class="event-grid">
                       <div class="event-month">
