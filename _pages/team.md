@@ -6,7 +6,7 @@ layout: single
 header:
   overlay_image: /assets/images/MilkyWay.png
 ---
-The UKSRC team brings together UK experties in developing and delivering astronomy and digital research infrastructure.
+The UKSRC team brings together UK expertise in developing and delivering astronomy and digital research infrastructure.
 
 <br>
 The UKSRC partner insitutes:
