@@ -124,10 +124,9 @@ members:
   - name: Jack Radcliffe
     affiliation: University of Manchester
     photo: "/assets/images/teamphotos/JackRadcliffe.jpeg"
-    jobtitle: Research Scientist
+    jobtitle: Science Community Director
     socialmedia:
       github: jradcliffe5
-      twitter: jack_radcliffe_
   - name: Julia Healy
     affiliation: University of Manchester
     photo: "/assets/images/teamphotos/JuliaHealy.jpeg"
@@ -220,3 +219,10 @@ members:
     affiliation: University College London
     photo: "/assets/images/teamphotos/teamavatar.png"
     jobtitle: 
+  - name: Andrew Gordon
+    affiliation: University of Manchester
+    photo: "/assets/images/teamphotos/AndrewGordon.jpg"
+    jobtitle: Programme Manager
+    socialmedia:
+      github: AndrewGordonUoM
+      linkedin: andrew-gordon-a3b42053
