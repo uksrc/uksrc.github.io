@@ -1,5 +1,5 @@
 ---
-title:  "First open call for new UKSRC demonstrator cases"
+title: "First open call for new UKSRC demonstrator cases"
 layout: news-page
 categories: news
 tags: community
