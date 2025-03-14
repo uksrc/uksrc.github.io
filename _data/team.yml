@@ -24,15 +24,17 @@ members:
   - name: Haoyang Ye 
     affiliation: University of Cambridge
     photo: "/assets/images/teamphotos/teamavatar.png"
-    jobtitle: 
+    jobtitle: Scrum Master
   - name: Tunde Oyewo 
     affiliation: University of Cambridge
     photo: "/assets/images/teamphotos/teamavatar.png"
     jobtitle: 
   - name: Duncan Watson 
     affiliation: University of Cambridge
-    photo: "/assets/images/teamphotos/teamavatar.png"
-    jobtitle: 
+    photo: "/assets/images/teamphotos/DuncanWatson.jpg"
+    jobtitle: Scrum Master
+    socialmedia:
+      linkedin: duncan-watson-468a8152
   - name: Wojciech Tuerk 
     affiliation: University of Cambridge
     photo: "/assets/images/teamphotos/teamavatar.png"
@@ -43,8 +45,8 @@ members:
     jobtitle: 
   - name: Sean McConkey 
     affiliation: University of Cambridge
-    photo: "/assets/images/teamphotos/teamavatar.png"
-    jobtitle: 
+    photo: "/assets/images/teamphotos/SeanMcConkey.jpg"
+    jobtitle: Principal Cloud Engineer
   - name: Richard McMahon 
     affiliation: University of Cambridge
     photo: "/assets/images/teamphotos/teamavatar.png"
@@ -54,15 +56,17 @@ members:
     photo: "/assets/images/teamphotos/teamavatar.png"
     jobtitle: 
   - name: Alastair Basden
-    affiliation: University of Durham
+    affiliation: Durham University
     photo: "/assets/images/teamphotos/teamavatar.png"
     jobtitle: 
   - name: Leah Morabito
-    affiliation: University of Durham
+    affiliation: Durham University
     photo: "/assets/images/teamphotos/teamavatar.png"
-    jobtitle: 
+    jobtitle: Research Scientist
+    socialmedia:
+      twitter: RadioAstroLeah
   - name: Fawada Qaiser
-    affiliation: University of Durham
+    affiliation: Durham University
     photo: "/assets/images/teamphotos/teamavatar.png"
     jobtitle: 
   - name: George Beckett 
@@ -116,7 +120,7 @@ members:
   - name: Iulia Cimpan
     affiliation: University of Manchester
     photo: "/assets/images/teamphotos/teamavatar.png"
-    jobtitle: 
+    jobtitle: User Support
   - name: Jacob Burba
     affiliation: University of Manchester
     photo: "/assets/images/teamphotos/teamavatar.png"
@@ -137,8 +141,8 @@ members:
       linkedin: juliahealy
   - name: Tianyue Chen
     affiliation: University of Manchester
-    photo: "/assets/images/teamphotos/teamavatar.png"
-    jobtitle: 
+    photo: "/assets/images/teamphotos/TianyueChen.jpeg"
+    jobtitle: Research Scientist
   - name: Michael Johnson
     affiliation: University of Manchester
     photo: "/assets/images/teamphotos/teamavatar.png"
@@ -154,7 +158,7 @@ members:
   - name: Stephen Lloyd
     affiliation: University of Manchester
     photo: "/assets/images/teamphotos/teamavatar.png"
-    jobtitle: 
+    jobtitle: Research Software Engineer
   - name: Dave Morris
     affiliation: University of Manchester
     photo: "/assets/images/teamphotos/teamavatar.png"
