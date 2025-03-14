@@ -33,7 +33,8 @@ members:
     affiliation: University of Cambridge
     photo: "/assets/images/teamphotos/DuncanWatson.jpg"
     jobtitle: Scrum Master
-    LinkedIn: duncan-watson-468a8152
+    socialmedia:
+      linkedin: duncan-watson-468a8152
   - name: Wojciech Tuerk 
     affiliation: University of Cambridge
     photo: "/assets/images/teamphotos/teamavatar.png"
@@ -62,7 +63,8 @@ members:
     affiliation: Durham University
     photo: "/assets/images/teamphotos/teamavatar.png"
     jobtitle: Research Scientist
-    twitter: RadioAstroLeah
+    socialmedia:
+      twitter: RadioAstroLeah
   - name: Fawada Qaiser
     affiliation: Durham University
     photo: "/assets/images/teamphotos/teamavatar.png"
@@ -156,11 +158,11 @@ members:
   - name: Stephen Lloyd
     affiliation: University of Manchester
     photo: "/assets/images/teamphotos/teamavatar.png"
-    jobtitle: 
+    jobtitle: Research Software Engineer
   - name: Dave Morris
     affiliation: University of Manchester
     photo: "/assets/images/teamphotos/teamavatar.png"
-    jobtitle: Research Software Engineer
+    jobtitle: 
   - name: Benjamin Green
     affiliation: University of Manchester
     photo: "/assets/images/teamphotos/teamavatar.png"
