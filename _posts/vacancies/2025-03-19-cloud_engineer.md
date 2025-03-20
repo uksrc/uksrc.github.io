@@ -3,7 +3,7 @@ title: "Cloud Engineer (Fixed Term)"
 layout: single-job
 category: vacancies
 jobdeadline: 2025-3-30
-joburl: https://www.jobs.manchester.ac.uk/Job/JobDetail?JobId=29550
+joburl: https://www.jobs.cam.ac.uk/job/50622/
 joblocation: University of Cambridge
 ---
 
