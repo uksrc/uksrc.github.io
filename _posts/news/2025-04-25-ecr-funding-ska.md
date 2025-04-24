@@ -5,7 +5,7 @@ categories: news
 tags: community
 description: "The UK SKA Regional Centre (UKSRC) is supporting early career researchers (ECRs) and research technical professionals involved in relevant astronomy projects, enabling them to attend the SKAO Science Conference 2025, which is scheduled to take place in Görlitz, Germany, from June 16 to 20, 2025. "
 ---
-The UK SKA Regional Centre (UKSRC) is supporting __early career researchers__ (ECRs) and __research technical professionals__ involved in relevant astronomy projects, enabling them to attend the [SKAO Science Conference 2025](skao.int), which is scheduled to take place in Görlitz, Germany, from June 16 to 20, 2025.
+The UK SKA Regional Centre (UKSRC) is supporting __early career researchers__ (ECRs) and __research technical professionals__ involved in relevant astronomy projects, enabling them to attend the [SKAO Science Conference 2025](https://www.skao.int/en/science-users/skao-science-meeting-2025){:target="_blank"}, which is scheduled to take place in Görlitz, Germany, from June 16 to 20, 2025.
 
 The UKSRC will also consider assisting with __childcare__ costs to enable parents to attend the conference in person. However, we will not be responsible for arranging childcare. Any requests will be evaluated on a case-by-case basis. Therefore, if you wish to seek funding for this purpose, please __do not__ fill out the application form; instead, contact uksrc-support AT manchester.ac.uk directly.
 
@@ -16,6 +16,7 @@ The UKSRC will also consider assisting with __childcare__ costs to enable parent
 - This funding will be for __in-person participants__ only. STFC has offered funding support for online-only participants. Please see the details at the __end of this post__ regarding this opportunity.
 
 #### Before filling out this application form:
+
 Please ensure that you have the following information to hand:
 
 - Confirmation from your line manager/supervisor that funding is not available from other sources.
@@ -34,7 +35,7 @@ Please ensure that you have the following information to hand:
 - Hotels (+/- one day from the dates of the conference).
 - Subsistence – note that this must be claimed after the conference.
 
-__If you wish to be considered, please fill out the following form__ - [https://forms.gle/EvvAzUuFExXQ1Sxx8](https://forms.gle/EvvAzUuFExXQ1Sxx8)
+__If you wish to be considered, please fill out the following form__ - [https://forms.gle/EvvAzUuFExXQ1Sxx8](https://forms.gle/EvvAzUuFExXQ1Sxx8){:target="_blank"}
 
 If you have any questions about this funding opportunity, please email uksrc-support AT manchester.ac.uk. Kindly note that all queries regarding the meeting and registration process should be directed to the SKAO at skaosci2025 AT skao.int.
 
