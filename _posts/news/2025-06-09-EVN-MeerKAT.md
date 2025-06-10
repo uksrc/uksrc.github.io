@@ -31,7 +31,7 @@ Reflecting on MeerKAT’s enormous capabilities and its joint observations with 
 Thanks to the high angular resolution and sensitivity of this new radio interferometric observation, astronomers were able to observe a stream of energetic plasma ejected from the vicinity of a supermassive black hole named J0123+3044. The observation lasted a total of 12 hours, with MeerKAT participating for 4 of those. The resulting images, both with and without MeerKAT data, were produced using methods that maximise sensitivity. 
 
 ![Images of the supermassive black hole ejecting jets of energetic particles, visible at radio wavelengths, obtained with the EVN array without and with the inclusion of MeerKAT](https://www.uksrc.org/assets/images/news/1.%20MeerKAT_EVN.jpeg)
-Images of the supermassive black hole ejecting jets of energetic particles, visible at radio wavelengths, obtained with the EVN array without (left) and with (right) the inclusion of MeerKAT. The combination of the two telescopes enables us to decipher the jet structure with great resolution and sensitivity. Image credits: JIVE, SARAO. 
+**_Images of the supermassive black hole ejecting jets of energetic particles, visible at radio wavelengths, obtained with the EVN array without (left) and with (right) the inclusion of MeerKAT. The combination of the two telescopes enables us to decipher the jet structure with great resolution and sensitivity. Image credits: JIVE, SARAO._**
 
 In these EVN measurements, MeerKAT and the Hartebeesthoek 26-meter telescope in South Africa provided the longest north–south baselines—the distances between pairs of telescopes that determine the angular resolution of the interferometric array. MeerKAT’s exceptional sensitivity played the dominant role in shaping the resolution of the deepest images.
 Marcel Gouws, Senior Systems Analyst at SARAO, offered a brief overview of the technological work that made this achievement possible: 
@@ -47,6 +47,5 @@ Jessica Dempsey, Director of ASTRON and JIVE Council Chair, applauded the achiev
 Together, MeerKAT and the EVN are forging a new path in radio astronomy, promising deeper insights into the cosmos and its mysteries.
 
 ![A composite image showing the location of EVN stations around the world, plus an image of the MeerKAT telescope](https://www.uksrc.org/assets/images/news/2.%20Combined-image.jpg)
-Illustration: Benito Marcote, JIVE.  
-Image credits: MeerKAT image ©SARAO; EVN map image ©Paul Boven, JIVE (satellite image: Blue Marble Next Generation, courtesy of NASA Visible Earth).   
+**_Illustration: Benito Marcote, JIVE. Image credits: MeerKAT image ©SARAO; EVN map image ©Paul Boven, JIVE (satellite image: Blue Marble Next Generation, courtesy of NASA Visible Earth)._**
 
