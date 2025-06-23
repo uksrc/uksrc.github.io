@@ -230,3 +230,12 @@ members:
     socialmedia:
       github: AndrewGordonUoM
       linkedin: andrew-gordon-a3b42053
+  - name: Matthijs van der Wild
+    affliation: Durham University
+  - name: Lara Alegre
+    affliation: 
+    jobtitle: Research Scientist
+    affiliation: University of Hertfordshire
+    photo: "/assets/images/teamphotos/LaraAlegre.png"
+    socialmedia:
+      linkedin: lara-alegre
