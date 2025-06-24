@@ -230,3 +230,19 @@ members:
     socialmedia:
       github: AndrewGordonUoM
       linkedin: andrew-gordon-a3b42053
+  - name: Matthijs van der Wild
+    affiliation: Durham University
+    photo: "/assets/images/teamphotos/teamavatar.png"
+    jobtitle: 
+  - name: Lara Alegre
+    jobtitle: Research Scientist
+    affiliation: University of Hertfordshire
+    photo: "/assets/images/teamphotos/LaraAlegre.png"
+    socialmedia:
+      linkedin: lara-alegre
+  - name: Mansoor Ali
+    jobtitle: DevOps Engineer
+    affiliation: University of Cambridge
+    photo: "/assets/images/teamphotos/MansoorAli.png"
+    socialmedia:
+      linkedin: imansoor-ali
