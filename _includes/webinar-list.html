@@ -19,13 +19,21 @@
                         {% break %}
                     {% else %}
                         <h3> {{ event.webinartitle[i] }} </h3>
-                        <h4>{{ event.webinarspeaker[i] }} ({{ event.speakeraffiliation[i] }})</h4>
+                        {% if event.speakeraffiliation[i]  == null %}
+                            <h4>{{ event.webinarspeaker[i] }}</h4>
+                        {% else %}
+                            <h4>{{ event.webinarspeaker[i] }} ({{ event.speakeraffiliation[i] }})</h4>
+                        {% endif %}
                         <p>{{ event.webinarabstract[i] | markdownify }}</p> 
                     {% endif %}
                 {% endfor %}
             {% else %}
                 <h3> {{ event.webinartitle }} </h3>
-                <h4>{{ event.webinarspeaker }} ({{ event.speakeraffiliation }})</h4>
+                {% if event.speakeraffiliation  == null %}
+                    <h4>{{ event.webinarspeaker }}</h4>
+                {% else %}
+                    <h4>{{ event.webinarspeaker }} ({{ event.speakeraffiliation }})</h4>
+                {% endif %}
                 <p>{{ event.webinarabstract | markdownify }}</p> 
             {% endif %}
         </div>
