@@ -1,6 +1,7 @@
 ## list of team members
 
 members:
+
   - name: Eloy de Lera Acedo
     affiliation: University of Cambridge
     photo: "/assets/images/teamphotos/teamavatar.png"
@@ -251,34 +252,28 @@ members:
     affiliation: RAL Space
     photo: "/assets/images/teamphotos/teamavatar.png"
     socialmedia:
-      linkedin: 
+      linkedin:
  - name: Johannes Allotey
     jobtitle: 
     affiliation: RAL Space
     photo: "/assets/images/teamphotos/teamavatar.png"
-
-
 - name: Tristan Clark
     affiliation: University College London
     photo: "/assets/images/teamphotos/teamavatar.png"
-    jobtitle: 
-    
+    jobtitle:
     - name: Quentin Gueuning
     affiliation: University of Cambridge
     photo: "/assets/images/teamphotos/teamavatar.png"
-    jobtitle: 
-    
+    jobtitle:
     - name: Peter Sims
     affiliation: University of Cambridge
     photo: "/assets/images/teamphotos/teamavatar.png"
-    jobtitle:      
-    
+    jobtitle:
     - name: Roger Duthie
     affiliation: University of Cambridge
     photo: "/assets/images/teamphotos/teamavatar.png"
     jobtitle:
-    
     - name: Simon Bowden
     affiliation: University of Cambridge
     photo: "/assets/images/teamphotos/teamavatar.png"
-    jobtitle:  
+    jobtitle:
