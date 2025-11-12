@@ -2,7 +2,7 @@
 
 members:
   - name: Eloy de Lera Acedo
-    affiliation: University of CambridgePermalink
+    affiliation: University of Cambridge
     photo: "/assets/images/teamphotos/teamavatar.png"
     jobtitle: 
   - name: Paul Calleja
@@ -246,3 +246,35 @@ members:
     photo: "/assets/images/teamphotos/MansoorAli.png"
     socialmedia:
       linkedin: imansoor-ali
+  - name: Ed Polehampton  
+    jobtitle: 
+    affiliation: RAL Space
+    photo: "/assets/images/teamphotos/teamavatar.png"
+    socialmedia:
+      linkedin: 
+  - name: Johannes Allotey
+    jobtitle: 
+    affiliation: RAL Space
+    photo: "/assets/images/teamphotos/teamavatar.png"
+    socialmedia:
+      linkedin:
+  - name: Tristan Clark
+    affiliation: University College London
+    photo: "/assets/images/teamphotos/teamavatar.png"
+    jobtitle: 
+  - name: Quentin Gueuning
+    affiliation: University of Cambridge
+    photo: "/assets/images/teamphotos/teamavatar.png"
+    jobtitle: 
+   - name: Peter Sims
+    affiliation: University of Cambridge
+    photo: "/assets/images/teamphotos/teamavatar.png"
+    jobtitle:      
+     - name: Roger Duthie
+    affiliation: University of Cambridge
+    photo: "/assets/images/teamphotos/teamavatar.png"
+    jobtitle:  
+       - name: Simon Bowden
+    affiliation: University of Cambridge
+    photo: "/assets/images/teamphotos/teamavatar.png"
+    jobtitle:  
