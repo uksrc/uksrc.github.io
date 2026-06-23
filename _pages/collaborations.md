@@ -1,7 +1,7 @@
 ---
-title: "Collaborating internationally"
+title: "Collaborations & Partners"
 type: pages
-permalink: /international/
+permalink: /collaborations/
 layout: single
 header:
   overlay_image: /assets/images/SKA-at-Night.jpg
