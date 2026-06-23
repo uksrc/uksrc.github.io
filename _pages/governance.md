@@ -13,7 +13,7 @@ The members are Prof Ian Robson (Chair, University of Dundee); Dr Daniela Bauer 
 
 ## UKSRC Project Board ##  
 The Project Board provides external guidance and advice on scientific, technical and management matters related to the UKSRC project and Monitor the delivery of the UKSRC project against the UKSRC Strategy. The UKSRC reports quarterly to the Project Board. 
-The members are Prof David Bacon (Chair, University of Portsmouth), Dr Adrian  Hinds (NERC JASMIN Director) and Dr Chiara Ferrari (Director of SKA-France), Prof Jon Hays (Science Director, IRIS), Andrew Sandsum (Technical Director, IRIS), Prof Mark Wilkinson (Director, DiRAC), and Christopher Walker (Research Support Senior Manager, JISC). 
+The members are Prof David Bacon (Chair, University of Portsmouth), Dr Adrian  Hinds (co-chair, NERC JASMIN Director) and Dr Chiara Ferrari (co-chair, Director of SKA-France). 
 
 
 
