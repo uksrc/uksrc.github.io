@@ -1,5 +1,5 @@
 ---
-title: "Join Us"
+title: "Work with us"
 type: pages
 permalink: /jobs/
 layout: jobs
