@@ -40,6 +40,11 @@ header:
       <p>The SKA telescopes will study how the first stars and galaxies formed, test our theories of gravity, and look for the conditions for life around other stars.</p>
     </div>
     <div class="impact-card">
+      <div class="impact-card__icon"><i class="fas fa-globe-europe" aria-hidden="true"></i></div>
+      <h3>An international project</h3>
+      <p>Sixteen countries are building the SKAO together. The UK hosts the SKAO global headquarters at Jodrell Bank and plays a leading role in the regional centre network.</p>
+    </div>
+    <div class="impact-card">
       <div class="impact-card__icon"><i class="fas fa-broadcast-tower" aria-hidden="true"></i></div>
       <h3>A head start for UK science</h3>
       <p>Through a national programme, the UKSRC supports UK astronomers using the SKAO precursor and pathfinder telescopes, such as MeerKAT, LOFAR and e-MERLIN, so the community can build skills and do new science now.</p>
@@ -50,19 +55,14 @@ header:
       <p>Designing and running the UKSRC develops data scientists, engineers and software developers, with skills that are needed across research and industry.</p>
     </div>
     <div class="impact-card">
-      <div class="impact-card__icon"><i class="fas fa-microchip" aria-hidden="true"></i></div>
-      <h3>Technology with wider uses</h3>
-      <p>Handling the huge volumes of data from the SKAO advances methods in cloud computing, data management and machine learning that can be applied well beyond astronomy.</p>
-    </div>
-    <div class="impact-card">
-      <div class="impact-card__icon"><i class="fas fa-globe-europe" aria-hidden="true"></i></div>
-      <h3>An international project</h3>
-      <p>Fourteen countries are building the SKAO together. The UK hosts the SKAO global headquarters at Jodrell Bank and plays a leading role in the regional centre network.</p>
-    </div>
-    <div class="impact-card">
       <div class="impact-card__icon"><i class="fas fa-lock-open" aria-hidden="true"></i></div>
       <h3>Open data and software</h3>
       <p>SKAO data and the tools to work with it are being built to open and FAIR standards, so that researchers and students can make use of them.</p>
+    </div>
+    <div class="impact-card">
+      <div class="impact-card__icon"><i class="fas fa-microchip" aria-hidden="true"></i></div>
+      <h3>Technology with wider uses</h3>
+      <p>Handling the huge volumes of data from the SKAO advances methods in cloud computing, data management and machine learning that can be applied well beyond astronomy.</p>
     </div>
     <div class="impact-card">
       <div class="impact-card__icon"><i class="fas fa-users" aria-hidden="true"></i></div>
