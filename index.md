@@ -23,7 +23,7 @@ header:
     The UK SKA Regional Centre (ukSRC) is the UK's part of a global network that will store, process and provide access to the data from the SKA telescopes.
     Working alongside partner countries, it gives researchers in the UK and beyond the computing power, software and support they need to turn that data into science.
     It also runs a national programme that supports UK astronomers using the SKA's precursor and pathfinder telescopes, such as MeerKAT, LOFAR and e-MERLIN, helping the community gain experience with SKA-like data today.
-    The ukSRC is a collaboration between the universities of Cambridge, Edinburgh, Durham, Hertfordshire and Manchester, University College London, and STFC, funded by UKRI's Science and Technology Facilities Council.
+    The ukSRC is a collaboration between the universities of Cambridge, Edinburgh, Durham, Hertfordshire and Manchester, University College London, and STFC Laboratories, funded by UKRI's Science and Technology Facilities Council.
   </p>
 </section>
 
