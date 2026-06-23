@@ -1,7 +1,7 @@
 ---
-title: "ukSRC Strategy"
+title: "What is ukSRC?"
 type: pages
-permalink: /strategy/
+permalink: /what-is-uksrc/
 layout: single
 header:
   overlay_image: /assets/images/SKA-at-Night.jpg
