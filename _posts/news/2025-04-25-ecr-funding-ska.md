@@ -1,13 +1,13 @@
 ---
-title: "UKSRC support for in-person attendees of the SKAO Science Conference 2025"
+title: "ukSRC support for in-person attendees of the SKAO Science Conference 2025"
 layout: news-page
 categories: news
 tags: community
-description: "The UK SKA Regional Centre (UKSRC) is supporting early career researchers (ECRs) and research technical professionals involved in relevant astronomy projects, enabling them to attend the SKAO Science Conference 2025, which is scheduled to take place in Görlitz, Germany, from 16 to 20 June 2025. "
+description: "The UK SKA Regional Centre (ukSRC) is supporting early career researchers (ECRs) and research technical professionals involved in relevant astronomy projects, enabling them to attend the SKAO Science Conference 2025, which is scheduled to take place in Görlitz, Germany, from 16 to 20 June 2025. "
 ---
-The UK SKA Regional Centre (UKSRC) is supporting __early career researchers__ (ECRs) and __research technical professionals__ involved in relevant astronomy projects, enabling them to attend the [SKAO Science Conference 2025](https://www.skao.int/en/science-users/skao-science-meeting-2025){:target="_blank"}, which is scheduled to take place in Görlitz, Germany, from 16 to 20 June 2025.
+The UK SKA Regional Centre (ukSRC) is supporting __early career researchers__ (ECRs) and __research technical professionals__ involved in relevant astronomy projects, enabling them to attend the [SKAO Science Conference 2025](https://www.skao.int/en/science-users/skao-science-meeting-2025){:target="_blank"}, which is scheduled to take place in Görlitz, Germany, from 16 to 20 June 2025.
 
-The UKSRC will also consider assisting with __childcare__ costs to enable parents to attend the conference in person. However, we will not be responsible for arranging childcare. Any requests will be evaluated on a case-by-case basis. Therefore, if you wish to seek funding for this purpose, please __do not__ fill out the application form; instead, contact uksrc-support AT manchester.ac.uk directly.
+The ukSRC will also consider assisting with __childcare__ costs to enable parents to attend the conference in person. However, we will not be responsible for arranging childcare. Any requests will be evaluated on a case-by-case basis. Therefore, if you wish to seek funding for this purpose, please __do not__ fill out the application form; instead, contact uksrc-support AT manchester.ac.uk directly.
 
 ### Eligibility requirements:
 

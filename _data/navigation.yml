@@ -7,9 +7,9 @@ main_menu:
         url: /team/
       - title: "Societal Impact"
         url: /societal-impact/
-      - title: "UKSRC Overview"
+      - title: "ukSRC Overview"
         submenu:
-        - title: "UK Strategy"
+        - title: "ukSRC Strategy"
           url: /strategy/
         - title: "Our Journey so far"
           url: /history/

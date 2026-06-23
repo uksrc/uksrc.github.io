@@ -5,6 +5,7 @@ permalink: /international/
 layout: single
 header:
   overlay_image: /assets/images/SKA-at-Night.jpg
+  caption: "Image credit: SKAO"
 ---
 ## SKA Observatory (SKAO) ##
 The [SKAO](https://www.skao.int/) is an intergovernmental organisation bringing together nations from around the world. Its mission is to build and operate cutting-edge radio telescopes to transform our understanding of the Universe, and deliver benefits to society through global collaboration and innovation. The observatory has a global footprint and consists of the SKAO Global Headquarters in the UK, the SKAO’s [two telescopes (SKA-Low and SKA-Mid)](https://www.skao.int/en/explore/telescopes) at radio-quiet sites in South Africa and Australia, and associated facilities to support the operations of the telescopes. 

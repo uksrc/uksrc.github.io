@@ -1,16 +1,17 @@
 ---
-title: "UKSRC SKAO science programme"
+title: "ukSRC SKAO science programme"
 type: pages
 permalink: /science-projects/
 layout: single
 header:
-  overlay_image: /assets/images/MilkyWay.png
+  overlay_image: /assets/images/SKA-at-Night.jpg
+  caption: "Image credit: SKAO"
 author_profile: false
 ---
 
 *Coming soon — full details and the open call will be published here in due course.*
 
-The demonstrator case scheme has served its purpose, and the UKSRC is now transitioning from demonstration to **service delivery**. To support this, we are launching the **UKSRC SKAO science programme**: a streamlined, year-round route for the UK SKAO community to access UKSRC resources and national computing for their SKAO-related science.
+The demonstrator case scheme has served its purpose, and the ukSRC is now transitioning from demonstration to **service delivery**. To support this, we are launching the **ukSRC SKAO science programme**: a streamlined, year-round route for the UK SKAO community to access ukSRC resources and national computing for their SKAO-related science.
 
 ## What's changing
 
@@ -23,7 +24,7 @@ Under the previous demonstrator case scheme, resources were allocated through pe
 
 ## What you can expect
 
-- **Resource access** on UKSRC and national computing facilities for your project.
+- **Resource access** on ukSRC and national computing facilities for your project.
 - **User support** for technical and scientific issues related to your data and processing.
 - **HPC training** — regular basic HPC training sessions, plus advanced HPC training, to help you make the most of the facilities.
 - **Project check-ins** during the year, with annual **user renewal and project reporting**.

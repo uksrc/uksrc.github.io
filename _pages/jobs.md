@@ -4,7 +4,8 @@ type: pages
 permalink: /jobs/
 layout: jobs
 header:
-  overlay_image: /assets/images/MilkyWay.png
+  overlay_image: /assets/images/SKA-at-Night.jpg
+  caption: "Image credit: SKAO"
 ---
 
 
@@ -16,4 +17,4 @@ header:
 * [Twitter @UK_SKARC](https://twitter.com/UK_SKARC)
 * [Linked In](https://www.linkedin.com/company/uk-ska-regional-centre-uksrc)
 * [Zenodo community](https://zenodo.org/communities/uk_skarc/?page=1&size=20)
-* [UKSRC Webinar Series](https://uksrc.github.io/webinar-series/)
+* [ukSRC Webinar Series](https://uksrc.github.io/webinar-series/)

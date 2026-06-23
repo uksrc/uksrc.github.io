@@ -4,7 +4,8 @@ type: pages
 permalink: /contact/
 classes: single
 header:
-  overlay_image: /assets/images/MilkyWay.png
+  overlay_image: /assets/images/SKA-at-Night.jpg
+  caption: "Image credit: SKAO"
 ---
 
 {% include contact_form.html %}
@@ -15,5 +16,5 @@ Stay up to date and follow us:
 * [Twitter @UK_SKARC](https://twitter.com/UK_SKARC)
 * [Linked In](https://www.linkedin.com/company/uk-ska-regional-centre-uksrc)
 * [Zenodo community](https://zenodo.org/communities/uk_skarc/?page=1&size=20)
-* [UKSRC Webinar Series](https://www.uksrc.org/webinar-series/)
+* [ukSRC Webinar Series](https://www.uksrc.org/webinar-series/)
 

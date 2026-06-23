@@ -4,7 +4,8 @@ type: pages
 permalink: /fair-data-pilot/
 classes: single
 header:
-  overlay_image: /assets/images/MilkyWay.png
+  overlay_image: /assets/images/SKA-at-Night.jpg
+  caption: "Image credit: SKAO"
 author_profile: false
 ---
 

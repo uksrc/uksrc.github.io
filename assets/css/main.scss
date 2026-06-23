@@ -8,6 +8,12 @@ search: false
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
 
+// Justify body paragraphs on content pages
+.page__content > p,
+.page__content li {
+    text-align: justify;
+}
+
 .masthead{
     background-color: #070068;
     margin-left: 0px;

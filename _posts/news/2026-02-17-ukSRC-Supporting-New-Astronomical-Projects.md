@@ -14,7 +14,7 @@ The Demonstrator Cases span a range of scientific objectives and technical requi
 1. To grow UK leadership in SKA science areas and build on existing leadership in SKA pathfinder and precursor facilities. 
 2. To engage with the UK astronomy community to review and refresh the demonstrator topics to accurately reflect research ambitions as they evolve over the project duration. 
 3. To develop researchers’ skills, knowledge, and experience to enable full exploitation of SKA and its precursor data. 
-4. To inform the development of the UKSRC facility and the wider SRCNet.
+4. To inform the development of the ukSRC facility and the wider SRCNet.
 
 Below we highlight some of the supported cases, including the Principal Investigator, host institution, and title of their demonstrator cases. 
 
@@ -27,4 +27,4 @@ Below we highlight some of the supported cases, including the Principal Investig
 | Rhaana Starling | University of Leicester  | SKA-era Physics of Energetic Transients                                          | The transient sky                                       |
 | Tianyue Chen    | University of Manchester | Foreground removal with a generative network for 21cm cosmology                  | Probing the Cosmic Dawn, Cosmology and dark energy      |
 
-We thank all Demonstrator Case teams for their engagement and feedback. Their participation is playing a critical role in shaping UKSRC’s services, ensuring the facility is ready to support SKA community science when fully operational. 
+We thank all Demonstrator Case teams for their engagement and feedback. Their participation is playing a critical role in shaping ukSRC’s services, ensuring the facility is ready to support SKA community science when fully operational. 
