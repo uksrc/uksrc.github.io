@@ -57,7 +57,7 @@ header:
     <div class="impact-card">
       <div class="impact-card__icon"><i class="fas fa-globe-europe" aria-hidden="true"></i></div>
       <h3>An international project</h3>
-      <p>Sixteen countries are building the SKAO together. The UK hosts the SKAO global headquarters at Jodrell Bank and plays a leading role in the regional centre network.</p>
+      <p>Fourteen countries are building the SKAO together. The UK hosts the SKAO global headquarters at Jodrell Bank and plays a leading role in the regional centre network.</p>
     </div>
     <div class="impact-card">
       <div class="impact-card__icon"><i class="fas fa-lock-open" aria-hidden="true"></i></div>
