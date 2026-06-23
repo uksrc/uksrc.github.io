@@ -5,7 +5,7 @@ categories: news
 tags: community
 description: "The South African Radio Astronomy Observatory (SARAO) has announced a new call for observing proposals using the MeerKAT radio telescope."
 ---
-In accordance with the timeline for the next SKAO Council meeting in July 2026, expressions of interest are being invited for the next Scientific Advisor to UK SKAO Council Delegates, supporting the STFC Executive Chair and DSIT.
+The [South African Radio Astronomy Observatory (SARAO)](https://www.sarao.ac.za/) has announced a new call for observing proposals using the MeerKAT radio telescope.
 
 A minimum of 2,000 hours of observing time will be awarded through this opportunity. MeerKAT comprises 64 dishes with exceptional sensitivity and baselines of up to 8 km, supporting continuum, spectral line, and pulsar/fast transient observations across the UHF, L-band, and S-band receivers.
 

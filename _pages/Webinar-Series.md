@@ -1,9 +1,10 @@
 ---
-title: "UKSRC Webinar Series"
+title: "ukSRC Webinar Series"
 permalink: /webinar-series/
 layout: single
 header:
-  overlay_image: /assets/images/MilkyWay.png
+  overlay_image: /assets/images/SKA-at-Night.jpg
+  caption: "Image credit: SKAO"
 ---
 ![](/assets/images/UKSRC-Webinar-Series-Image.jpg)
 

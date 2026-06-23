@@ -1,12 +1,15 @@
 # main links
 main_menu:
   - title: "About"
+    url: /
     submenu:
       - title: "Team"
         url: /team/
-      - title: "UKSRC Overview"
+      - title: "Societal Impact"
+        url: /societal-impact/
+      - title: "ukSRC Overview"
         submenu:
-        - title: "UK Strategy"
+        - title: "ukSRC Strategy"
           url: /strategy/
         - title: "Our Journey so far"
           url: /history/
@@ -39,11 +42,15 @@ main_menu:
             url: /webinar-series/
           - title: "Past Events"
             url: /past-events/
-  - title: "Opportunities"
+  - title: "Get involved"
     submenu:
       # - title: "Within SRC & SKAO"
       #   submenu:
-      - title: "Vacancies"
+      - title: "SKAO science programme"
+        url: /science-projects/
+      - title: "Science verification support"
+        url: /science-verification/
+      - title: "Work with us"
         url: /jobs/
   - title: "Contact"
     url: /contact/

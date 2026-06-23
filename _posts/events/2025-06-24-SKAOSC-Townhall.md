@@ -9,7 +9,7 @@ description: "Save the date! The annual UK SKAO Science Committee Town Hall meet
 **Date:** 17-18 November 2025 <br>
 **Location:** Cardiff University, UK
 
-For the first time, the Committee are extending this meeting from one day to two. The feedback from the community has been that they would like to hear more about science with the SKAO and its pathfinders, and expanding to two days will enable a fuller scientific program! There will of course still be general overviews and updates on SKAO science, construction, and a summary of the SKA Science meeting which took place this June in Germany.  
+For the first time, the Committee are extending this meeting from one day to two. The feedback from the community has been that they would like to hear more about science with the SKAO and its pathfinders, and expanding to two days will enable a fuller scientific programme! There will of course still be general overviews and updates on SKAO science, construction, and a summary of the SKA Science meeting which took place this June in Germany.  
  
 As before, it is expected that there will be a limited level of funding for ECRs to participate.  
  

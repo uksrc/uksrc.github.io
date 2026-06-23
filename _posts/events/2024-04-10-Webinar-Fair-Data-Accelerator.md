@@ -5,7 +5,7 @@ categories: events
 tags: community webinar
 date: 2024-4-29
 image_path: /assets/images/webinars/webinar_fairdata.png
-image_caption: Introducing the UKSRC
+image_caption: Introducing the ukSRC
 description: "FAIR Data Accelerator: Social & cultural barriers to data sharing"
 webinartitle: 
     - FAIR Data Accelerator

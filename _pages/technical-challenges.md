@@ -4,15 +4,16 @@ type: pages
 permalink: /technical-challenges/
 layout: single
 header:
-  overlay_image: /assets/images/MilkyWay.png
+  overlay_image: /assets/images/SKA-at-Night.jpg
+  caption: "Image credit: SKAO"
 --- 
-The Square Kilometer Array is an exascale data challenge - each telescope is expected to create ~300 petabytes per year, creating an archive of ~8.5 exabytes during the initial science programmes [1]. The SKAO's Science Data Processors will calibrate and reduce the telescope data to a volume that can be transfered (as Observatory Level Data Products, OLDPs) via intercontinental telecommunications networks to SKA Regional Centre nodes.   
+The Square Kilometre Array is an exascale data challenge - each telescope is expected to create ~300 petabytes per year, creating an archive of ~8.5 exabytes during the initial science programmes [1]. The SKAO's Science Data Processors will calibrate and reduce the telescope data to a volume that can be transferred (as Observatory Level Data Products, OLDPs) via intercontinental telecommunications networks to SKA Regional Centre nodes.   
 
 The network of SKA Regional Centres (SRCNet) are developing an internationally interoperable digital research infrastructure which will enable astronomers to efficiently access, analyse and visualise the data. To minimise time to science the platform must, to the astronomer, be as easily accessible as the software running on their laptop and have access to the data captured by SKA (OLDPs) along with the computing power of a world class supercomputer.   
 
-The UKSRC Project will grow the UK’s and SRCNet’s capabilities, and to deploy an initial federated proto-SRC facility. UK and international SRCNet prototyping teams are developing technologies to enable cloud computing, data logistics, data archives, identify access and authorisation, and science platforms [2].
+The ukSRC Project will grow the UK’s and SRCNet’s capabilities, and to deploy an initial federated proto-SRC facility. UK and international SRCNet prototyping teams are developing technologies to enable cloud computing, data logistics, data archives, identity access and authorisation, and science platforms [2].
 
-The technologies being developed have the potential to be applied by other diciplines which also plan to analyse huge data volumes. As a partner of IRIS and UKSRC's knowledge exchange activities will enable UK industry and other UK-based Digital Research Infrastructures to benefit from these technological developments.  
+The technologies being developed have the potential to be applied by other disciplines that also plan to analyse huge data volumes. As a partner of IRIS, the ukSRC's knowledge exchange activities will enable UK industry and other UK-based Digital Research Infrastructures to benefit from these technological developments.  
 
 
 ---

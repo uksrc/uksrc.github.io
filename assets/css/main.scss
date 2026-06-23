@@ -8,6 +8,12 @@ search: false
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
 
+// Justify body paragraphs on content pages
+.page__content > p,
+.page__content li {
+    text-align: justify;
+}
+
 .masthead{
     background-color: #070068;
     margin-left: 0px;
@@ -116,6 +122,75 @@ search: false
 
 .card:hover {
     transform: translateY(-5px);
+}
+
+// Societal-impact section (homepage)
+.impact {
+    max-width: 1100px;
+    margin: 2.5rem auto 1rem;
+    padding: 0 1rem;
+    text-align: center;
+}
+
+.impact__title {
+    color: #070068;
+    font-size: 1.5em;
+    margin-bottom: 0.5rem;
+    text-align: left;
+}
+
+.impact .impact__intro {
+    max-width: none;
+    margin: 0 auto 2rem;
+    color: #444;
+    text-align: justify;
+}
+
+.impact-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
+    gap: 1.5rem;
+    margin-bottom: 2rem;
+}
+
+.impact-card {
+    background-color: #fff;
+    border-radius: 10px;
+    border-top: 4px solid #E70068;
+    padding: 1.75rem 1.5rem;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.08);
+    transition: transform 0.2s, box-shadow 0.2s;
+    text-align: left;
+
+    h3 {
+        color: #070068;
+        margin: 0.25rem 0 0.5rem;
+        font-size: 1.125em;
+    }
+
+    p {
+        color: #444;
+        font-size: 1em;
+        line-height: 1.5;
+        margin: 0;
+    }
+}
+
+.impact-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 8px 18px rgba(0, 0, 0, 0.14);
+}
+
+.impact-card__icon {
+    font-size: 2rem;
+    line-height: 1;
+    margin-bottom: 0.6rem;
+    color: #E70068;
+}
+
+.impact__more {
+    margin-top: 2rem;
+    text-align: center;
 }
 
 .card-content {
@@ -844,6 +919,95 @@ search: false
       }
     }
   }
+
+/* ==========================================================================
+   Nav bar refinements
+   ========================================================================== */
+.masthead {
+    background-color: #fff;
+    border-bottom: 1px solid #ececf1;
+}
+
+.greedy-nav {
+    background: #fff;
+    padding: 0 1rem;
+}
+
+/* Site title in the brand purple */
+.greedy-nav a.site-title,
+.greedy-nav a.site-title:hover {
+    color: #070068;
+    font-size: 1.5rem;
+    font-weight: 700;
+    align-self: center;
+}
+
+.site-logo { flex-shrink: 0; }
+.site-logo img {
+    height: 3.75rem;
+    width: auto;
+    max-height: none;
+}
+
+/* Dropdown parents that don't navigate should still feel clickable */
+.greedy-nav .visible-links .dropdown > a,
+.greedy-nav .visible-links .submenu > a {
+    cursor: pointer;
+}
+
+/* Top-level links */
+.greedy-nav .visible-links > li > a {
+    color: #070068;
+    font-weight: 600;
+    font-size: 1.02rem;
+    letter-spacing: 0.01em;
+    margin: 0 0.5rem;
+    padding: 0.4rem;
+    transition: color 0.15s ease;
+}
+.greedy-nav .visible-links > li > a:hover { color: #E70068; }
+
+/* Caret to signal a dropdown */
+.greedy-nav .visible-links .dropdown > a::after {
+    content: "\25BE";
+    font-size: 0.7em;
+    margin-left: 0.3em;
+    vertical-align: 0.12em;
+    opacity: 0.65;
+}
+
+/* Dropdown / submenu panels */
+.greedy-nav .visible-links .dropdown-menu,
+.greedy-nav .visible-links .submenu-items {
+    background: #fff;
+    border: 1px solid #ececf1;
+    border-radius: 8px;
+    box-shadow: 0 8px 22px rgba(0, 0, 0, 0.12);
+    padding: 0.3rem 0;
+    min-width: 200px;
+}
+.greedy-nav .visible-links .dropdown-menu li a,
+.greedy-nav .visible-links .submenu-items li a {
+    padding: 0.45rem 1rem;
+    color: #2b2b33;
+    font-weight: 500;
+    font-size: 0.95rem;
+    white-space: nowrap;
+    transition: background 0.12s ease, color 0.12s ease;
+}
+.greedy-nav .visible-links .dropdown-menu li a:hover,
+.greedy-nav .visible-links .submenu-items li a:hover {
+    background: #f5f5fa;
+    color: #E70068;
+}
+
+/* Caret for items that open a nested submenu to the side */
+.greedy-nav .visible-links .submenu > a::after {
+    content: "\203A";
+    float: right;
+    margin-left: 0.75rem;
+    opacity: 0.6;
+}
 
 
 
