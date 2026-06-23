@@ -1,5 +1,5 @@
 ---
-title: "ukSRC SKAO science programme"
+title: "ukSRC science support programme"
 type: pages
 permalink: /science-projects/
 layout: single
@@ -11,7 +11,7 @@ author_profile: false
 
 *Coming soon — full details and the open call will be published here in due course.*
 
-The demonstrator case scheme has served its purpose, and the ukSRC is now transitioning from demonstration to **service delivery**. To support this, we are launching the **ukSRC SKAO science programme**: a streamlined, year-round route for the UK SKAO community to access ukSRC resources and national computing for their SKAO-related science.
+The demonstrator case scheme has served its purpose, and the ukSRC is now transitioning from demonstration to **service delivery**. To support this, we are launching the **ukSRC science support programme**: a streamlined, year-round route for the UK radio astronomy community to access ukSRC resources and national computing for their science.
 
 ## What's changing
 
