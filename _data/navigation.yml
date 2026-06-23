@@ -9,24 +9,22 @@ main_menu:
         url: /societal-impact/
       - title: "ukSRC Overview"
         submenu:
-        - title: "ukSRC Strategy"
-          url: /strategy/
-        - title: "Our Journey so far"
-          url: /history/
-        - title: "Collaborating Internationally"
-          url: /international/
-        - title: "Astronomy Community"
-          url: /astronomy-community/
+        - title: "What is ukSRC?"
+          url: /what-is-uksrc/
+        #- title: "Our Journey so far"
+         # url: /history/
+        - title: "Collaborations & Partners"
+          url: /collaborations/
         - title: "Technical Challenges"
           url: /technical-challenges/
-        - title: "Project Overview"
-          url: /project-overview/
+        # - title: "Project Overview"
+        #  url: /project-overview/
         - title: "Governance"
           url: /governance/
-      - title: "Linked Projects"
-        submenu:
-          - title: "FAIR Data Accelerator Pilot"
-            url: /fair-data-pilot/
+      #- title: "Linked Projects"
+       # submenu:
+        #  - title: "FAIR Data Accelerator Pilot"
+         #   url: /fair-data-pilot/
       - title: "Acknowledgement Statement"
         url: /acknowledgement/
   - title: "News & Events" 
@@ -42,6 +40,8 @@ main_menu:
             url: /webinar-series/
           - title: "Past Events"
             url: /past-events/
+  - title: "Astronomy Community"
+    url: /astronomy-community/
   - title: "Get involved"
     submenu:
       # - title: "Within SRC & SKAO"
