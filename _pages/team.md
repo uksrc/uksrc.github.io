@@ -9,14 +9,14 @@ header:
 The UKSRC team brings together UK expertise in developing and delivering astronomy and digital research infrastructure.
 
 <br>
-The UKSRC partner insitutes:
+The UKSRC partner institutes:
 
 
 {% include team_logos.html %}
 
 <br>
 
-![UKSRC Team in from Lovell Telescope and SKAO Global HQ](/assets/images/teamphotos/UKSRC_Dec2024_2.png)
+![UKSRC Team in front of the Lovell Telescope and SKAO Global HQ](/assets/images/teamphotos/UKSRC_Dec2024_2.png)
 *UKSRC Team, December 2024, in front of the Lovell Telescope and SKAO Global HQ*
 
 <br><br>

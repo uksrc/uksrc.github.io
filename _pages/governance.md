@@ -12,7 +12,7 @@ Appointed by STFC, the UKSRC Oversight Committee provides independent advice, ov
 The members are Prof Ian Robson (Chair, University of Dundee); Dr Daniela Bauer (Imperial College London), Prof Peter Clarke (University of Edinburgh), Prof Melvin Hoare (University of Leeds), Dr Bob Jones (CERN), Anushka Sharma (University of Leicester) and Dr Sam Skipsey (University of Glasgow).  
 
 ## UKSRC Project Board ##  
-The Project Board provides external guidance and advice on scientific, technical and management matters related to the UKSRC project and Monitor the delivery of the UKSRC project against the UKSRC Strategy. The UKSRC reports quarterly to the Project Board. 
+The Project Board provides external guidance and advice on scientific, technical and management matters related to the UKSRC project and monitors the delivery of the UKSRC project against the UKSRC Strategy. The UKSRC reports quarterly to the Project Board. 
 The members are Prof David Bacon (Chair, University of Portsmouth), Prof Simon McIntosh-Smith (Joint Lead ExCALIBUR hardware and Enabling Software Programme) and Dr Chiara Ferrari (Director of SKA-France), Prof Jon Hays (Science Director, IRIS), Andrew Sandsum (Technical Director, IRIS), Prof Mark Wilkinson (Director, DiRAC), and Christopher Walker (Research Support Senior Manager, JISC).     
   
 ## SKA Regional Centre Steering Committee (SRCSC) ##

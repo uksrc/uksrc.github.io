@@ -7,7 +7,7 @@ description: "The ukSRC facility is now supporting nine new science cases as par
 ---
 The ukSRC facility is now supporting nine new science cases as part of our expanded Demonstrator Case scheme.
 
-This scheme is designed to support UK astronomy using SKAO precursors and pathfinders while allowing the ukSRC to develop its facility to continuing to support the next generation of discoveries in radio astronomy. The cases represent a subset of the UK SKAO community to support evolving science and new technical innovations, preparing a ukSRC fit for the coming decades of SKA science.  
+This scheme is designed to support UK astronomy using SKAO precursors and pathfinders while allowing the ukSRC to develop its facility to continue supporting the next generation of discoveries in radio astronomy. The cases represent a subset of the UK SKAO community to support evolving science and new technical innovations, preparing a ukSRC fit for the coming decades of SKA science.  
 
 The Demonstrator Cases span a range of scientific objectives and technical requirements, aiming to achieve the following objectives: 
 
@@ -27,4 +27,4 @@ Below we highlight some of the supported cases, including the Principal Investig
 | Rhaana Starling | University of Leicester  | SKA-era Physics of Energetic Transients                                          | The transient sky                                       |
 | Tianyue Chen    | University of Manchester | Foreground removal with a generative network for 21cm cosmology                  | Probing the Cosmic Dawn, Cosmology and dark energy      |
 
-We thank all Demonstrator Case teams for their engagement and feedback. Their participations are playing a critical role in shaping UKSRC’s services, ensuring the facility is ready to support SKA community science when fully operational. 
+We thank all Demonstrator Case teams for their engagement and feedback. Their participation is playing a critical role in shaping UKSRC’s services, ensuring the facility is ready to support SKA community science when fully operational. 

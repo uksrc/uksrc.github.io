@@ -1,9 +1,12 @@
 # main links
 main_menu:
   - title: "About"
+    url: /
     submenu:
       - title: "Team"
         url: /team/
+      - title: "Societal Impact"
+        url: /societal-impact/
       - title: "UKSRC Overview"
         submenu:
         - title: "UK Strategy"

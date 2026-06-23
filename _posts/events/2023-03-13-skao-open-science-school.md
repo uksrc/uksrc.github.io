@@ -5,7 +5,7 @@ categories: events
 date: 2023-5-8
 tags: training opportunities
 ---
-Open to the global astronomy community, this school provides a detailed view of Open Science policies and tools, as well as ongoing SKA activities. The SKA Regional Center Network (SRCNet) will play a key role enabling big scientific collaborations and it will provide the framework to implement SKA Open Science policies. 
+Open to the global astronomy community, this school provides a detailed view of Open Science policies and tools, as well as ongoing SKA activities. The SKA Regional Centre Network (SRCNet) will play a key role enabling big scientific collaborations and it will provide the framework to implement SKA Open Science policies. 
 Join Dr Rachael Ainsworth and the other tutors at the [1st SKAO Open Science School](https://www.granadacongresos.com/skaopenscience) (8th-10th May 2023 in Granada or online) to learn:
 - What is Open Science and how can we expect it to change and benefit science and society?
 - How will the SKAO and the SKA Regional Centres enable best practices in Open Science?
