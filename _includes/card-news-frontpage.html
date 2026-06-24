@@ -12,13 +12,13 @@
 
 <div class="{{ include.type | default: 'list' }}__item">
   <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
-    <h3 class="archive__item-title no_toc" itemprop="headline">
+    <h4 class="archive__item-title no_toc" itemprop="headline">
       {% if post.link %}
         <a href="{{ post.link }}">{{ title }}</a> <a href="{{ post.url | relative_url }}" rel="permalink"><i class="fas fa-link" aria-hidden="true" title="permalink"></i><span class="sr-only">Permalink</span></a>
       {% else %}
         <a href="{{ post.url | relative_url }}" rel="permalink">{{ title }}</a>
       {% endif %}
-    </h3>
+    </h4>
     <!-- {% include page__meta.html type=include.type %} -->
     {% if post.description %}<p class="archive__item-excerpt" itemprop="description">{{ post.description | markdownify | strip_html | truncate: 250 }}</p>
     {% else %}<p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify | strip_html | truncate: 200 }}</p>{% endif %}

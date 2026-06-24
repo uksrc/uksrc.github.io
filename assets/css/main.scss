@@ -100,6 +100,13 @@ search: false
     gap: 2rem;
 }
 
+.card-grid-fp {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    gap: 2rem;
+}
+
+
 .card {
     background-color: #fff;
     border-radius: 8px;
@@ -193,6 +200,8 @@ search: false
     text-align: center;
 }
 
+
+
 .card-content {
     padding: 1rem;
 
@@ -218,6 +227,37 @@ search: false
 
     p {
         font-size: medium;
+        margin-left: 0;
+    }
+
+}
+
+.card-content-fp {
+    padding: 1rem;
+
+    h3 {
+        line-height: initial;
+        overflow: hidden;
+        text-overflow: ellipsis;
+        font-size: small;
+    }
+
+    a[rel="permalink"]::before {
+        content: '';
+        position: absolute;
+        left: 0;
+        top: 0;
+        right: 0;
+        bottom: 0;
+    }
+
+    a + a {
+        opacity: 0.5;
+    }
+
+
+    p {
+        font-size: smaller;
         margin-left: 0;
     }
 
