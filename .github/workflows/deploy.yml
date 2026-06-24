@@ -36,8 +36,12 @@ jobs:
         uses: actions/configure-pages@v5
 
       - name: Build with Jekyll
-        # Use the baseurl from the Pages config so assets resolve correctly
-        run: bundle exec jekyll build --baseurl "${{ steps.pages.outputs.base_path }}"
+        # This site uses a custom domain (CNAME: www.uksrc.org) and is served at
+        # the root, so the baseurl from _config.yml (empty) is correct. Do NOT pass
+        # --baseurl from configure-pages: for this repo (uksrc.github.io) it emits
+        # "/uksrc.github.io", which prefixes every asset URL and 404s the CSS on the
+        # custom domain — leaving the page unstyled with giant default fonts.
+        run: bundle exec jekyll build
         env:
           JEKYLL_ENV: production
 
