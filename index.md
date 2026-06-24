@@ -70,13 +70,14 @@ header:
       <h3>Public engagement</h3>
       <p>The ukSRC supports training, outreach and engagement that bring radio astronomy to students, teachers and the wider public.</p>
     </div>
+    <div class="impact-card">
+      <div class="impact-card__icon"><i class="fas fa-globe" aria-hidden="true"></i></div>
+      <h3>Impact of astronomy and the SKAO</h3>
+      <p>Astronomy and the SKAO expand our understanding of the Universe while driving innovation, skills and economic growth. Through global collaboration, they transform cutting‑edge science into lasting benefits for society and industry. <a href="/societal-impact/">Read more</a> </p>
+    </div>
   </div>
-
-  <p class="impact__more">
-    <a class="btn btn--primary" href="/societal-impact/">Read more about the impact of astronomy and the SKAO</a>
-  </p>
-</section>
 
 <h2 class="impact__title">Latest news</h2>
 
 {% include carousel.html %}
+</section>
