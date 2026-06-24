@@ -1009,6 +1009,17 @@ search: false
     opacity: 0.6;
 }
 
+/* Cap the responsive root font-size. Minimal Mistakes scales the root up to
+   22px on wide screens (see _reset.scss), which makes everything em/rem-based
+   look oversized on large monitors. Cap the growth at 18px. This loads after
+   the theme partials, so it overrides _reset.scss without !important. */
+html {
+    font-size: 16px;
+    @include breakpoint($medium) { font-size: 17px; }
+    @include breakpoint($large)  { font-size: 18px; }
+    @include breakpoint($x-large) { font-size: 18px; }
+}
+
 
 
 
