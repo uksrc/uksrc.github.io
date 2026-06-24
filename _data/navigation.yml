@@ -46,7 +46,7 @@ main_menu:
     submenu:
       # - title: "Within SRC & SKAO"
       #   submenu:
-      - title: "SKAO science programme"
+      - title: "ukSRC science support programme"
         url: /science-projects/
       - title: "Science verification support"
         url: /science-verification/
