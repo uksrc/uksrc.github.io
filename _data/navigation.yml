@@ -42,6 +42,7 @@ main_menu:
             url: /past-events/
   - title: "Our Community"
     url: /astronomy-community/
+    # submenu:
   - title: "For Scientists"
     submenu:
       # - title: "Within SRC & SKAO"
@@ -53,6 +54,9 @@ main_menu:
         url: /science-projects/
       - title: "SKA Science Verification"
         url: /science-verification/
+      - title: "Scientific Publications"
+        url: "https://ui.adsabs.harvard.edu/public-libraries/YlEMpvLATqKd25Hzgv6FHw"
+        blank: true
       - title: "Acknowledgement Statement"
         url: /acknowledgement/
   - title: "Contact"
