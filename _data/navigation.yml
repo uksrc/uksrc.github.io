@@ -46,6 +46,9 @@ main_menu:
     submenu:
       # - title: "Within SRC & SKAO"
       #   submenu:
+      - title: "ukSRC Helpdesk"
+        url: "https://uksrc.atlassian.net/servicedesk/customer/portals"
+        blank: true
       - title: "Science Support"
         url: /science-projects/
       - title: "SKA Science Verification"
