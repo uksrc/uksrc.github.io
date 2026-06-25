@@ -25,8 +25,8 @@ main_menu:
        # submenu:
         #  - title: "FAIR Data Accelerator Pilot"
          #   url: /fair-data-pilot/
-      - title: "Acknowledgement Statement"
-        url: /acknowledgement/
+      # - title: "Work with us"
+      #   url: /jobs/
   - title: "News & Events" 
     submenu:
       - title: "News"
@@ -40,17 +40,20 @@ main_menu:
             url: /webinar-series/
           - title: "Past Events"
             url: /past-events/
-  - title: "Astronomy Community"
+  - title: "Our Community"
     url: /astronomy-community/
-  - title: "Get involved"
+  - title: "For Scientists"
     submenu:
       # - title: "Within SRC & SKAO"
       #   submenu:
-      - title: "ukSRC science support programme"
+      - title: "ukSRC Helpdesk"
+        url: "https://uksrc.atlassian.net/servicedesk/customer/portals"
+        blank: true
+      - title: "Science Support"
         url: /science-projects/
-      - title: "Science verification support"
+      - title: "SKA Science Verification"
         url: /science-verification/
-      - title: "Work with us"
-        url: /jobs/
+      - title: "Acknowledgement Statement"
+        url: /acknowledgement/
   - title: "Contact"
     url: /contact/

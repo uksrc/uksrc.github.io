@@ -15,18 +15,18 @@
           <!-- Load menu items from navigation.yml using Liquid -->
           {% for menu_item in site.data.navigation.main_menu %}
             <li class="{% if menu_item.submenu %}dropdown{% endif %}">
-              <a {% if menu_item.url %}href="{{ menu_item.url }}"{% endif %}>{{ menu_item.title }}</a>
-              <!-- Dropdown Menu -->
+              <a {% if menu_item.url %}href="{{ menu_item.url }}"{% endif %} {% if menu_item.blank %} target="_blank" {% endif %} >{{ menu_item.title }}</a>
+              <!-- Dropdown Menu edited -->
               {% if menu_item.submenu %}
                 <ul class="dropdown-menu">
                   {% for submenu_item in menu_item.submenu %}
                     <li class="{% if submenu_item.submenu %}submenu{% endif %}">
-                      <a {% if submenu_item.url %}href="{{ submenu_item.url }}"{% endif %}>{{ submenu_item.title }}</a>
+                      <a {% if submenu_item.url %}href="{{ submenu_item.url }}"{% endif %}{% if submenu_item.blank==true %} target="_blank" {% endif %}>{{ submenu_item.title }}</a>
                       <!-- Submenu items -->
                       {% if submenu_item.submenu %}
                       <ul class="submenu-items">
                           {% for subsubmenu_item in submenu_item.submenu %}
-                            <li><a href="{{ subsubmenu_item.url }}">{{ subsubmenu_item.title }}</a>
+                            <li><a href="{{ subsubmenu_item.url }}" {% if subsubmenu_item.blank=true %} target="_blank" {% endif %}>{{ subsubmenu_item.title }}</a>
                             </li>
                           {% endfor %}
                       </ul>
