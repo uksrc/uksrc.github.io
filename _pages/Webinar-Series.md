@@ -6,8 +6,6 @@ header:
   overlay_image: /assets/images/SKA-at-Night.jpg
   caption: "Image credit: SKAO"
 ---
-![](/assets/images/UKSRC-Webinar-Series-Image.jpg)
-
 
 {% include webinar-list.html %}
 
