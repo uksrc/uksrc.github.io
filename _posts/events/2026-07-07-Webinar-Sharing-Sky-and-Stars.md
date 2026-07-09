@@ -7,7 +7,7 @@ date: 2026-07-07
 image_path:
 image_caption:
 webinartime: 11:00-12:00 BST
-webinarregistration: Please [register](https://ucl.zoom.us/webinar/register/WN_Dzr8BV0tTsWyCgjOHD6qgA) to receive details of how to join the webinar via Zoom
+webinarregistration: The [slides from this webinar are available](https://skao.canto.global/s/R2PRN?viewIndex=0&from=list&display=thumbnail). A Zoom recording can be view [on demand](https://ucl.zoom.us/webinar/register/WN_Dzr8BV0tTsWyCgjOHD6qgA#/registration)
 
 description: "A webinar exploring how SKAO builds genuine, long-term partnerships with local and Indigenous communities by integrating engagement, culture, and collaboration into the development of its global observatory."
 
