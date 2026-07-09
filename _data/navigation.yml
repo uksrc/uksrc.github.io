@@ -42,6 +42,21 @@ main_menu:
             url: /past-events/
   - title: "Our Community"
     url: /astronomy-community/
+    submenu:
+      - title: "Demonstrator Cases"
+        url: /demonstrator_cases/
+        submenu:
+          - title: "LOFARINT"
+            url: /demonstrator_cases/lofarint/
+          - title: "MULTIWAVE"
+            url: /demonstrator_cases/multiwave/
+          - title: "SKAEOR"
+            url: /demonstrator_cases/skaeor/
+          - title: "21CMMAP"
+            url: /demonstrator_cases/21cmmap/
+      - title: "Publications"
+        url: "https://ui.adsabs.harvard.edu/public-libraries/YlEMpvLATqKd25Hzgv6FHw"
+        blank: true
   - title: "For Scientists"
     submenu:
       # - title: "Within SRC & SKAO"
