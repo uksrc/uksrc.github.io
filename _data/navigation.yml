@@ -44,13 +44,18 @@ main_menu:
     url: /astronomy-community/
   - title: "For Scientists"
     submenu:
-      # - title: "Within SRC & SKAO"
-      #   submenu:
       - title: "ukSRC Helpdesk"
         url: "https://uksrc.atlassian.net/servicedesk/customer/portals"
         blank: true
       - title: "Science Support"
         url: /science-projects/
+      - title: "Science Tooling"
+        url: /science-tooling/
+        submenu:
+        - title: "ValSKA"
+          url: /science-tooling/valska/
+        - title: "ValSKA: Case Study"
+          url: /science-tooling/valska_casestudy/
       - title: "SKA Science Verification"
         url: /science-verification/
       - title: "Acknowledgement Statement"
