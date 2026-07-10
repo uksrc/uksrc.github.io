@@ -1,5 +1,5 @@
 ---
-title: "Science Tooling"
+title: "Science Validation and Tooling: building trustworthy science"
 type: pages
 permalink: /science-tooling/
 layout: single
@@ -7,8 +7,6 @@ header:
   overlay_image: /assets/images/SKA-at-Night.jpg
   caption: "Image credit: SKAO"
 ---
-
-# Science Validation and Tooling: building trustworthy science
 
 The Square Kilometre Array (SKA; Figure 1) will produce some of the most ambitious radio astronomy data ever collected. It is designed to help answer frontier questions about the early Universe, galaxy evolution, gravity and dark energy. Turning that data into reliable science, however, requires more than powerful telescopes and sophisticated software. It requires evidence that the analysis methods are trustworthy for the scientific questions we want to answer.
 
