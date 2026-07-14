@@ -12,7 +12,7 @@ header:
     - label: "Why it matters"
       url: "#why-it-matters"
     - label: "About the ukSRC"
-      url: "/strategy/"
+      url: "/what-is-uksrc/"
     - label: "Meet the Team"
       url: "/team/"
 ---

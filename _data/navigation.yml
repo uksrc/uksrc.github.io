@@ -3,13 +3,11 @@ main_menu:
   - title: "About"
     url: /
     submenu:
-      - title: "Team"
-        url: /team/
       - title: "Societal Impact"
         url: /societal-impact/
       - title: "ukSRC Overview"
         submenu:
-        - title: "What is ukSRC?"
+        - title: "What is the ukSRC?"
           url: /what-is-uksrc/
         #- title: "Our Journey so far"
          # url: /history/
@@ -21,6 +19,8 @@ main_menu:
         #  url: /project-overview/
         - title: "Governance"
           url: /governance/
+      - title: "Team"
+        url: /team/
       #- title: "Linked Projects"
        # submenu:
         #  - title: "FAIR Data Accelerator Pilot"
