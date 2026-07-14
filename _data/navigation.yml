@@ -3,8 +3,6 @@ main_menu:
   - title: "About"
     url: /
     submenu:
-      - title: "Societal Impact"
-        url: /societal-impact/
       - title: "ukSRC Overview"
         submenu:
         - title: "What is the ukSRC?"
@@ -19,6 +17,8 @@ main_menu:
         #  url: /project-overview/
         - title: "Governance"
           url: /governance/
+      - title: "Societal Impact"
+        url: /societal-impact/
       - title: "Team"
         url: /team/
       #- title: "Linked Projects"
