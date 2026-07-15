@@ -132,7 +132,6 @@ members:
     jobtitle: Research Scientist
     socialmedia:
       github: healytwin1
-      twitter: healytwin1
       linkedin: juliahealy
   - name: Tianyue Chen
     affiliation: University of Manchester
@@ -260,7 +259,7 @@ members:
     jobtitle: ""
   - name: Quentin Gueuning
     affiliation: University of Cambridge
-    photo: "assets/images/teamphotos/QuentinGueuning.jpg"
+    photo: "/assets/images/teamphotos/QuentinGueuning.jpg"
     socialmedia:
       linkedin: https://www.linkedin.com/in/quentin-gueuning-b4566892/. 
     jobtitle: Research Scientist
