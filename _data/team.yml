@@ -22,11 +22,7 @@ members:
   - name: Haoyang Ye 
     affiliation: University of Cambridge
     photo: "/assets/images/teamphotos/teamavatar.png"
-    jobtitle: Scrum Master
-  - name: Tunde Oyewo 
-    affiliation: University of Cambridge
-    photo: "/assets/images/teamphotos/teamavatar.png"
-    jobtitle: 
+    jobtitle: Research Scientist
   - name: Duncan Watson 
     affiliation: University of Cambridge
     photo: "/assets/images/teamphotos/DuncanWatson.jpg"
@@ -59,18 +55,18 @@ members:
     jobtitle: 
   - name: Leah Morabito
     affiliation: Durham University
-    photo: "/assets/images/teamphotos/teamavatar.png"
+    photo: "/assets/images/teamphotos/LeahMorabito.jpg"
     jobtitle: Research Scientist
     socialmedia:
-      twitter: RadioAstroLeah
+      bluesky: RadioAstroLeah
   - name: Fawada Qaiser
     affiliation: Durham University
     photo: "/assets/images/teamphotos/teamavatar.png"
     jobtitle: 
   - name: George Beckett 
     affiliation: University of Edinburgh
-    photo: "/assets/images/teamphotos/teamavatar.png"
-    jobtitle: 
+    photo: "/assets/images/teamphotos/GeorgeBeckett.png"
+    jobtitle: Research Programme Manager 
   - name: Phil Best
     affiliation: University of Edinburgh
     photo: "/assets/images/teamphotos/teamavatar.png"
@@ -89,7 +85,7 @@ members:
     jobtitle: 
   - name: Robert Beswick 
     affiliation: University of Manchester
-    photo: "/assets/images/teamphotos/teamavatar.png"
+    photo: "/assets/images/teamphotos/RobertBeswick.jpg"
     jobtitle: Joint Director
   - name: Keith Grainge
     affiliation: University of Manchester
@@ -111,10 +107,11 @@ members:
     affiliation: University of Manchester
     photo: "/assets/images/teamphotos/teamavatar.png"
     jobtitle: 
-  - name: Christopher Skipper
+  - name: Chris Skipper
     affiliation: University of Manchester
-    photo: "/assets/images/teamphotos/teamavatar.png"
-    jobtitle: 
+    photo: "/assets/images/teamphotos/ChrisSkipper.png"
+    jobtitle: Product Owner
+    gitlab profile: https://gitlab.com/chris-j-skipper
   - name: Iulia Cimpan
     affiliation: University of Manchester
     photo: "/assets/images/teamphotos/teamavatar.png"
@@ -140,7 +137,7 @@ members:
   - name: Tianyue Chen
     affiliation: University of Manchester
     photo: "/assets/images/teamphotos/TianyueChen.jpeg"
-    jobtitle: Research Scientist
+    jobtitle: Scrum Master
   - name: Michael Johnson
     affiliation: University of Manchester
     photo: "/assets/images/teamphotos/teamavatar.png"
@@ -167,8 +164,8 @@ members:
     jobtitle: 
   - name: Ian Leigh
     affiliation: University of Manchester
-    photo: "/assets/images/teamphotos/teamavatar.png"
-    jobtitle: 
+    photo: "/assets/images/teamphotos/IanLeigh.jpg"
+    jobtitle: a Technical Specialist 
   - name: Anthony Moraghan 
     affiliation: University of Manchester
     photo: "/assets/images/teamphotos/teamavatar.png"
@@ -191,16 +188,18 @@ members:
     jobtitle: 
   - name: Tom Dack
     affiliation: STFC RAL Scientific Computing
-    photo: "/assets/images/teamphotos/teamavatar.png"
-    jobtitle: 
+    photo: "/assets/images/teamphotos/TomDack.jpg"
+    jobtitle: Platform Operations Group Lead
   - name: Chris Green
     affiliation: STFC RAL Scientific Computing
     photo: "/assets/images/teamphotos/teamavatar.png"
     jobtitle: 
   - name: Jens Jensen
     affiliation: STFC RAL Scientific Computing
-    photo: "/assets/images/teamphotos/teamavatar.png"
-    jobtitle: 
+    photo: "/assets/images/teamphotos/JensJensen.jpg"
+    jobtitle: Research Scientist
+    socialmedia:
+      linkedin: https://www.linkedin.com/in/jens-j-2b23ab4/
   - name: James Walder
     affiliation: STFC RAL Scientific Computing
     photo: "/assets/images/teamphotos/teamavatar.png"
@@ -211,8 +210,11 @@ members:
     jobtitle: 
   - name: Louise Chisholm
     affiliation: University College London
-    photo: "/assets/images/teamphotos/teamavatar.png"
+    photo: "/assets/images/teamphotos/LouiseChisholm .jpg"
     jobtitle: Joint Director
+     socialmedia:
+      linkedin: https://www.linkedin.com/in/louisechisholm/
+      website:  https://profiles.ucl.ac.uk/52762-louise-chisholm
   - name: Marcus Keil
     affiliation: University College London
     photo: "/assets/images/teamphotos/teamavatar.png"
@@ -220,7 +222,7 @@ members:
   - name: Lucy Caselton
     affiliation: University College London
     photo: "/assets/images/teamphotos/teamavatar.png"
-    jobtitle: 
+    jobtitle: Programme Manager
   - name: Andrew Gordon
     affiliation: University of Manchester
     photo: "/assets/images/teamphotos/AndrewGordon.jpg"
@@ -258,12 +260,14 @@ members:
     jobtitle: ""
   - name: Quentin Gueuning
     affiliation: University of Cambridge
-    photo: "/assets/images/teamphotos/teamavatar.png"
-    jobtitle: ""
+    photo: "assets/images/teamphotos/QuentinGueuning.jpg"
+    socialmedia:
+      linkedin: https://www.linkedin.com/in/quentin-gueuning-b4566892/. 
+    jobtitle: Research Scientist
   - name: Peter Sims
     affiliation: University of Cambridge
-    photo: "/assets/images/teamphotos/teamavatar.png"
-    jobtitle: ""
+    photo: "/assets/images/teamphotos/PeterSims.jpg"
+    jobtitle: Science Validation and Tooling Lead
   - name: Roger Duthie
     affiliation: University of Cambridge
     photo: "/assets/images/teamphotos/teamavatar.png"
