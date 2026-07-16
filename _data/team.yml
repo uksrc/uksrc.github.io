@@ -9,7 +9,7 @@ members:
     jobtitle: 
   - name: Jeremy Coles
     affiliation: University of Cambridge
-    photo: "/assets/images/teamphotos/teamavatar.png"
+    photo: "/assets/images/teamphotos/Jeremy Coles.jpeg"
     jobtitle: 
   - name: Mark Ashdown
     affiliation: University of Cambridge
@@ -248,7 +248,7 @@ members:
   - name: Ed Polehampton  
     jobtitle: Research Scientist
     affiliation: RAL Space
-    photo: "/assets/images/teamphotos/teamavatar.png"
+    photo: "/assets/images/teamphotos/EdwardPolehampton.jpg"
   - name: Johannes Allotey
     jobtitle: ""
     affiliation: RAL Space
