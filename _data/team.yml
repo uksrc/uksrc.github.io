@@ -9,7 +9,7 @@ members:
     jobtitle: 
   - name: Jeremy Coles
     affiliation: University of Cambridge
-    photo: "/assets/images/teamphotos/teamavatar.png"
+    photo: "/assets/images/teamphotos/Jeremy Coles.jpeg"
     jobtitle: 
   - name: Mark Ashdown
     affiliation: University of Cambridge
@@ -159,8 +159,10 @@ members:
     jobtitle: 
   - name: Benjamin Green
     affiliation: University of Manchester
-    photo: "/assets/images/teamphotos/teamavatar.png"
-    jobtitle: 
+    photo: "/assets/images/teamphotos/BenjaminGreen.jpeg"
+    socialmedia:
+      linkedin: https://www.linkedin.com/in/bengreenrepublicof1/
+    jobtitle: Research Software Engineer
   - name: Ian Leigh
     affiliation: University of Manchester
     photo: "/assets/images/teamphotos/IanLeigh.jpg"
@@ -246,9 +248,9 @@ members:
     socialmedia:
       linkedin: imansoor-ali
   - name: Ed Polehampton  
-    jobtitle: ""
+    jobtitle: Research Scientist
     affiliation: RAL Space
-    photo: "/assets/images/teamphotos/teamavatar.png"
+    photo: "/assets/images/teamphotos/EdwardPolehampton.jpg"
   - name: Johannes Allotey
     jobtitle: ""
     affiliation: RAL Space
