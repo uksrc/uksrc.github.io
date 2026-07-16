@@ -159,8 +159,10 @@ members:
     jobtitle: 
   - name: Benjamin Green
     affiliation: University of Manchester
-    photo: "/assets/images/teamphotos/teamavatar.png"
-    jobtitle: 
+    photo: "/assets/images/teamphotos/BenjaminGreen.jpeg"
+    socialmedia:
+      linkedin: https://www.linkedin.com/in/bengreenrepublicof1/
+    jobtitle: Research Software Engineer
   - name: Ian Leigh
     affiliation: University of Manchester
     photo: "/assets/images/teamphotos/IanLeigh.jpg"
