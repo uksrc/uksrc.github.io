@@ -11,10 +11,6 @@ members:
     affiliation: University of Cambridge
     photo: "/assets/images/teamphotos/Jeremy Coles.jpeg"
     jobtitle: 
-  - name: Mark Ashdown
-    affiliation: University of Cambridge
-    photo: "/assets/images/teamphotos/teamavatar.png"
-    jobtitle: 
   - name: Charlie Walker
     affiliation: University of Cambridge
     photo: "/assets/images/teamphotos/CharlieWalker.png"
@@ -45,10 +41,6 @@ members:
     affiliation: University of Cambridge
     photo: "/assets/images/teamphotos/teamavatar.png"
     jobtitle: 
-  - name: Nicolas Walton
-    affiliation: University of Cambridge
-    photo: "/assets/images/teamphotos/teamavatar.png"
-    jobtitle: 
   - name: Alastair Basden
     affiliation: Durham University
     photo: "/assets/images/teamphotos/teamavatar.png"
@@ -59,10 +51,6 @@ members:
     jobtitle: Research Scientist
     socialmedia:
       bluesky: RadioAstroLeah
-  - name: Fawada Qaiser
-    affiliation: Durham University
-    photo: "/assets/images/teamphotos/teamavatar.png"
-    jobtitle: 
   - name: George Beckett 
     affiliation: University of Edinburgh
     photo: "/assets/images/teamphotos/GeorgeBeckett.png"
@@ -72,10 +60,6 @@ members:
     photo: "/assets/images/teamphotos/teamavatar.png"
     jobtitle: 
   - name: Martin Hardcastle
-    affiliation: University of Hertfordshire
-    photo: "/assets/images/teamphotos/teamavatar.png"
-    jobtitle: 
-  - name: Brendan Webster
     affiliation: University of Hertfordshire
     photo: "/assets/images/teamphotos/teamavatar.png"
     jobtitle: 
@@ -161,7 +145,7 @@ members:
     affiliation: University of Manchester
     photo: "/assets/images/teamphotos/BenjaminGreen.jpeg"
     socialmedia:
-      linkedin: https://www.linkedin.com/in/bengreenrepublicof1/
+      linkedin: bengreenrepublicof1
     jobtitle: Research Software Engineer
   - name: Ian Leigh
     affiliation: University of Manchester
@@ -169,14 +153,6 @@ members:
     jobtitle: a Technical Specialist 
   - name: Anthony Moraghan 
     affiliation: University of Manchester
-    photo: "/assets/images/teamphotos/teamavatar.png"
-    jobtitle: 
-  - name: John Garbutt
-    affiliation: StackHPC
-    photo: "/assets/images/teamphotos/teamavatar.png"
-    jobtitle: 
-  - name: John Taylor
-    affiliation: StackHPC
     photo: "/assets/images/teamphotos/teamavatar.png"
     jobtitle: 
   - name: Ian Collier
@@ -191,10 +167,6 @@ members:
     affiliation: STFC RAL Scientific Computing
     photo: "/assets/images/teamphotos/TomDack.jpg"
     jobtitle: Platform Operations Group Lead
-  - name: Chris Green
-    affiliation: STFC RAL Scientific Computing
-    photo: "/assets/images/teamphotos/teamavatar.png"
-    jobtitle: 
   - name: Jens Jensen
     affiliation: STFC RAL Scientific Computing
     photo: "/assets/images/teamphotos/JensJensen.jpg"
@@ -255,10 +227,6 @@ members:
     jobtitle: ""
     affiliation: RAL Space
     photo: "/assets/images/teamphotos/teamavatar.png"
-  - name: Tristan Clark
-    affiliation: University College London
-    photo: "/assets/images/teamphotos/teamavatar.png"
-    jobtitle: ""
   - name: Quentin Gueuning
     affiliation: University of Cambridge
     photo: "/assets/images/teamphotos/QuentinGueuning.jpg"
