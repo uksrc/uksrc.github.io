@@ -9,7 +9,7 @@ members:
     jobtitle: 
   - name: Jeremy Coles
     affiliation: University of Cambridge
-    photo: "/assets/images/teamphotos/teamavatar.png"
+    photo: "/assets/images/teamphotos/Jeremy Coles.jpeg"
     jobtitle: 
   - name: Charlie Walker
     affiliation: University of Cambridge
@@ -144,7 +144,9 @@ members:
   - name: Benjamin Green
     affiliation: University of Manchester
     photo: "/assets/images/teamphotos/BenjaminGreen.jpeg"
-    jobtitle: 
+    socialmedia:
+      linkedin: bengreenrepublicof1
+    jobtitle: Research Software Engineer
   - name: Ian Leigh
     affiliation: University of Manchester
     photo: "/assets/images/teamphotos/IanLeigh.jpg"
@@ -218,9 +220,9 @@ members:
     socialmedia:
       linkedin: imansoor-ali
   - name: Ed Polehampton  
-    jobtitle: ""
+    jobtitle: Research Scientist
     affiliation: RAL Space
-    photo: "/assets/images/teamphotos/teamavatar.png"
+    photo: "/assets/images/teamphotos/EdwardPolehampton.jpg"
   - name: Johannes Allotey
     jobtitle: ""
     affiliation: RAL Space
