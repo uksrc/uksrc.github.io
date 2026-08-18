@@ -12,8 +12,8 @@ From exploring the formation and evolution of galaxies and stars to investigatin
 
 The publication also demonstrates the international collaboration at the heart of the SKA Observatory, with researchers from across the UK contributing to this global scientific effort.
 
-Explore Advancing Astrophysics II and access the individual chapters on the [SKAO website](https://www.skao.int/en/science-users/aaskaii).
+Explore Advancing Astrophysics II and access the individual chapters on the [SKAO website](https://www.skao.int/en/science-users/aaskaii){:target="_blank"}.
 
-For more information, read the [SKAO news article](https://www.skao.int/en/news/728/dazzling-array-science-detailed-new-skao-book), which includes a video featuring SKAO Chief Scientist Professor Naomi McClure-Griffiths.
+For more information, read the [SKAO news article](https://www.skao.int/en/news/728/dazzling-array-science-detailed-new-skao-book){:target="_blank"}, which includes a video featuring SKAO Chief Scientist Professor Naomi McClure-Griffiths.
 
-The papers from Advancing Astrophysics II are also available on [arXiv](https://arxiv.org/html/2606.20366/).
+The papers from Advancing Astrophysics II are also available on [arXiv](https://arxiv.org/html/2606.20366/){:target="_blank"}.
