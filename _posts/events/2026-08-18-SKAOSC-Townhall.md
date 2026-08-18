@@ -21,7 +21,7 @@ The two-day meeting will bring the UK SKA community together to share updates an
 
 
 ECRs (PhD students and postdocs) are particularly encouraged to attend. STFC travel funding is available for eligible ECRs, subject to need.
-ECR travel support requests must be in line with the [UKRI business expense claims, business travel and subsistence policy](https://www.ukri.org/publications/ukri-travel-subsistence-and-expenses-policy/ukri-business-expense-claims-business-travel-and-subsistence-policy/) {:target="_blank"} and should be sent to Simon Haynes (simon.haynes@stfc.ukri.org) and Jessica Atkinson (jessica.atkinson@stfc.ac.uk) for consideration.
+ECR travel support requests must be in line with the [UKRI business expense claims, business travel and subsistence policy](https://www.ukri.org/publications/ukri-travel-subsistence-and-expenses-policy/ukri-business-expense-claims-business-travel-and-subsistence-policy/){:target="_blank"} and should be sent to Simon Haynes (simon.haynes@stfc.ukri.org) and Jessica Atkinson (jessica.atkinson@stfc.ac.uk) for consideration.
 
 
 
@@ -33,4 +33,4 @@ ECR travel support requests must be in line with the [UKRI business expense clai
 Register for the Town Hall:
 [Event registration](https://www.eventbrite.co.uk/e/annual-uk-skao-science-committee-town-hall-27th-28th-october-2026-tickets-1997455446009?aff=ebemoffollowpublishemail&ref=eemail&utm_campaign=following_published_event&utm_content=follow_notification&utm_medium=email&utm_source=eventbrite){:target="_blank"} 
 
-The event is organised by the [UK SKAO Science Committee](https://www.ukri.org/who-we-are/stfc/how-we-are-governed/advisory-boards/ukskasc/) {:target="_blank"} and supported by [STFC](https://www.ukri.org/councils/stfc/) {:target="_blank"}.
+The event is organised by the [UK SKAO Science Committee](https://www.ukri.org/who-we-are/stfc/how-we-are-governed/advisory-boards/ukskasc/){:target="_blank"} and supported by [STFC](https://www.ukri.org/councils/stfc/){:target="_blank"}.
