@@ -8,6 +8,8 @@ description: "The SKA Observatory (SKAO) has published Advancing Astrophysics II
 
 Bringing together contributions from more than 1,500 scientists across 51 countries, the anthology highlights the strength of the global SKA science community. It features 221 peer-reviewed papers covering planned observations across the full breadth of SKA science.
 
+174 UK scientists (10.1% of the total authors) have contributed to the chapters; a promising sign of future scientific discoveries by scientists based in the UK
+
 From exploring the formation and evolution of galaxies and stars to investigating some of the Universe’s most fundamental questions, Advancing Astrophysics II provides an up-to-date overview of the scientific opportunities that the SKA telescopes will offer.
 
 The publication also demonstrates the international collaboration at the heart of the SKA Observatory, with researchers from across the UK contributing to this global scientific effort.
