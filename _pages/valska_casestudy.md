@@ -1,7 +1,7 @@
 ---
 title: "A ValSKA Case Study: How well do we need to know the telescope beam?"
 type: pages
-permalink: /science-tooling/valska_casestudy
+permalink: /science-tooling/valska_casestudy/
 layout: single
 header:
   overlay_image: /assets/images/SKA-at-Night.jpg
