@@ -1,7 +1,7 @@
 ---
 title: "ValSKA: a reusable ukSRC validation framework"
 type: pages
-permalink: /science-tooling/valska
+permalink: /science-tooling/valska/
 layout: single
 header:
   overlay_image: /assets/images/SKA-at-Night.jpg
