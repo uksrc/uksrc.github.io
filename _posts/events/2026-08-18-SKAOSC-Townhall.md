@@ -27,8 +27,7 @@ ECR travel support requests must be in line with the [UKRI business expense clai
 
 **Town Hall registration deadline: Tuesday 20 October 2026**
 
-**ECR abstract deadline: Tuesday 29 September 2026, 5pm**
-
+**ECR abstract deadline extended: Friday 2 October 2026, 5pm UK time**
 
 Register for the Town Hall:
 [Event registration](https://www.eventbrite.co.uk/e/annual-uk-skao-science-committee-town-hall-27th-28th-october-2026-tickets-1997455446009?aff=ebemoffollowpublishemail&ref=eemail&utm_campaign=following_published_event&utm_content=follow_notification&utm_medium=email&utm_source=eventbrite){:target="_blank"} 
