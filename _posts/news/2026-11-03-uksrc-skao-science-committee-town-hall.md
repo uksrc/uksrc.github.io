@@ -3,7 +3,7 @@ title: "ukSRC at the UK SKAO Science Committee Town Hall"
 layout: news-page
 categories: news
 tags: UK-contributions
-description: "Updates and discussions from the UK SKAO Science Committee Town Hall, covering SKAO developments, Science Verification observations, Key Science Projects and the UK Science Regional Centre.."
+description: "Updates and discussions from the UK SKAO Science Committee Town Hall, covering SKAO developments, Science Verification observations, Key Science Projects and the UK Science Regional Centre."
 ---
 
 
