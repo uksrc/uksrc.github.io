@@ -15,4 +15,4 @@ Discussions provided an opportunity to exchange ideas, share recent scientific d
 
 The Town Hall also provided an opportunity to strengthen connections across the UK SKA community and support ongoing collaboration as preparations for the SKA Observatory continue.
 
-View the SKAO Town Hall 2026 [presentation slides](https://docs.google.com/presentation/d/1v4-fjUgyP7qB5L_bgWNhxKtNjO2ZvUd52tv-6QO3ciA/edit?slide=id.p#slide=id.p){="_blank"}.
+View the [SKAO Town Hall 2026 programme and presentation slides](https://itrharrison.github.io/ukskao-townhall-26/#programme) from our speakers.{="_blank"}.
