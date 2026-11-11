@@ -11,9 +11,6 @@ author_profile: false
 
 
 
-
-# ukSRC Science Support Programme – Open Call
-
 The UK SKA Regional Centre (ukSRC) is pleased to announce the launch of its **Science Support Programme**, providing a year-round route for the UK radio astronomy community to access national computing infrastructure, scientific workflows and technical support for their research.
 
 The programme aims to support a diverse range of scientific projects, encourage new technical innovations and involve the community in shaping the future development of the ukSRC and the wider SKA Regional Centre Network (SRCNet).
