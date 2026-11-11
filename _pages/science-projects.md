@@ -9,30 +9,53 @@ header:
 author_profile: false
 ---
 
-*Coming soon — full details and the open call will be published here in due course.*
 
-The demonstrator case scheme has served its purpose, and the ukSRC is now transitioning from demonstration to **service delivery**. To support this, we are launching the **ukSRC science support programme**: a streamlined, year-round route for the UK radio astronomy community to access ukSRC resources and national computing for their science.
 
-## What's changing
 
-Under the previous demonstrator case scheme, resources were allocated through periodic calls with a technical assessment, fixed onboarding windows, and annual reporting cycles. The new programme replaces this with a more flexible, lower-overhead model.
+# ukSRC Science Support Programme – Open Call
 
-- **Open call all year round** — request resources whenever you need them, rather than waiting for a fixed annual call.
-- **Light-touch assessment** — a quick appraisal followed by rapid onboarding, instead of a heavyweight technical review.
-- **Regular onboarding windows** throughout the year (approximately quarterly) to bring new projects on board.
-- **Director's discretionary time** available at any point, with expedited onboarding after a light assessment — ideal for exploratory or proof-of-concept work.
+The UK SKA Regional Centre (ukSRC) is pleased to announce the launch of its **Science Support Programme**, providing a year-round route for the UK radio astronomy community to access national computing infrastructure, scientific workflows and technical support for their research.
 
-## What you can expect
+The programme aims to support a diverse range of scientific projects, encourage new technical innovations and involve the community in shaping the future development of the ukSRC and the wider SKA Regional Centre Network (SRCNet).
 
-- **Resource access** on ukSRC and national computing facilities for your project.
-- **User support** for technical and scientific issues related to your data and processing.
-- **HPC training** — regular basic HPC training sessions, plus advanced HPC training, to help you make the most of the facilities.
-- **Project check-ins** during the year, with annual **user renewal and project reporting**.
+## What support is available?
 
-## Who can apply
+Successful applicants will have access to:
 
-The scheme is open to PIs based at a UK university. Further details and the application route will be announced alongside the open call.
+- ukSRC computing resources.
+- Scientific workflows within the ukSRC architecture.
+- Scientific, development and technical support from the ukSRC team.
+- Regular introductory and advanced High-Performance Computing (HPC) training.
+- Opportunities to contribute to the future direction and development of ukSRC and SRCNet.
 
-## Stay informed
+## Who can apply?
 
-To be notified when the call opens, follow the channels on our [Join Us](/jobs/) page or [get in touch](/contact/).
+Applications are welcome from all fields of astronomy and astrophysics.
+
+Science cases may involve international collaborators; however, the Principal Investigator (PI) must be affiliated with a UK institution.
+
+## Application timeline
+
+The programme operates on a rolling basis, with applications accepted throughout the year. Successful applicants will be onboarded in four rounds during 2027.
+
+| Onboarding round | Application deadline |
+|:---|:---|
+| January 2027 | 1 December 2026 |
+| March 2027 | 1 March 2027 |
+| June 2027 | 1 June 2027 |
+| September 2027 | 1 September 2027 |
+
+Applications received after a deadline will automatically be considered for the next onboarding round.
+
+## How to apply
+
+To apply, please complete the [ukSRC Science Support Programme application form](https://forms.cloud.microsoft/pages/responsepage.aspx?id=B8tSwU5hu0qBivA1z6kad1ugTpRkegdEpRGFgStH4RBUOVpPVE0zSFlROE1QSTY5VFRHTVZHOTU2TSQlQCN0PWcu&route=shorturl).{="_blank"}
+
+Applications will undergo a light-touch assessment based primarily on requested resources, particularly data storage requirements, relative to available capacity. Scientific objectives and scientific merit will not be assessed.
+
+Successful projects will receive support for up to 12 months, with the possibility of extension through annual renewal and project reporting.
+
+## Further information
+
+For enquiries about the programme, please contact [uksrс-support@manchester.ac.uk](mailto:uksr%D1%81-support@manchester.ac.uk).
+
