@@ -50,6 +50,11 @@ main_menu:
         blank: true
       - title: "Science Support"
         url: /science-projects/
+        submenu:
+        - title: "Science Support Programme"
+          url: /science-projects/
+        - title: "Specialist User Support Pilot"
+          url: /specialist-user-support/
       - title: "Science Tooling"
         url: /science-tooling/
         submenu:

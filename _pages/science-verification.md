@@ -9,7 +9,8 @@ header:
 author_profile: false
 ---
 
-*Coming soon — full details and the call for ideas will be published here in due course.*
+**In development — details may change.** ukSRC support for UK-led science verification projects is expected to start in Q3/Q4 2027, timed to the SKAO's SV calls.
+{: .notice--warning}
 
 Science Verification (SV) is run by the SKAO, with a limited number of SV projects supported on SRCNet resources. The ukSRC will extend this by supporting **additional UK-led SV projects on our national resources, outside of the SRCNet allocation** — so that more UK-affiliated teams can carry out verification work even where SRCNet capacity is full.
 
@@ -29,9 +30,10 @@ SV itself is run by the SKAO and is expected to follow roughly this timeline ahe
 
 ## How ukSRC support will work
 
-Alongside the SKAO process above, the ukSRC will run a **coincident call for resources on our national facilities**, timed to open with the SRCNet resource requests (step 5). Because SRCNet can only support a limited number of SV projects, this call lets us take on **additional UK-led projects on national resources** — giving UK teams a route to do their verification work even when SRCNet capacity is full.
+The ukSRC will **brief the UK community ahead of the SKAO's SV calls**, so UK teams are ready to lead SV projects from day one. Alongside the SKAO process above, the ukSRC will then run a **coincident call for resources on our national facilities**, timed to open with the SRCNet resource requests (step 5). Because SRCNet can only support a limited number of SV projects, this call lets us take on **additional UK-led projects on national resources** — giving UK teams a route to do their verification work even when SRCNet capacity is full.
 
 - **National resource allocation** — ukSRC compute for UK-led SV projects that sit outside the SRCNet allocation.
+- **Onboarding and support** for successful UK-led projects, as for the [science support programme](/science-projects/).
 - **Advanced HPC training** to support teams in carrying out their verification work.
 
 Successful applicants will be expected to provide feedback and a verification plan for their SV target, mirroring the SRCNet process.
