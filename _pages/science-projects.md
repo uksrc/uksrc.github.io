@@ -11,7 +11,7 @@ toc: true
 toc_label: "On this page"
 ---
 
-**The call is open.** Applications are accepted year-round. Apply by **1 December 2026** to join the first onboarding round in January 2027.
+**Opening soon.** The application form will be published on this page when the call opens. The first onboarding round is planned for January 2027. To be notified, email [uksrc-support@manchester.ac.uk](mailto:uksrc-support@manchester.ac.uk) or follow the channels on our [Work with us](/jobs/) page.
 {: .notice--info}
 
 The UK SKA Regional Centre (ukSRC) science support programme is a streamlined, year-round route for the UK radio astronomy community to access ukSRC resources and national computing infrastructure for their scientific research. It provides compute, storage, training and software help for SKAO-related science, including work with SKA precursors and pathfinders.
@@ -47,7 +47,7 @@ Successful applicants will have access to:
 
 ### Quarterly onboarding rounds
 
-The main route is rolling: applications are accepted throughout the year and assessed in batches. Selected projects are onboarded in quarterly rounds. To be considered for a round, submit your application by its deadline:
+Once the call opens, the main route is rolling: applications are accepted throughout the year and assessed in batches. Selected projects are onboarded in quarterly rounds. The planned onboarding rounds and application deadlines are:
 
 | Onboarding round | Application deadline |
 |---|---|
@@ -72,7 +72,7 @@ Director's discretionary time (DDT) is available **year-round for urgent, time-c
 
 ## How to apply
 
-Complete the [application form](#){: .btn .btn--primary}. Once we have received your application, a member of the ukSRC team will contact you about the next steps.
+The application form will be published here when the call opens. Once we have received your application, a member of the ukSRC team will contact you about the next steps.
 
 ## How applications are assessed
 
@@ -86,7 +86,7 @@ Successful applications are granted resources for **up to 12 months**. Projects 
 
 SKAO science verification (SV) begins in 2027. Projects on the programme will already be set up on ukSRC resources and familiar with our services when SV calls open. The ukSRC also plans a dedicated call for UK-led SV projects on national resources. See [science verification support](/science-verification/).
 
-**Already running a ukSRC demonstrator case?** To continue after December 2026, submit an application to this programme. Projects that apply will move across at the January 2027 renewal.
+**Already running a ukSRC demonstrator case?** To continue after December 2026, you will need to apply to this programme once the call opens. Projects that apply will move across at the January 2027 renewal.
 {: .notice}
 
 ## Contact
