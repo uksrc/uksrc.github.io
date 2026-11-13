@@ -51,7 +51,7 @@ Once the call opens, the main route is rolling: applications are accepted throug
 
 | Onboarding round | Application deadline |
 |---|---|
-| January 2027 | 1 December 2026 |
+| January 2027 | 7 December 2026 |
 | March 2027 | 1 March 2027 |
 | June 2027 | 1 June 2027 |
 | September 2027 | 1 September 2027 |
