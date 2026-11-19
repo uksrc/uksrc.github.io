@@ -9,11 +9,12 @@ header:
 author_profile: false
 toc: true
 toc_label: "On this page"
+git_last_modified: true
 ---
 
 This page summarises the compute and storage capacity currently available to projects on the [ukSRC science support programme](/science-projects/). Capacity is spread across up to three UK sites, and new resources come online across our partner sites every few months. This page will be updated as capacity changes.
 
-**Last updated:** <!-- TODO: insert date, e.g. 19 November 2026 -->
+**Last updated:** {% if page.last_modified_at %}{{ page.last_modified_at | date: "%-d %B %Y" }}{% else %}{{ site.time | date: "%-d %B %Y" }}{% endif %}
 {: .notice--info}
 
 **Please note:** the capacity figures on this page are estimates only and are provided as a guide. The ukSRC reserves the right to change the available capacity at any time without notice.
