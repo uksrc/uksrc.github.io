@@ -21,48 +21,56 @@ This page summarises the compute and storage capacity currently available to pro
 
 ## Summary
 
-<!-- TODO: short overview of total capacity available to the programme this round -->
+<!-- TODO: add a row for each site as figures become available -->
 
-| Resource | Total available to the programme |
-|---|---|
-| CPU cores | <!-- TODO --> |
-| GPUs | <!-- TODO --> |
-| Memory | <!-- TODO --> |
-| Storage | <!-- TODO --> |
+| Site | Scheduler | Total CPU cores | Total RAM | Total GPUs | Shared storage |
+| --- | --- | ---: | ---: | ---: | ---: |
+| [Cambridge](#cambridge) | Slurm | 684 | 6.3 TB | 4 | 173 TB |
+| <!-- TODO: site --> | <!-- TODO --> | <!-- TODO --> | <!-- TODO --> | <!-- TODO --> | <!-- TODO --> |
 
 ## Capacity by site
 
-<!-- TODO: duplicate this section for each site providing resources -->
+### Cambridge
 
-### Site 1 <!-- TODO: site name -->
+The Cambridge resources are run as a Slurm cluster.
 
-| Resource | Details |
-|---|---|
-| CPU | <!-- TODO: cores / node type --> |
-| GPU | <!-- TODO: number and model --> |
-| Memory | <!-- TODO: per node / total --> |
-| Storage | <!-- TODO: capacity and type --> |
-| Status | <!-- TODO: e.g. available now / coming online <month year> --> |
+#### Compute
 
-### Site 2 <!-- TODO: site name -->
+| Partition | Nodes | CPU cores / node | RAM / node | GPUs / node | Total CPU cores | Total RAM | Total GPUs | Max job walltime |
+| --- | ---: | ---: | ---: | --- | ---: | ---: | ---: | --- |
+| `a100_gpu` | 1 | 120 | 897 GB | 4 × NVIDIA A100-SXM4-80GB | 120 | 897 GB | 4 | 60 days |
+| `saphrapid_himem` (default) | 3 | 188 | 1.8 TB | – | 564 | 5.5 TB | 0 | 60 days |
+| **Total** | **4** | | | | **684** | **6.3 TB** | **4** | |
 
-| Resource | Details |
-|---|---|
-| CPU | <!-- TODO --> |
-| GPU | <!-- TODO --> |
-| Memory | <!-- TODO --> |
-| Storage | <!-- TODO --> |
-| Status | <!-- TODO --> |
+#### Shared storage
 
-### Site 3 <!-- TODO: site name -->
+| Mount point | Capacity |
+| --- | ---: |
+| `/home` | 2 TB |
+| `/scratch` | 98 TB |
+| `/shared` | 34 TB |
+| `/skadata` | 39 TB |
+| **Total** | **173 TB** |
 
-| Resource | Details |
-|---|---|
-| CPU | <!-- TODO --> |
-| GPU | <!-- TODO --> |
-| Memory | <!-- TODO --> |
-| Storage | <!-- TODO --> |
-| Status | <!-- TODO --> |
+<!-- TODO: copy the block below for each further site and fill it in
+
+### Site name
+
+#### Compute
+
+| Partition | Nodes | CPU cores / node | RAM / node | GPUs / node | Total CPU cores | Total RAM | Total GPUs | Max job walltime |
+| --- | ---: | ---: | ---: | --- | ---: | ---: | ---: | --- |
+| `partition` | | | | | | | | |
+| **Total** | | | | | | | | |
+
+#### Shared storage
+
+| Mount point | Capacity |
+| --- | ---: |
+| `/path` | |
+| **Total** | |
+
+-->
 
 ## Upcoming capacity
 
