@@ -23,7 +23,7 @@ The programme is a key part of how the ukSRC consults, co-designs and co-develop
 
 - **Apply at any time** with a short, light-touch application.
 - **New projects onboarded every quarter**, with basic HPC training for each round.
-- **Resources across up to three UK sites**, with new capacity coming online across our partner sites every few months.
+- **Resources across up to three UK sites**, with new capacity coming online across our partner sites every few months. See [current compute capacity](/science-projects/compute-capacity/).
 - **Fast-track director's discretionary time** for urgent, time-critical work, such as data that needs to be calibrated quickly.
 - **Ongoing support**: a helpdesk and knowledge base, quarterly check-ins and HPC training, plus a [specialist user support pilot](/specialist-user-support/) offering hands-on help.
 
@@ -79,7 +79,7 @@ Complete the [application form](https://forms.office.com/e/eTqHXcQ5DZ){: .btn .b
 
 We aim to support as many projects as possible. The number of projects we can support depends on the resources available. Where resources are limited, preference will be given to SKA-related projects.
 
-Applications receive a **light-touch assessment** of the resources requested against current ukSRC availability, mainly based on **data storage requirements**. The scientific objectives and merit of applications are **not** assessed.
+Applications receive a **light-touch assessment** of the resources requested against current ukSRC availability, mainly based on **data storage requirements**. See the [compute capacity page](/science-projects/compute-capacity/) for what is currently available. The scientific objectives and merit of applications are **not** assessed.
 
 Successful applications are granted resources for **up to 12 months**. Projects can be extended through annual user renewal and project reporting.
 

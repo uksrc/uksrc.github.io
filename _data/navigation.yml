@@ -53,6 +53,8 @@ main_menu:
         submenu:
         - title: "Science Support Programme"
           url: /science-projects/
+        - title: "Compute Capacity"
+          url: /science-projects/compute-capacity/
         - title: "Specialist User Support Pilot"
           url: /specialist-user-support/
       - title: "Science Tooling"
