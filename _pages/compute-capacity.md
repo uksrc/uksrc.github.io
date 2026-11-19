@@ -16,6 +16,9 @@ This page summarises the compute and storage capacity currently available to pro
 **Last updated:** <!-- TODO: insert date, e.g. 19 November 2026 -->
 {: .notice--info}
 
+**Please note:** the capacity figures on this page are estimates only and are provided as a guide. The ukSRC reserves the right to change the available capacity at any time without notice.
+{: .notice--warning}
+
 ## Summary
 
 <!-- TODO: short overview of total capacity available to the programme this round -->
