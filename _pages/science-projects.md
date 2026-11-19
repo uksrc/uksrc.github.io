@@ -41,7 +41,7 @@ Successful applicants will have access to:
 
 ## Who can apply
 
-- We welcome applications from **all astronomy and astrophysics fields**, including projects using SKA precursors and pathfinders.
+- We welcome applications from **all astronomy and astrophysics fields**, including projects using SKA precursors and pathfinders. **Preference will be given to SKA-related projects.**
 - Projects may involve international users, but the **PI must be affiliated with a UK institute**.
 
 ## Ways to get time
@@ -77,7 +77,7 @@ Complete the [application form](https://forms.office.com/e/eTqHXcQ5DZ){: .btn .b
 
 ## How applications are assessed
 
-We aim to support as many projects as possible. The number of projects we can support depends on the resources available.
+We aim to support as many projects as possible. The number of projects we can support depends on the resources available. Where resources are limited, preference will be given to SKA-related projects.
 
 Applications receive a **light-touch assessment** of the resources requested against current ukSRC availability, mainly based on **data storage requirements**. The scientific objectives and merit of applications are **not** assessed.
 
